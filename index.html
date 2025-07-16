@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FMIR Kviz - Kontrolisan redosled</title>
+    <title>FMIR Kviz - Kontrola nasumičnog redosleda</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * {
@@ -212,7 +212,7 @@
             margin: 30px 0 20px;
         }
         
-        .control-group {
+        .random-toggle-container {
             display: flex;
             gap: 15px;
             align-items: center;
@@ -222,7 +222,7 @@
             box-shadow: 0 4px 10px rgba(0,0,0,0.1);
         }
         
-        .control-group label {
+        .random-toggle-container label {
             font-size: 1.2rem;
             font-weight: 500;
             color: #333;
@@ -304,12 +304,11 @@
             box-shadow: none;
         }
         
-        .random-next-btn {
+        .random-mode-btn {
             background: linear-gradient(to right, #ff8c00, #ff4500);
-            display: none;
         }
         
-        .random-next-btn.active {
+        .random-mode-btn.active {
             background: linear-gradient(to right, #ff4500, #8b0000);
             transform: scale(1.05);
             box-shadow: 0 0 15px rgba(255, 69, 0, 0.5);
@@ -620,6 +619,22 @@
             text-shadow: 0 1px 2px rgba(0,0,0,0.3);
         }
         
+        .random-info {
+            background-color: #fff8e1;
+            border-left: 4px solid #ff8c00;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            font-size: 1.1rem;
+            text-align: center;
+            display: none;
+        }
+        
+        .random-info i {
+            color: #ff8c00;
+            margin-right: 10px;
+        }
+        
         @media (max-width: 768px) {
             .container {
                 width: 100%;
@@ -664,34 +679,14 @@
                 align-items: center;
                 gap: 15px;
             }
-            
-            .control-group {
-                width: 100%;
-                justify-content: center;
-            }
-        }
-        
-        .random-info {
-            background-color: #fff8e1;
-            border-left: 4px solid #ff8c00;
-            padding: 15px;
-            border-radius: 8px;
-            margin: 20px 0;
-            font-size: 1.1rem;
-            display: none;
-        }
-        
-        .random-info i {
-            color: #ff8c00;
-            margin-right: 10px;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
-            <h1><i class="fas fa-graduation-cap"></i> FMIR Kviz - Kontrolisan redosled</h1>
-            <p>Pitanja u originalnom redosledu sa opcijom nasumičnog pitanja</p>
+            <h1><i class="fas fa-graduation-cap"></i> FMIR Kviz - Kontrola nasumičnog redosleda</h1>
+            <p>Prvobitni redosled pitanja sa opcijom nasumičnog prikaza</p>
         </div>
         
         <div class="github-info">
@@ -735,7 +730,7 @@
         </div>
         
         <div class="random-info" id="random-info">
-            <p><i class="fas fa-info-circle"></i> Uključili ste opciju nasumičnog pitanja. Sledeće pitanje će biti odabrano nasumično.</p>
+            <p><i class="fas fa-random"></i> Trenutno je uključen nasumični redosled pitanja</p>
         </div>
         
         <div class="progress-container" id="progress-container">
@@ -775,7 +770,9 @@
         <div class="buttons-container" id="buttons-container">
             <button id="prev-btn" class="btn"><i class="fas fa-arrow-left"></i> Prethodno</button>
             <button id="submit-btn" class="btn">Potvrdi odgovor</button>
-            <button id="random-next-btn" class="btn random-next-btn"><i class="fas fa-random"></i> Nasumično pitanje</button>
+            <button id="random-mode-btn" class="btn random-mode-btn">
+                <i class="fas fa-random"></i> Nasumična pitanja: Isključeno
+            </button>
             <button id="next-btn" class="btn">Sledeće <i class="fas fa-arrow-right"></i></button>
         </div>
         
@@ -800,7 +797,7 @@
         let incorrectCount = 0;
         let answerSubmitted = false;
         let userAnswers = [];
-        let randomNextEnabled = false; // Nasumično pitanje je isključeno po defaultu
+        let randomModeEnabled = false; // Nasumični redosled je isključen po defaultu
         let originalOrder = []; // Čuva originalni redosled pitanja
 
         // DOM Elementi - svi definisani na početku
@@ -820,7 +817,7 @@
         const submitButton = document.getElementById('submit-btn');
         const nextButton = document.getElementById('next-btn');
         const prevButton = document.getElementById('prev-btn');
-        const randomNextBtn = document.getElementById('random-next-btn');
+        const randomModeBtn = document.getElementById('random-mode-btn');
         const feedbackElement = document.getElementById('feedback');
         const questionCountElement = document.getElementById('question-count');
         const correctCountElement = document.getElementById('correct-count');
@@ -946,16 +943,19 @@
             prepareQuiz();
         });
 
-        // Dugme za nasumično pitanje
-        randomNextBtn.addEventListener('click', function() {
-            randomNextEnabled = true;
-            this.classList.add('active');
-            randomInfo.style.display = 'block';
+        // Dugme za uključivanje/isključivanje nasumičnog redosleda
+        randomModeBtn.addEventListener('click', function() {
+            randomModeEnabled = !randomModeEnabled;
             
-            // Sakrij dugme nakon što je aktivirano
-            setTimeout(() => {
-                randomNextBtn.style.display = 'none';
-            }, 2000);
+            if (randomModeEnabled) {
+                this.innerHTML = '<i class="fas fa-random"></i> Nasumična pitanja: Uključeno';
+                this.classList.add('active');
+                randomInfo.style.display = 'block';
+            } else {
+                this.innerHTML = '<i class="fas fa-random"></i> Nasumična pitanja: Isključeno';
+                this.classList.remove('active');
+                randomInfo.style.display = 'none';
+            }
         });
 
         // Kreiranje navigacije
@@ -1045,9 +1045,6 @@
             submitButton.disabled = userAnswers[currentQuestionIndex] !== null;
             nextButton.style.display = currentQuestionIndex < quizData.length - 1 ? 'block' : 'none';
             prevButton.style.display = currentQuestionIndex > 0 ? 'block' : 'none';
-            
-            // Prikaži dugme za nasumično pitanje samo ako nije već aktivirano
-            randomNextBtn.style.display = !randomNextEnabled && currentQuestionIndex < quizData.length - 1 ? 'inline-block' : 'none';
             
             // Ažuriraj progress bar
             const progress = ((currentQuestionIndex) / quizData.length) * 100;
@@ -1154,12 +1151,14 @@
         // Sledeće pitanje
         function nextQuestion() {
             if (currentQuestionIndex < quizData.length - 1) {
-                // Ako je aktivirano nasumično pitanje, odaberi nasumično sledeće
-                if (randomNextEnabled) {
+                // Ako je uključen nasumični redosled, odaberi nasumično pitanje
+                if (randomModeEnabled) {
                     // Napravi listu neodgovorenih pitanja
                     const unansweredIndices = [];
-                    for (let i = currentQuestionIndex + 1; i < quizData.length; i++) {
-                        unansweredIndices.push(i);
+                    for (let i = 0; i < quizData.length; i++) {
+                        if (userAnswers[i] === null && i !== currentQuestionIndex) {
+                            unansweredIndices.push(i);
+                        }
                     }
                     
                     // Ako ima neodgovorenih pitanja, odaberi nasumično
@@ -1174,11 +1173,6 @@
                     // Standardno - idemo na sledeće pitanje
                     currentQuestionIndex++;
                 }
-                
-                // Resetuj nasumično pitanje za sledeći put
-                randomNextEnabled = false;
-                randomNextBtn.classList.remove('active');
-                randomInfo.style.display = 'none';
                 
                 showQuestion();
             } else {
@@ -1229,11 +1223,16 @@
             score = 0;
             correctCount = 0;
             incorrectCount = 0;
-            randomNextEnabled = false;
+            randomModeEnabled = false;
             userAnswers = Array(quizData.length).fill(null);
             
             // Vrati originalni redosled pitanja
             quizData = [...originalOrder];
+            
+            // Resetuj dugme za nasumični redosled
+            randomModeBtn.innerHTML = '<i class="fas fa-random"></i> Nasumična pitanja: Isključeno';
+            randomModeBtn.classList.remove('active');
+            randomInfo.style.display = 'none';
             
             // Prikaži potrebne elemente
             progressContainer.style.display = 'block';
@@ -1243,12 +1242,9 @@
             navigationGrid.style.display = 'grid';
             resultsElement.style.display = 'none';
             errorMessage.style.display = 'none';
-            randomInfo.style.display = 'none';
-            randomNextBtn.classList.remove('active');
             
             // Resetuj dugmad
             submitButton.disabled = true;
-            randomNextBtn.style.display = 'none';
             
             // Prikaži prvo pitanje
             showQuestion();
