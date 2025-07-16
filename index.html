@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FMIR Kviz - Automatsko učitavanje</title>
+    <title>FMIR Kviz - Kontrolisan redosled</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         * {
@@ -76,13 +76,6 @@
             text-align: center;
             border-left: 5px solid #1a2a6c;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-            animation: pulse 2s infinite;
-        }
-        
-        @keyframes pulse {
-            0% { transform: scale(1); }
-            50% { transform: scale(1.01); }
-            100% { transform: scale(1); }
         }
         
         .github-info p {
@@ -160,12 +153,6 @@
             font-size: 4rem;
             color: #1a2a6c;
             margin-bottom: 20px;
-            animation: bounce 2s infinite;
-        }
-        
-        @keyframes bounce {
-            0%, 100% { transform: translateY(0); }
-            50% { transform: translateY(-10px); }
         }
         
         .upload-text {
@@ -315,6 +302,17 @@
             cursor: not-allowed;
             transform: none;
             box-shadow: none;
+        }
+        
+        .random-next-btn {
+            background: linear-gradient(to right, #ff8c00, #ff4500);
+            display: none;
+        }
+        
+        .random-next-btn.active {
+            background: linear-gradient(to right, #ff4500, #8b0000);
+            transform: scale(1.05);
+            box-shadow: 0 0 15px rgba(255, 69, 0, 0.5);
         }
         
         .progress-container {
@@ -506,7 +504,6 @@
             color: #1a2a6c;
             margin: 30px 0;
             text-shadow: 3px 3px 6px rgba(0,0,0,0.15);
-            animation: pulse 2s infinite;
         }
         
         .restart-btn {
@@ -613,13 +610,6 @@
             display: none;
             font-size: 1.2rem;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-            animation: shake 0.5s;
-        }
-        
-        @keyframes shake {
-            0%, 100% { transform: translateX(0); }
-            20%, 60% { transform: translateX(-5px); }
-            40%, 80% { transform: translateX(5px); }
         }
         
         .footer {
@@ -680,13 +670,28 @@
                 justify-content: center;
             }
         }
+        
+        .random-info {
+            background-color: #fff8e1;
+            border-left: 4px solid #ff8c00;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            font-size: 1.1rem;
+            display: none;
+        }
+        
+        .random-info i {
+            color: #ff8c00;
+            margin-right: 10px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <div class="header">
-            <h1><i class="fas fa-graduation-cap"></i> FMIR Kviz - Automatsko učitavanje</h1>
-            <p>Pitanja se automatski učitavaju sa GitHub repozitorijuma - spremni ste da testirate svoje znanje!</p>
+            <h1><i class="fas fa-graduation-cap"></i> FMIR Kviz - Kontrolisan redosled</h1>
+            <p>Pitanja u originalnom redosledu sa opcijom nasumičnog pitanja</p>
         </div>
         
         <div class="github-info">
@@ -718,14 +723,6 @@
             <div id="file-name" class="file-name">Nijedan fajl nije odabran</div>
             
             <div class="controls">
-                <div class="control-group">
-                    <label for="random-order">Nasumičan redosled pitanja:</label>
-                    <label class="random-toggle">
-                        <input type="checkbox" id="random-order" checked>
-                        <span class="slider"></span>
-                    </label>
-                </div>
-                
                 <button id="start-quiz-btn" class="btn">
                     <i class="fas fa-play-circle"></i> Pokreni kviz
                 </button>
@@ -735,6 +732,10 @@
         <div class="error-message" id="error-message">
             <p><i class="fas fa-exclamation-triangle"></i> Došlo je do greške pri učitavanju fajla.</p>
             <p>Proverite da li je fajl u ispravnom JSON formatu.</p>
+        </div>
+        
+        <div class="random-info" id="random-info">
+            <p><i class="fas fa-info-circle"></i> Uključili ste opciju nasumičnog pitanja. Sledeće pitanje će biti odabrano nasumično.</p>
         </div>
         
         <div class="progress-container" id="progress-container">
@@ -774,6 +775,7 @@
         <div class="buttons-container" id="buttons-container">
             <button id="prev-btn" class="btn"><i class="fas fa-arrow-left"></i> Prethodno</button>
             <button id="submit-btn" class="btn">Potvrdi odgovor</button>
+            <button id="random-next-btn" class="btn random-next-btn"><i class="fas fa-random"></i> Nasumično pitanje</button>
             <button id="next-btn" class="btn">Sledeće <i class="fas fa-arrow-right"></i></button>
         </div>
         
@@ -798,14 +800,14 @@
         let incorrectCount = 0;
         let answerSubmitted = false;
         let userAnswers = [];
-        let randomOrderEnabled = true; // Podrazumevano uključeno
+        let randomNextEnabled = false; // Nasumično pitanje je isključeno po defaultu
+        let originalOrder = []; // Čuva originalni redosled pitanja
 
         // DOM Elementi - svi definisani na početku
         const githubStatus = document.getElementById('github-status');
         const jsonFileInput = document.getElementById('json-file');
         const fileNameElement = document.getElementById('file-name');
         const startQuizBtn = document.getElementById('start-quiz-btn');
-        const randomOrderToggle = document.getElementById('random-order');
         const errorMessage = document.getElementById('error-message');
         const progressContainer = document.getElementById('progress-container');
         const progressBar = document.getElementById('progress-bar');
@@ -818,6 +820,7 @@
         const submitButton = document.getElementById('submit-btn');
         const nextButton = document.getElementById('next-btn');
         const prevButton = document.getElementById('prev-btn');
+        const randomNextBtn = document.getElementById('random-next-btn');
         const feedbackElement = document.getElementById('feedback');
         const questionCountElement = document.getElementById('question-count');
         const correctCountElement = document.getElementById('correct-count');
@@ -829,6 +832,7 @@
         const restartButton = document.getElementById('restart-btn');
         const buttonsContainer = document.getElementById('buttons-container');
         const navigationGrid = document.getElementById('navigation-grid');
+        const randomInfo = document.getElementById('random-info');
 
         // Funkcija za učitavanje JSON-a sa GitHub-a
         async function loadGitHubQuestions() {
@@ -845,6 +849,7 @@
                 }
                 
                 quizData = await response.json();
+                originalOrder = [...quizData]; // Sačuvaj originalni redosled
                 
                 // Validacija JSON-a
                 if (!Array.isArray(quizData) || quizData.length === 0) {
@@ -869,12 +874,6 @@
 
         // Priprema kviza nakon učitavanja pitanja
         function prepareQuiz() {
-            // Nasumičan redosled ako je aktiviran
-            randomOrderEnabled = randomOrderToggle.checked;
-            if (randomOrderEnabled) {
-                shuffleArray(quizData);
-            }
-            
             // Sakrij upload sekciju
             document.querySelector('.upload-section').style.display = 'none';
             
@@ -901,6 +900,7 @@
                 reader.onload = function(e) {
                     try {
                         quizData = JSON.parse(e.target.result);
+                        originalOrder = [...quizData]; // Sačuvaj originalni redosled
                         
                         // Validacija JSON-a
                         if (!Array.isArray(quizData) || quizData.length === 0) {
@@ -946,17 +946,16 @@
             prepareQuiz();
         });
 
-        // Provera za nasumičan redosled
-        randomOrderToggle.addEventListener('change', function() {
-            randomOrderEnabled = this.checked;
+        // Dugme za nasumično pitanje
+        randomNextBtn.addEventListener('click', function() {
+            randomNextEnabled = true;
+            this.classList.add('active');
+            randomInfo.style.display = 'block';
             
-            // Ako kviz već traje, ponovo mešamo pitanja
-            if (quizData.length > 0 && stats.style.display === 'flex') {
-                if (randomOrderEnabled) {
-                    shuffleArray(quizData);
-                }
-                restartQuiz();
-            }
+            // Sakrij dugme nakon što je aktivirano
+            setTimeout(() => {
+                randomNextBtn.style.display = 'none';
+            }, 2000);
         });
 
         // Kreiranje navigacije
@@ -1046,6 +1045,9 @@
             submitButton.disabled = userAnswers[currentQuestionIndex] !== null;
             nextButton.style.display = currentQuestionIndex < quizData.length - 1 ? 'block' : 'none';
             prevButton.style.display = currentQuestionIndex > 0 ? 'block' : 'none';
+            
+            // Prikaži dugme za nasumično pitanje samo ako nije već aktivirano
+            randomNextBtn.style.display = !randomNextEnabled && currentQuestionIndex < quizData.length - 1 ? 'inline-block' : 'none';
             
             // Ažuriraj progress bar
             const progress = ((currentQuestionIndex) / quizData.length) * 100;
@@ -1152,7 +1154,32 @@
         // Sledeće pitanje
         function nextQuestion() {
             if (currentQuestionIndex < quizData.length - 1) {
-                currentQuestionIndex++;
+                // Ako je aktivirano nasumično pitanje, odaberi nasumično sledeće
+                if (randomNextEnabled) {
+                    // Napravi listu neodgovorenih pitanja
+                    const unansweredIndices = [];
+                    for (let i = currentQuestionIndex + 1; i < quizData.length; i++) {
+                        unansweredIndices.push(i);
+                    }
+                    
+                    // Ako ima neodgovorenih pitanja, odaberi nasumično
+                    if (unansweredIndices.length > 0) {
+                        const randomIndex = Math.floor(Math.random() * unansweredIndices.length);
+                        currentQuestionIndex = unansweredIndices[randomIndex];
+                    } else {
+                        // Ako nema više pitanja, idi na rezultate
+                        currentQuestionIndex++;
+                    }
+                } else {
+                    // Standardno - idemo na sledeće pitanje
+                    currentQuestionIndex++;
+                }
+                
+                // Resetuj nasumično pitanje za sledeći put
+                randomNextEnabled = false;
+                randomNextBtn.classList.remove('active');
+                randomInfo.style.display = 'none';
+                
                 showQuestion();
             } else {
                 showResults();
@@ -1202,7 +1229,11 @@
             score = 0;
             correctCount = 0;
             incorrectCount = 0;
+            randomNextEnabled = false;
             userAnswers = Array(quizData.length).fill(null);
+            
+            // Vrati originalni redosled pitanja
+            quizData = [...originalOrder];
             
             // Prikaži potrebne elemente
             progressContainer.style.display = 'block';
@@ -1212,9 +1243,12 @@
             navigationGrid.style.display = 'grid';
             resultsElement.style.display = 'none';
             errorMessage.style.display = 'none';
+            randomInfo.style.display = 'none';
+            randomNextBtn.classList.remove('active');
             
             // Resetuj dugmad
             submitButton.disabled = true;
+            randomNextBtn.style.display = 'none';
             
             // Prikaži prvo pitanje
             showQuestion();
