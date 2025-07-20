@@ -1,0 +1,1344 @@
+[
+  {
+    "question": "Scrum master tima radi na kritičnom zadatku kada mu se drugi član tima obrati za pomoć. Scrum master treba da:",
+    "options": [
+      {
+        "text": "Dovrši kritični zadatak, a zatim pomogne članu tima.",
+        "correct": false
+      },
+      {
+        "text": "Prvo pomogne članu tima, a zatim se vrati svom zadatku.",
+        "correct": true
+      },
+      {
+        "text": "Zamoli drugog člana tima da mu pomogne.",
+        "correct": false
+      },
+      {
+        "text": "Zamoli člana tima da se obrati vlasniku proizvoda.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Fond za podršku ženskom preduzetništvu objavio je konkurs za finansiranje inovativnih projekata usmerenih na unapređenje ženskog preduzetništva. Svestan izazova s kojima se može suočiti, Fond je postavio ključni uslov konkursa koji se odnosi na dostavljanje informacija o partnerima i sufinansijerima uključenim u projekte pri podnošenju konkursne prijave, i to do 30% vrednosti celokupnog projekta. Strategija za izbegavanje rizika koja je primenjena u opisanom primeru se zove:",
+    "options": [
+      {
+        "text": "Ignorisanje rizika",
+        "correct": false
+      },
+      {
+        "text": "Prebacivanje rizika",
+        "correct": false
+      },
+      {
+        "text": "Podnošenje rizika",
+        "correct": true
+      },
+      {
+        "text": "Podela rizika",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Scrum master tima radi na kritičnom zadatku kada mu se drugi član tima obrati za pomoć. Scrum master treba da:",
+    "options": [
+      {
+        "text": "Dovrši kritični zadatak, a zatim pomogne članu tima.",
+        "correct": false
+      },
+      {
+        "text": "Prvo pomogne članu tima, a zatim se vrati svom zadatku.",
+        "correct": true
+      },
+      {
+        "text": "Zamoli drugog člana tima da mu pomogne.",
+        "correct": false
+      },
+      {
+        "text": "Zamoli člana tima da se obrati vlasniku proizvoda.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koja je ključna karakteristika ugovora sa čvrsto fiksiranom cenom (FFP)?",
+    "options": [
+      {
+        "text": "Cena se menja u skladu sa tržištem",
+        "correct": false
+      },
+      {
+        "text": "Cena se menja ako se poveća broj isporuka",
+        "correct": false
+      },
+      {
+        "text": "Cena se ne menja osim ako ne dođe do promene obima posla",
+        "correct": true
+      },
+      {
+        "text": "Cena se menja svakih šest meseci",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kada se koristi ugovor sa fiksnom cenom i stimulativnim honorarom (FPIF)?",
+    "options": [
+      {
+        "text": "Kada postoji visoka inflacija",
+        "correct": false
+      },
+      {
+        "text": "Kada se želi podstaći isporuka pre roka ili u okviru budžeta",
+        "correct": true
+      },
+      {
+        "text": "Kada kupac ne zna tačno šta želi",
+        "correct": false
+      },
+      {
+        "text": "Kada je cena sirovina stabilna",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Šta omogućava ugovor sa fiksnom cenom i ekonomskom korekcijom (FPEPA)?",
+    "options": [
+      {
+        "text": "Povećanje cene zbog slabog kvaliteta",
+        "correct": false
+      },
+      {
+        "text": "Korekciju cene zbog promena tržišnih uslova poput inflacije",
+        "correct": true
+      },
+      {
+        "text": "Dodavanje dodatnih stavki bez promene cene",
+        "correct": false
+      },
+      {
+        "text": "Smanjenje obima isporuke bez posledica",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Dobavljač će dobiti dodatnih 5% ako završi projekat ranije ili ostvari uštedu u troškovima. O komtipu ugovora je reč?",
+    "options": [
+      {
+        "text": "Ugovor sa čvrsto fiksiranom cenom (FFP – Firm Fixed Price)",
+        "correct": false
+      },
+      {
+        "text": "Trošak + stimulativna naknada (CPIF – Cost Plus Incentive Fee)",
+        "correct": true
+      },
+      {
+        "text": "Trošak + nagradna naknada (CPAF – Cost Plus Award Fee)",
+        "correct": false
+      },
+      {
+        "text": "Trošak + fiksna naknada (CPFF – Cost Plus Fixed Fee)",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koji oblik angažovanja podrazumeva da davalac usluge samostalno izvršava ceo posao bez uključivanja trećih strana?",
+    "options": [
+      {
+        "text": "Kupac/davalac usluge bez podugovaranja (Buyer/services provider with no subcontracting)",
+        "correct": true
+      },
+      {
+        "text": "Kupac/davalac usluge sa podugovaranjem (Buyer/services provider with subcontracting allowed)",
+        "correct": false
+      },
+      {
+        "text": "Zajedničko ulaganje (Joint venture)",
+        "correct": false
+      },
+      {
+        "text": "Predstavnik kupca (Acts as representative)",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Šta se procenjuje kada se analizira \"verovatnoća\" u okviru procene rizika?",
+    "options": [
+      {
+        "text": "Kada se rizik pojavio u prethodnim projektima",
+        "correct": false
+      },
+      {
+        "text": "Kolika je šansa da se rizični događaj dogodi",
+        "correct": true
+      },
+      {
+        "text": "Koliki je finansijski gubitak",
+        "correct": false
+      },
+      {
+        "text": "Koliko se ljudi uključuje u upravljanje rizikom",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koja izjava je tačna u vezi sa razlikama u toleranciji na rizik?",
+    "options": [
+      {
+        "text": "Sve organizacije imaju isti prag rizika za trošak i kvalitet",
+        "correct": false
+      },
+      {
+        "text": "Sponzor nikada ne prihvata rizik u vezi s rokovima",
+        "correct": false
+      },
+      {
+        "text": "Tolerancija na rizik i pragovi rizika variraju u zavisnosti od pojedinca, organizacije i vrste rizika",
+        "correct": true
+      },
+      {
+        "text": "Prag rizika zavisi isključivo od regulatornog tela",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koji rizici su povezani sa promenama u tehnologiji, tehničkim procesima i interfejsima?",
+    "options": [
+      {
+        "text": "Komercijalni rizici",
+        "correct": false
+      },
+      {
+        "text": "Eksterni rizici",
+        "correct": false
+      },
+      {
+        "text": "Tehnički rizici",
+        "correct": true
+      },
+      {
+        "text": "Interni rizici",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Čemu služi RBS (Risk Breakdown Structure) u upravljanju rizicima?",
+    "options": [
+      {
+        "text": "Za analizu troškova projekta",
+        "correct": false
+      },
+      {
+        "text": "Za definisanje komunikacionih kanala",
+        "correct": false
+      },
+      {
+        "text": "Za identifikaciju, dokumentovanje i grupisanje rizika po kategorijama",
+        "correct": true
+      },
+      {
+        "text": "Za procenu učinka tima",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U građevinskoj firmi „GreenBuild“ identifikovan je rizik da softver za nadzor potrošnje energije neće biti završen na vreme, ali se posledice tog kašnjenja mogu osetiti tek nekoliko meseci kasnije, kada se objekti već počnu koristiti. Koji ključni parametar rizika je u pitanju?",
+    "options": [
+      {
+        "text": "Urgentnost",
+        "correct": false
+      },
+      {
+        "text": "Zakasnelo dejstvo",
+        "correct": true
+      },
+      {
+        "text": "Strateški uticaj",
+        "correct": false
+      },
+      {
+        "text": "Mogućnost upravljanja",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Apple koristi spoljne kompanije za transport i distribuciju iPhone uređaja širom sveta, jer te kompanije imaju više iskustva i kapaciteta za upravljanje logističkim rizicima. Koja strategija je ovde",
+    "options": [
+      {
+        "text": "Izbegavanje",
+        "correct": false
+      },
+      {
+        "text": "Prenošenje",
+        "correct": true
+      },
+      {
+        "text": "Ublažavanje",
+        "correct": false
+      },
+      {
+        "text": "Prihvatanje",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Google je procenio da postoji mali rizik kašnjenja kod uvođenja nove verzije Google Workspace aplikacije zbog moguće greške u kodu. Ipak, kompanija nije preduzela posebne mere, već je ostavila prostor u rasporedu za rešavanje problema ako se rizik ostvari. Koja strategija je primenjena?",
+    "options": [
+      {
+        "text": "Eskalacija",
+        "correct": false
+      },
+      {
+        "text": "Izbegavanje",
+        "correct": false
+      },
+      {
+        "text": "Ublažavanje",
+        "correct": false
+      },
+      {
+        "text": "Prihvatanje",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Agilni tim u kompaniji TechPay razvija aplikaciju za digitalna plaćanja. U backlog-u se nalazi stavka „Integracija sa eksternim bankarskim API-jem“, koja nosi visoku poslovnu vrednost, ali i visok tehnički rizik zbog neproverenih protokola. Tim odlučuje da tu stavku obradi u jednoj od prvih sprint iteracija, iako nije prva po poslovnoj vrednosti.Koji pristup backlog-u je primenjen u ovom slučaju?",
+    "options": [
+      {
+        "text": "Klasični backlog vođen samo poslovnom vrednošću",
+        "correct": false
+      },
+      {
+        "text": "Backlog prilagođen riziku",
+        "correct": true
+      },
+      {
+        "text": "Backlog sa nasumičnim rasporedom",
+        "correct": false
+      },
+      {
+        "text": "Kanban pristup sa vremenskim ograničenjem",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kompanija Uber objavila je interni memorandum zaposlenima o novim pravilima ponašanja tokom vožnje, koji je poslat svima putem e-pošte. Zaposleni nisu morali da odgovore, ali su morali da budu informisani. Koji metod komunikacije je Uber koristio u ovom slučaju?",
+    "options": [
+      {
+        "text": "Interaktivna komunikacija",
+        "correct": false
+      },
+      {
+        "text": "Push komunikacija",
+        "correct": true
+      },
+      {
+        "text": "Pull komunikacija",
+        "correct": false
+      },
+      {
+        "text": "Formalna eskalacija",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U projektu \"The Line\" primećeno je da tim za geoinženjering troši više od planiranih kapaciteta, dok tim za pametne tehnologije ima višak slobodnog vremena. Koji tip izveštaja bi to najverovatnije prikazao?",
+    "options": [
+      {
+        "text": "Izveštaj o budžetu",
+        "correct": false
+      },
+      {
+        "text": "Izveštaj za upravni odbor",
+        "correct": false
+      },
+      {
+        "text": "Izveštaj o opterećenju (Workload Report)",
+        "correct": true
+      },
+      {
+        "text": "Izveštaj o zatvaranju projekta",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Tokom izveštavanja o napretku projekta \"The Line\", tim navodi da je do sada potrošeno 60% budžeta, da je ostatak rezervisan za završnu fazu, ali postoji manjak u segmentu nabavke senzora. Koji izveštaj uključuje ove informacije?",
+    "options": [
+      {
+        "text": "Izveštaj o resursima",
+        "correct": false
+      },
+      {
+        "text": "Izveštaj o budžetu",
+        "correct": true
+      },
+      {
+        "text": "Izveštaj o zatvaranju projekta",
+        "correct": false
+      },
+      {
+        "text": "Izveštaj o vremenu",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Tokom realizacije projekta izgradnje geotermalne elektrane na Islandu, inženjer i projektni koordinator su se tokom pauze spontano dogovorili da predlože manju izmenu u planu cevovoda zbog terenskih uslova. Dogovor nije odmah dokumentovan, već će biti razmatran kasnije.Koja vrsta komunikacije je u pitanju?",
+    "options": [
+      {
+        "text": "Formalna verbalna",
+        "correct": false
+      },
+      {
+        "text": "Formalna pisana",
+        "correct": false
+      },
+      {
+        "text": "Neformalna pisana",
+        "correct": false
+      },
+      {
+        "text": "Neformalna verbalna",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U okviru projekta uvođenja javnog sistema električnih trotineta u Litvaniji, gradska uprava postavila je smernice o bezbednom korišćenju i pravilima parkiranja na posebnom portalu za korisnike, gde svi zainteresovani mogu samostalno pristupiti dokumentima u bilo kom trenutku. O povratnim informacijama nije bilo obavezne dvosmerne komunikacije.Koja komunikaciona metoda je najprikladnije korišćena u ovom slučaju?",
+    "options": [
+      {
+        "text": "Brifinzi timova i sastanci sa građanima",
+        "correct": false
+      },
+      {
+        "text": "E-pošta i interne mreže (intranet)",
+        "correct": false
+      },
+      {
+        "text": "Veb portali i repozitorijumi informacija (za „pull“ komunikaciju)",
+        "correct": true
+      },
+      {
+        "text": "Saopštenja za javnost i godišnji izveštaji",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Tokom realizacije IT projekta u agilnom okruženju, tim koristi test-driven development, definiše kriterijume prihvatanja za svaku funkcionalnost i održava redovne sastanke sa korisnicima kako bi unapredili razumevanje potreba. Kvalitet se proverava unutar svake iteracije, pre nego što funkcionalnost bude prihvaćena.Koji pristup upravljanju kvalitetom je najviše u skladu sa ovim pristupom?",
+    "options": [
+      {
+        "text": "Integrisanje kvaliteta u proces kroz prevenciju grešaka i definiciju prihvatanja u agilnom okruženju",
+        "correct": true
+      },
+      {
+        "text": "Korišćenje nezavisnog tima za testiranje po završetku sprinta",
+        "correct": false
+      },
+      {
+        "text": "Kontrola kvaliteta zasnovana na završnoj inspekciji",
+        "correct": false
+      },
+      {
+        "text": "Planiranje kvaliteta korišćenjem benchmarking alata pre početka razvoja",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U kompaniji Tesla, tokom testiranja novog modela automobila otkrivena je greška u softveru za automatsko parkiranje. Inženjerski tim je morao da izvrši dodatna podešavanja i testiranja pre početka isporuke vozila korisnicima. Trošak koji je pri tome nastao obuhvata vreme tima, dodatno testiranje i odlaganje isporuke.Kojoj kategoriji troškova kvaliteta ovaj slučaj pripada?",
+    "options": [
+      {
+        "text": "Trošak eksternih neusaglašenosti",
+        "correct": false
+      },
+      {
+        "text": "Trošak procene",
+        "correct": false
+      },
+      {
+        "text": "Trošak interne neusaglašenosti (Failure – interni)",
+        "correct": true
+      },
+      {
+        "text": "Trošak prevencije",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Tokom razvoja softverskog rešenja za poresku upravu, tim je definisao dokument koji sadrži sve relevantne standarde kvaliteta koje proizvod mora da ispuni, kriterijume prihvatanja funkcionalnosti, kao i metodologiju za inspekcije i testiranje. Ovaj dokument biće osnova za dalje upravljanje kvalitetom tokom celog trajanja projekta. Koji je izlaz procesa planiranja kvaliteta u ovom slučaju?",
+    "options": [
+      {
+        "text": "Prikupljanje podataka",
+        "correct": false
+      },
+      {
+        "text": "Organizaciona procesna sredstva",
+        "correct": false
+      },
+      {
+        "text": "Faktori iz spoljnog okruženja",
+        "correct": false
+      },
+      {
+        "text": "Plan upravljanja kvalitetom",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Šta od navedenog nije karakteristično za agilni način razmišljanja?",
+    "options": [
+      {
+        "text": "Pozdraviti promene",
+        "correct": false
+      },
+      {
+        "text": "Učiti kroz otkrivanje, tokom realizacije projekta",
+        "correct": false
+      },
+      {
+        "text": "Kontinuirano isporučivati vrednost",
+        "correct": false
+      },
+      {
+        "text": "Poštovati proces",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Lokalna samouprava na zapadu Srbije je donela svoju strategiju razvoja za naredni period od 10 godina. U okviru strategije postoji 4 prioriteta sa svojim skupovima različitih projekata i aktivnosti. Svaki projekat ima ulogu u ostvarenju prioriteta kome pripada, a svi prioriteti su povezani ciljevima strategije i zajedničkim korišćenjem resursa. Opisan je koji tip programa?",
+    "options": [
+      {
+        "text": "Tip programa - Organizacija za upravljanje programima",
+        "correct": false
+      },
+      {
+        "text": "Tip programa - Više projekata za jednog klijenta",
+        "correct": true
+      },
+      {
+        "text": "Tip programa - Megaprojekat",
+        "correct": false
+      },
+      {
+        "text": "Tip programa - Organizacija sa više projekata",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kompanija YellowBox bavi se logističkim poslovima za različite organizacije koje posluju na teritoriji Nemačke. Trenutno je u toku projekat od visoke važnosti, a čije je trajanje predviđenona tri godine. Marija je uključena u pripremanje izveštaja koji se tiču napretka realizacije projekta i stanja radova. Sam proces izveštavanja svodi se na prikupljanje i diseminaciju informacija o napretku projekta. Koji podproces modela  upravljanja komunikacijom obavlja Marija?",
+    "options": [
+      {
+        "text": "Administrativno zaključenje (zatvaranje)",
+        "correct": false
+      },
+      {
+        "text": "Planiranje komunikacije",
+        "correct": false
+      },
+      {
+        "text": "Distribuciju informacija",
+        "correct": true
+      },
+      {
+        "text": "Izveštavanje o izvođenju",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vi ste menadžer projekta koji trenutno sprovodi identifikaciju zahteva klijenata kako biste mogli da definišete ciljeve i mere kvaliteta za plan upravljanja kvalitetom Vašeg projekta. Dok to radite, najmlađi član tima Vas pita da mu objasnite koristi sprovođenja ovih aktivnosti. Šta biste odgovorili?",
+    "options": [
+      {
+        "text": "Ove aktivnosti pružaju smernice i uputstva o tome kako će se upravljati kvalitetom i verifikovati kvalitet proizvoda tokom celog projekta",
+        "correct": true
+      },
+      {
+        "text": "Ovim aktivnostima se proverava da li isporuke i rad odgovaraju zahtevima ključnih zainteresovanih strana.",
+        "correct": false
+      },
+      {
+        "text": "Ove aktivnosti obezbeđuju da stepen, tip i vidljivost upravljanja rizikom budu srazmerni rizicima i važnosti projekta za organizaciju i druge zainteresovane strane",
+        "correct": false
+      },
+      {
+        "text": "Ovim aktivnostima se povećava verovatnoća postizanja ciljeva kvaliteta, kao i uspešna identifikacija neefikasnih procesa i uzroka lošeg kvaliteta.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koja od sledećih izjava je tačna u vezi sa upravljanjem nabavkama na projektu?",
+    "options": [
+      {
+        "text": "Projektni menadžer treba da bude dovoljno upoznat sa procesima i odredbama koje se tiču procesa upravljanja nabavkama.",
+        "correct": true
+      },
+      {
+        "text": "Projektni menadžer ima ovlašćenje da potpiše pravne ugovore koji obavezuju organizaciju.",
+        "correct": false
+      },
+      {
+        "text": "Projektni menadžer mora biti obučen stručnjak za zakone i propise o upravljanju nabavkama.",
+        "correct": false
+      },
+      {
+        "text": "Ugovor opisuje odnos između dve strane, projektnog menadžera i njegove organizacije poslodavca.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Na kraju sprinta, agilni tim je isporučio četiri korisničke priče procenjene na ukupno 28 story points-a koje su bile 100% završene po definiciji urađenog, dok je jedna korisnička priča procenjena na 5 story points-a bila 70% završena. Koja je brzina tima u ovom sprintu?",
+    "options": [
+      {
+        "text": "7",
+        "correct": false
+      },
+      {
+        "text": "31.5",
+        "correct": false
+      },
+      {
+        "text": "33",
+        "correct": false
+      },
+      {
+        "text": "28",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koji od sledećih principa Agilnog manifesta reflektuje agilni fokus na rezultatski orijentisano ponašanje?",
+    "options": [
+      {
+        "text": "Funkcionalan softver je primarna mera napretka",
+        "correct": true
+      },
+      {
+        "text": "Pozdravljanje zahteva za promenu, čak i kasnije u razvoju",
+        "correct": false
+      },
+      {
+        "text": "Izgradnja projekta oko motivisanih pojedinaca",
+        "correct": false
+      },
+      {
+        "text": "Jednostavnost -veština maksimiziranja količine posla je suštinska",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U okviru kompanije \"J&J Motors\" svi članovi tima okupili su se kako bi definisali predstojeći sprint i način na koji će taj posao biti postignut. Vlasnik proizvoda je prezentovao ažurirane stavke u backlog-u, a zatim su diskutovali o njima kako bi obezbedili da imaju zajedničko razumevanje, nakon čega je razvojni tim izvršio procenu šta bi moglo biti isporučeno u okviru sprinta i definisao kriterijume za prihvatanje i testove. Korisničke priče su se podelile u taskove, a definisano je i ko će da radi na kom tasku. Koji događaj je u pitanju?",
+    "options": [
+      {
+        "text": "Sprint Retrospektiva",
+        "correct": false
+      },
+      {
+        "text": "Planiranje sprinta",
+        "correct": true
+      },
+      {
+        "text": "Dnevni Scrum",
+        "correct": false
+      },
+      {
+        "text": "Pregled Sprinta",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Tokom treće faze realizacije softverskog projekta projektni tim je uočio da je razvoj jedne funkcionalnosti potpuno zaboravljen. Iako su preventivne mere, koje bi trebalo da spreče ovu situaciju, bile deo plana upravljanja kvalitetom, otkrivanje da ova funkcionalnost nije razvijena je uticalo na ponovno obavljanje posla koji je prethodno bio prihvaćen i stvaranje dosta otpadnog koda. Koji tip troškova kvaliteta predstavljaju troškovi ponovnog rada i stvaranja viška otpada?",
+    "options": [
+      {
+        "text": "Troškovi neusaglašenosti - eksterni troškovi grešaka",
+        "correct": false
+      },
+      {
+        "text": "Troškovi usaglašenosti - troškovi procene",
+        "correct": false
+      },
+      {
+        "text": "Troškovi neusaglašenosti - interni troškovi grešaka",
+        "correct": true
+      },
+      {
+        "text": "Troškovi usaglašenosti - preventivni troškovi",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Tokom sastanka za ažuriranje statusa, prezentujete zainteresovanim stranama grafikon koji prati posao koji je preostao da se završi u odnosu na vreme koje je preostalo u ovom periodu projekta. Koju vrstu grafikona ste pokazali zainteresovanim stranama?",
+    "options": [
+      {
+        "text": "Burndown grafikon",
+        "correct": true
+      },
+      {
+        "text": "Gantogram",
+        "correct": false
+      },
+      {
+        "text": "Burnup grafikon",
+        "correct": false
+      },
+      {
+        "text": "Sprint backlog",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koje atributi se vezuju za korisničke priče?",
+    "options": [
+      {
+        "text": "Proverljive, velike",
+        "correct": false
+      },
+      {
+        "text": "Potvrđene, ekonomične",
+        "correct": false
+      },
+      {
+        "text": "Vitalne, velike",
+        "correct": false
+      },
+      {
+        "text": "Vredne, procenjive",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koje od sledećih vrednosti Agilnog manifesta su usko povezane sa radom u toku (work in progress - WIP)?",
+    "options": [
+      {
+        "text": "Radni softver preko sveobuhvatne dokumentacije",
+        "correct": false
+      },
+      {
+        "text": "Reagovanje na promenu u skladu sa planom",
+        "correct": false
+      },
+      {
+        "text": "Saradnja sa klijentima preko pregovora o ugovoru",
+        "correct": false
+      },
+      {
+        "text": "Pojedinci i interakcije nad procesima i alatima",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Milan je inženjer i jedan od 10 članova projektnog tima. Projektni sponzor, Dušan, konstantno ukazuje Milanu na lošiji kvalitet njegovog rada. Milan počinje da se nervira zbog Dušana jer smatra da krajnja odgovornost za kvalitet projekta nije njegova briga i da ne treba da se meša. Koja od sledećih izjava u najvećoj meri govori o tome ko je krajnje odgovoran za kvalitet projekta?",
+    "options": [
+      {
+        "text": "Menadžer kvaliteta je osoba koja je krajnje odgovorna za kvalitet na bilo kom projektu.",
+        "correct": false
+      },
+      {
+        "text": "Projektni sponzor treba da bude odgovoran za kvalitet projekta.",
+        "correct": false
+      },
+      {
+        "text": "Krajnja odgovornost za kvalitet projekta je na svim članovima projektnog tima. Osoba koja obavlja rad treba da se brine i osigura isporuku kvalitetnog proizvoda. 3 BODA",
+        "correct": true
+      },
+      {
+        "text": "Inženjer projekta je osoba koja je odgovorna za kvalitet projekta, pošto je inženjer jedini koji u potpunosti razume sve komponente proizvoda projekta. Question 14 Not yet answered",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Projekat za Državnu zdravstvenu agenciju je u fazi planiranja. Međutim, tokom rada dolazi do čestih nesuglasica između članova tima jer oni prvi put rade zajedno iako su svi izuzetno kompetentni. Takođe, projektni menadžer, koji je do sada postizao sjajne rezultate i kome je dodeljen ovaj projekat, do sada nije imao iskustva u radu unutar zdravstvene industrije i ne zna koju metodologiju za upravljanje projektom da primeni. Zbog toga, projektni sponzor sa članovima upravnog odora kompanija razmatra da li je tim dovoljno jak za realizaciju projekta i da li ih vodi adekvatan projektni menadžer. Koja vrsta rizika je opisana?",
+    "options": [
+      {
+        "text": "Finansijski rizici",
+        "correct": false
+      },
+      {
+        "text": "Organizacioni rizici",
+        "correct": false
+      },
+      {
+        "text": "Upravljački rizici",
+        "correct": false
+      },
+      {
+        "text": "Rizici vezani za ljudski faktor",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Marija je portfolio menadžer koja je odgovorna za realizaciju određenog poduhvata koji je njena kompanija definisala kao visoko prioritetan za poslovanje. Kao portfolio menadžer, Marija ima nekoliko program menadžera i projektnih menadžera koji je izveštavaju o uspešnosti i napretku izvršenja. Upravljanje portfoliom je složen proces, koji traži odgovarajuće razumevanje na višem nivou. Koja od navedenih tvrdnji se odnosi na upravljanje portfoliom?",
+    "options": [
+      {
+        "text": "Upravljanje portfoliom podrazumeva nezavisno vođenje nekoliko projekata.",
+        "correct": false
+      },
+      {
+        "text": "Upravljanje portfoliom ima definisan početak i kraj.",
+        "correct": false
+      },
+      {
+        "text": "Upravljanje portfoliom svodi se na distribuciju informacija na nivou jednog projekta.",
+        "correct": false
+      },
+      {
+        "text": "Upravljanje portfoliom se fokusira na maksimizaciju korišćenja raspoloživih resursa",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Veliki i kompleksan projekat koji uključuje koordinaciju nekoliko dobavljača se približava završetku. Menadžer projekta želi da pronađe informacije za formalno zatvaranje nabavke. Šta će menadžer projekta uraditi kako bi došao do traženih informacija?",
+    "options": [
+      {
+        "text": "Pregledaće registar sprovedenih nabavki.",
+        "correct": false
+      },
+      {
+        "text": "Proveriće matricu za praćenje stejkholdera i plan angažovanja stejkholdera.",
+        "correct": false
+      },
+      {
+        "text": "Pogledaće plan upravljanja nabavkom i zaključene ugovore sa dobavljačima.",
+        "correct": true
+      },
+      {
+        "text": "Pogledaće registar naučenih lekcija i prethodne ugovore sa sličnim dobavljačima.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kada je u pitanju odvojeni ugovor sa više izvođača, onda je odgovornost za koordinaciju i vođenje projekta na:",
+    "options": [
+      {
+        "text": "Izvođaču i konsultantu",
+        "correct": false
+      },
+      {
+        "text": "Podeljena odgovornost investitora, izvođača i konsultanta",
+        "correct": false
+      },
+      {
+        "text": "Izvođaču",
+        "correct": false
+      },
+      {
+        "text": "Investitoru",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kompanija Quantum, bavi se istraživanjem telekomunikacionih rešenja za potrebe drugih organizacija. Quantum obavlja veliki broj projekata istovremeno, tako da je okruženje u kome kompanija posluje okarakterisano kao složeno i dinamično. Iz navedenog razloga Quantum se odlučio za primenu projektno orijentisane organizacije. Šta od sledećeg bi predstavljalo karakteristiku projektno orijentisane organizacije?",
+    "options": [
+      {
+        "text": "nije potrebno obezbeđivanje IT infrastrukture",
+        "correct": false
+      },
+      {
+        "text": "realizacija više projekata, programa i portfolia sa čestim prekidima",
+        "correct": false
+      },
+      {
+        "text": "veliki oslonac na individualni rad",
+        "correct": false
+      },
+      {
+        "text": "primena mrežne i ravne organizacije",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Šta od sledećeg može da se koristi za davanje prioriteta stavkama u zaostatku?",
+    "options": [
+      {
+        "text": "Poslovna vrednost",
+        "correct": true
+      },
+      {
+        "text": "Trajanje",
+        "correct": false
+      },
+      {
+        "text": "Povezani rizici",
+        "correct": false
+      },
+      {
+        "text": "Cena",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koja od sledećih izjava najbolje opisuje retrospektivu?",
+    "options": [
+      {
+        "text": "Tim radi sa vlasnikom proizvoda kako bi dao prioritet stavkama u zaostatku proizvoda.",
+        "correct": false
+      },
+      {
+        "text": "Tim razgovara o tome šta će biti isporučeno u sledećoj iteraciji.",
+        "correct": false
+      },
+      {
+        "text": "Tim raspravlja o tome šta je pošlo kako treba, a šta pogrešno tokom iteracije i traži mogućnosti za poboljšanje.",
+        "correct": true
+      },
+      {
+        "text": "Održava se na kraju iteracije da bi se pregledao inkrement proizvoda izgrađen tokom iteracije.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Modna kuća \"Elegance Artistry\" planira da se pridruži velikoj dobrotvornoj kampanji koja podržava edukaciju dece iz manje razvijenih zajednica. Dizajnerski timovi su angažovani na stvaranju kolekcije koja će se predstaviti na ovom humanitarnom događaju. S obzirom da je se događaj održava za mesec dana, cilj je da se linija odevnih komada brzo kreira i isporuči. Koji životni ciklus bi bio najadekvatniji za upravljanje ovakvim projektom?",
+    "options": [
+      {
+        "text": "Agilni",
+        "correct": false
+      },
+      {
+        "text": "Inkrementalni",
+        "correct": true
+      },
+      {
+        "text": "Iterativni",
+        "correct": false
+      },
+      {
+        "text": "Prediktivni",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vaš tim radi na istraživanju novih tehnologija koje bi mogle unaprediti proces proizvodnje. Međutim, novi tehnički izazovi i nepredviđeni faktori u vezi sa razvojem tehnologije mogu dovesti do nepoznatih i potpuno neočekivanih promena u industriji te je zbog toga jako teško odabrati onu tehnologiju koja će moći da se koristi duže vreme. Ovaj primer predstavlja:",
+    "options": [
+      {
+        "text": "Rizik",
+        "correct": false
+      },
+      {
+        "text": "Strukturirana neizvesnost",
+        "correct": false
+      },
+      {
+        "text": "Nestrukturirana neizvesnost",
+        "correct": true
+      },
+      {
+        "text": "Izvesnost",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Članovi agilnog tima se svađaju oko prioriteta korisničkih priča. Kako scrum master treba postupiti u ovoj situaciji?",
+    "options": [
+      {
+        "text": "Objašnjava da je određivanje prioriteta proces koji se dešava tokom celog projekta i da se prioriteti menjaju 3 BODA",
+        "correct": true
+      },
+      {
+        "text": "Govori timu da je određivanje prioriteta samo odgovornost scrum mastera i da će on odrediti prioritete",
+        "correct": false
+      },
+      {
+        "text": "Dozvoljava članovima tima da definišu prioritet korisničkih priča",
+        "correct": false
+      },
+      {
+        "text": "Odmah zaustavlja sukob jer je on loš za rad tima",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Šta od sledećeg ne bi bilo prikladno pominjati tokom svakodnevnog scrum-a?",
+    "options": [
+      {
+        "text": "Kontakt za klijente je van kancelarije ove nedelje, što će odložiti trenutnu aktivnost do sledeće nedelje.",
+        "correct": true
+      },
+      {
+        "text": "Uspešno sam aktivirao dva sajta.",
+        "correct": false
+      },
+      {
+        "text": "Novi softver je uštedeo mnogo vremena jer je automatizovao proces izveštavanja.",
+        "correct": false
+      },
+      {
+        "text": "Pokušavamo da popravimo grešku otkrivenu juče koja je izazvala pad igre.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vlasnik proizvoda tima počinje pregled sprinta kratkim pregledom cilja sprinta i listom svih planiranih korisničkih priča na projektu sa statusom. Šta je vlasnik proizvoda trebalo da uradi drugačije?",
+    "options": [
+      {
+        "text": "Da prikaže samo završene korisničke priče i traži povratne informacije od zainteresovanih strana.",
+        "correct": true
+      },
+      {
+        "text": "Da istakne kako se dnevni scrum ne dokumentuje adekvatno.",
+        "correct": false
+      },
+      {
+        "text": "Da predstavi budžetsku situaciju i ukaže na varijacije troškova.",
+        "correct": false
+      },
+      {
+        "text": "Da pregleda rezultate testa (koje su prethodno uradili članovi razvojnog tima) kako bi stekao poverenje zainteresovanih strana.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ana, menadžer projekta, smatra da bi dodavanje opcije za automatsko generisanje izveštaja bilo uzbudljivo za kupce, jer bi to bio novi i neočekivan dodatak koji bi značajno unapredio funkcionalnost platforme. Marko, softverski inženjer, procenjuje da bi bolja organizacija korisničkog interfejsa bila zadovoljavajuća karakteristika, jer bi to poboljšalo upotrebljivost platforme, što bi korisnicima donelo vrednost. Jelena, analitičar podataka, smatra da bi nedostatak funkcionalnosti za personalizaciju izveštaja bio nezadovoljavajući za kupce, jer bi to moglo umanjiti njihovo zadovoljstvo, iako sama prisutnost ove karakteristike ne bi nužno povećala zadovoljstvo. Na kraju, Nikola, direktor marketinga, veruje da bi dodavanje opcije za praćenje analitike projekata moglo biti sporedno za kupce, jer smatra da to nije ključno za njihovo zadovoljstvo. Koju metodu prioritetizacije je primenio tim?",
+    "options": [
+      {
+        "text": "Procena afiniteta",
+        "correct": false
+      },
+      {
+        "text": "Monopol",
+        "correct": false
+      },
+      {
+        "text": "Metoda 100 poena",
+        "correct": false
+      },
+      {
+        "text": "Kano analiza",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Tim koji radi na organizaciji projekta „SMP 2023” je identifikovao određene rizične događaja. Dogovorili su se da pokušaju da naprave izmenu ugovora kako bi se oslobodili nekih obaveza koje nose identifikovani rizici i da se tim ugovorom deo rizika prenese na partnersku firmu, koja je sada odgovorna za upravljanje tim delovima rizika projekta. Ova strategija reakcije na rizik se naziva:",
+    "options": [
+      {
+        "text": "Prebacivanje rizika",
+        "correct": true
+      },
+      {
+        "text": "Smanjenje rizika",
+        "correct": false
+      },
+      {
+        "text": "Podnošenje rizika",
+        "correct": false
+      },
+      {
+        "text": "Podela rizika",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koja od sledećih tvrdnji opisuje ugovor sa fiksnom cenom i stimulativnim dodatkom?",
+    "options": [
+      {
+        "text": "Plaćanje troškova plus 5.400€ za svaki mesec realizacije projekat ukoliko se on završi pre Svetog Nikole.",
+        "correct": false
+      },
+      {
+        "text": "Plaćanje 540.000€ plus 5.400€ za svaki mesec koji se projekat završi ranije.",
+        "correct": true
+      },
+      {
+        "text": "Plaćanje svih troškova plus naknade od 5.400€.",
+        "correct": false
+      },
+      {
+        "text": "Plaćanje 540.000€ dolara.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Šta od sledećeg nije Scrum ceremonija?",
+    "options": [
+      {
+        "text": "Planiranje sprinta",
+        "correct": false
+      },
+      {
+        "text": "Retrospektiva",
+        "correct": false
+      },
+      {
+        "text": "Doterivanje product backlog-a",
+        "correct": true
+      },
+      {
+        "text": "Dnevni scrum",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Projektni tim tokom podprocesa kontrole kvaliteta meri kvalitet proizvoda na osnovu njihove grube kategoričke ocene (prihvatljiv/defektan). Koju tehniku kontrole kvaliteta primenjuje projektni tim?",
+    "options": [
+      {
+        "text": "Test tolerancije",
+        "correct": false
+      },
+      {
+        "text": "Varijabilno uzorkovanje",
+        "correct": false
+      },
+      {
+        "text": "Prevencija",
+        "correct": false
+      },
+      {
+        "text": "Atributivno uzorkovanje",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Scrum master tima radio je na kritičnom zadatku kada mu se drugi član tima obratio za pomoć. Scrum master treba da:",
+    "options": [
+      {
+        "text": "Dovrši kritični zadatak, a zatim pomogne članu tima.",
+        "correct": false
+      },
+      {
+        "text": "Zamoli drugog člana tima da mu pomogne.",
+        "correct": false
+      },
+      {
+        "text": "Prvo pomogne članu tima, a zatim se vrati svom zadatku.",
+        "correct": true
+      },
+      {
+        "text": "Zamoli člana tima da se obrati vlasniku proizvoda.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Na kraju sprinta, agilni tim je isporučio četiri korisničke priče procenjene na ukupno 33 story points-a koje su bile 100% završene po definiciji završenog, dok je jedna korisnička priča procenjena na 3 story points-a bila 70% završena. Koja je brzina tima u ovom sprintu?",
+    "options": [
+      {
+        "text": "33",
+        "correct": false
+      },
+      {
+        "text": "36",
+        "correct": false
+      },
+      {
+        "text": "35,1",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Aleksa je želeo da prikaže novi spektar boja za proizvod koja je više u skladu sa korporativnim brendiranjem. Koji je najbolji događaj za ovo?",
+    "options": [
+      {
+        "text": "Pregled sprinta",
+        "correct": true
+      },
+      {
+        "text": "Planiranje sprinta",
+        "correct": false
+      },
+      {
+        "text": "Sprint retrospektiva",
+        "correct": false
+      },
+      {
+        "text": "Dnevni scrum",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Projektni tim identifikuje niz tehničkih izazova sa karakteristikama u sledećem sprintu. Šta treba da rade?",
+    "options": [
+      {
+        "text": "Zamole tehničkog menadžera za pomoć.",
+        "correct": false
+      },
+      {
+        "text": "Da se samostalno organizuju za rad i odrede onoga ko je najbolje kvalifikovan da odgovori na izazove.",
+        "correct": true
+      },
+      {
+        "text": "Zamole vlasnika proizvoda da preraspodeli funkcije na drugi sprint.",
+        "correct": false
+      },
+      {
+        "text": "Zamole vlasnika proizvoda da dodeli zadatke najprikladnijim resursima.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koji je pristup koji Scrum tim treba da primeni kada utvrdi da će biti teško da isporuči bilo kakvu vrednost do kraja sprinta?",
+    "options": [
+      {
+        "text": "Zajedno sa vlasnikom proizvoda fokusirati se na ono što se može uraditi i identifikovati način da se isporuči nešto vredno na kraju svakog Sprinta.",
+        "correct": true
+      },
+      {
+        "text": "Predložiti vlasniku proizvoda da prekine Sprint.",
+        "correct": false
+      },
+      {
+        "text": "Treba se odmah obratiti višem rukovodstvu.",
+        "correct": false
+      },
+      {
+        "text": "Produžiti sprint za nekoliko dana kako bi se prilagodio dodatni posao.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kada je sprint gotov?",
+    "options": [
+      {
+        "text": "Kada sve stavke iz sprint backlog-a zadovolje svoju definiciju „gotovo“.",
+        "correct": false
+      },
+      {
+        "text": "Kada su svi taskovi završeni.",
+        "correct": false
+      },
+      {
+        "text": "Kada vlasnik proizvoda kaže da je \"gotovo\".",
+        "correct": false
+      },
+      {
+        "text": "Kada rok istekne.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Prema Agilnom manifestu, koji način komunikacije sa i u okviru razvojnog tima se smatra najefikasnijim i najefektivnijim?",
+    "options": [
+      {
+        "text": "Elektronska komunikacija (npr. e-mail), jer omogućava praćenje razgovora i kasniji pregled informacija.",
+        "correct": false
+      },
+      {
+        "text": "Pisani dokumenti, jer omogućavaju trajno evidentiranje odluka i informacija dostupnih široj publici.",
+        "correct": false
+      },
+      {
+        "text": "Formalni sastanci sa unapred definisanim agendama, jer pružaju strukturu i jasnoću u komunikaciji.",
+        "correct": false
+      },
+      {
+        "text": "Direktna komunikacija licem u lice, jer omogućava brži prenos informacija, uključujući emocije i govor tela.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  }
+]
