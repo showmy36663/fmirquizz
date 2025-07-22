@@ -1,2360 +1,4208 @@
 [
   {
-    "question": "Scrum master tima radi na kritičnom zadatku kada mu se drugi član tima obrati za pomoć. Scrum master treba da:",
+    "question": "Menične radnje nisu:",
     "options": [
       {
-        "text": "Dovrši kritični zadatak, a zatim pomogne članu tima.",
+        "text": "akceptiranje",
         "correct": false
       },
       {
-        "text": "Prvo pomogne članu tima, a zatim se vrati svom zadatku.",
+        "text": "certifikacija",
         "correct": true
       },
       {
-        "text": "Zamoli drugog člana tima da mu pomogne.",
+        "text": "opoziv",
+        "correct": true
+      },
+      {
+        "text": "amortizacija",
         "correct": false
       },
       {
-        "text": "Zamoli člana tima da se obrati vlasniku proizvoda.",
+        "text": "jemstvo (avaliranje)",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Fond za podršku ženskom preduzetništvu objavio je konkurs za finansiranje inovativnih projekata usmerenih na unapređenje ženskog preduzetništva. Svestan izazova s kojima se može suočiti, Fond je postavio ključni uslov konkursa koji se odnosi na dostavljanje informacija o partnerima i sufinansijerima uključenim u projekte pri podnošenju konkursne prijave, i to do 30% vrednosti celokupnog projekta. Strategija za izbegavanje rizika koja je primenjena u opisanom primeru se zove:",
+    "question": "Koji od finansijskih izveštaja nisu ključni:",
     "options": [
       {
-        "text": "Ignorisanje rizika",
-        "correct": false
+        "text": "glavna knjiga",
+        "correct": true
       },
       {
-        "text": "Prebacivanje rizika",
+        "text": "bilans uspeha",
         "correct": false
       },
       {
-        "text": "Podnošenje rizika",
+        "text": "dnevnik",
         "correct": true
       },
       {
-        "text": "Podela rizika",
+        "text": "izveštaj o novčanim tokovima",
         "correct": false
+      },
+      {
+        "text": "izveštaj o prometu sredstava",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Scrum master tima radi na kritičnom zadatku kada mu se drugi član tima obrati za pomoć. Scrum master treba da:",
+    "question": "U bilansu uspeha se mogu naci:",
     "options": [
       {
-        "text": "Dovrši kritični zadatak, a zatim pomogne članu tima.",
+        "text": "NV prodate robe",
+        "correct": true
+      },
+      {
+        "text": "Menicna potrazivanja //sredstva, bilans stanja",
         "correct": false
       },
       {
-        "text": "Prvo pomogne članu tima, a zatim se vrati svom zadatku.",
+        "text": "Pozitivne kursne razlike",
         "correct": true
       },
       {
-        "text": "Zamoli drugog člana tima da mu pomogne.",
+        "text": "Dugorocna finansijska ulaganja",
         "correct": false
       },
       {
-        "text": "Zamoli člana tima da se obrati vlasniku proizvoda.",
+        "text": "Prihodi od aktivacije sopstvenih ucinaka",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koja je ključna karakteristika ugovora sa čvrsto fiksiranom cenom (FFP)?",
+    "question": "Rast amortizacije kao finansijskog troška će usloviti porast:",
     "options": [
+      {
+        "text": "KOZ",
+        "correct": false
+      },
       {
-        "text": "Cena se menja u skladu sa tržištem",
+        "text": "racija pokrića kamata",
         "correct": false
       },
       {
-        "text": "Cena se menja ako se poveća broj isporuka",
+        "text": "BRL",
         "correct": false
       },
       {
-        "text": "Cena se ne menja osim ako ne dođe do promene obima posla",
+        "text": "FPL",
         "correct": true
       },
       {
-        "text": "Cena se menja svakih šest meseci",
+        "text": "NOS",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Kada se koristi ugovor sa fiksnom cenom i stimulativnim honorarom (FPIF)?",
+    "question": "Koja se kamatna stopa najcesce koristi kod revolving kredita?",
     "options": [
-      {
-        "text": "Kada postoji visoka inflacija",
-        "correct": false
-      },
       {
-        "text": "Kada se želi podstaći isporuka pre roka ili u okviru budžeta",
+        "text": "Fiksna",
         "correct": true
-      },
-      {
-        "text": "Kada kupac ne zna tačno šta želi",
-        "correct": false
-      },
-      {
-        "text": "Kada je cena sirovina stabilna",
-        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Šta omogućava ugovor sa fiksnom cenom i ekonomskom korekcijom (FPEPA)?",
+    "question": "U 5K kreditnoj analizi, kapital označava:",
     "options": [
+      {
+        "text": "Dovoljnost novčanih tokova",
+        "correct": true
+      },
       {
-        "text": "Povećanje cene zbog slabog kvaliteta",
+        "text": "Dovoljnost obrtnih sredstava",
         "correct": false
       },
       {
-        "text": "Korekciju cene zbog promena tržišnih uslova poput inflacije",
-        "correct": true
+        "text": "Dovoljnost ostvarenih Prihoda",
+        "correct": false
       },
       {
-        "text": "Dodavanje dodatnih stavki bez promene cene",
+        "text": "Dovoljnost sopstvenog kapitala",
         "correct": false
       },
       {
-        "text": "Smanjenje obima isporuke bez posledica",
+        "text": "Dovoljnost osnovnih sredstava",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Dobavljač će dobiti dodatnih 5% ako završi projekat ranije ili ostvari uštedu u troškovima. O komtipu ugovora je reč?",
+    "question": "Metoda kojom se sadašnja vrednost budućih priliva izjednačava sa kapitalnim izdatkom:",
     "options": [
       {
-        "text": "Ugovor sa čvrsto fiksiranom cenom (FFP – Firm Fixed Price)",
+        "text": "indeks profitabilnosti",
         "correct": false
       },
       {
-        "text": "Trošak + stimulativna naknada (CPIF – Cost Plus Incentive Fee)",
-        "correct": true
+        "text": "neto sadašnja vrednost",
+        "correct": false
       },
       {
-        "text": "Trošak + nagradna naknada (CPAF – Cost Plus Award Fee)",
+        "text": "trošak kapitala",
         "correct": false
+      },
+      {
+        "text": "interna stopa prinosa",
+        "correct": true
       },
       {
-        "text": "Trošak + fiksna naknada (CPFF – Cost Plus Fixed Fee)",
+        "text": "period povraćaja",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koji oblik angažovanja podrazumeva da davalac usluge samostalno izvršava ceo posao bez uključivanja trećih strana?",
+    "question": "Vertikalna pravila finansiranja:",
     "options": [
       {
-        "text": "Kupac/davalac usluge bez podugovaranja (Buyer/services provider with no subcontracting)",
+        "text": "pravilo za odnos osnovnog kapitala i rezervi",
         "correct": true
       },
       {
-        "text": "Kupac/davalac usluge sa podugovaranjem (Buyer/services provider with subcontracting allowed)",
-        "correct": false
+        "text": "pravilo za odnos dugoročnog prema kratkoročnom kapitalu",
+        "correct": true
+      },
+      {
+        "text": "pravilo za odnos sopstvenog i tuđeg kapitala",
+        "correct": true
       },
       {
-        "text": "Zajedničko ulaganje (Joint venture)",
+        "text": "zlatno bilansno pravilo",
         "correct": false
       },
       {
-        "text": "Predstavnik kupca (Acts as representative)",
+        "text": "zlatno bankarsko pravilo",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Šta se procenjuje kada se analizira \"verovatnoća\" u okviru procene rizika?",
+    "question": "Lice koje izdaje nalog da se iz njegovog pokrića po čeku isplati neko drugo lice na koje je ček trasiran, naziva se:",
     "options": [
+      {
+        "text": "Trasant - daje nalog ja",
+        "correct": true
+      },
       {
-        "text": "Kada se rizik pojavio u prethodnim projektima",
+        "text": "Trasat –ima obavezu da isplati banka",
         "correct": false
       },
       {
-        "text": "Kolika je šansa da se rizični događaj dogodi",
-        "correct": true
+        "text": "Indosant – prenosilac prava ili stari vlasnik",
+        "correct": false
       },
       {
-        "text": "Koliki je finansijski gubitak",
+        "text": "Indosatar - primalac prava ili novi vlasnik",
         "correct": false
       },
       {
-        "text": "Koliko se ljudi uključuje u upravljanje rizikom",
+        "text": "Remitent // lice kome se ili po cijoj naredbi mora u roku platiti menicna obaveza infosoft",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koja izjava je tačna u vezi sa razlikama u toleranciji na rizik?",
+    "question": "Lice koje daje nalog da se u njegovo ime izvrsi isplata po menici:",
     "options": [
+      {
+        "text": "Trasat – lice oznaceno kao duznik po menici",
+        "correct": false
+      },
       {
-        "text": "Sve organizacije imaju isti prag rizika za trošak i kvalitet",
+        "text": "remitent – lice kome se ili po cijoj naredbi mora u roku platiti men obaveza",
         "correct": false
       },
       {
-        "text": "Sponzor nikada ne prihvata rizik u vezi s rokovima",
+        "text": "Akceptant-onaj ko daje potvrdu da ce menica biti isplacena",
         "correct": false
       },
       {
-        "text": "Tolerancija na rizik i pragovi rizika variraju u zavisnosti od pojedinca, organizacije i vrste rizika",
+        "text": "Trasant – lice koje je izdalo menicu",
         "correct": true
       },
       {
-        "text": "Prag rizika zavisi isključivo od regulatornog tela",
+        "text": "Indosant-onaj ko prenosi menicu na drugoga",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koji rizici su povezani sa promenama u tehnologiji, tehničkim procesima i interfejsima?",
+    "question": "Proces kojim se sagledava buduće stanje bez postavljanja ciljeva i inteziteta željenih radnji je:",
     "options": [
       {
-        "text": "Komercijalni rizici",
+        "text": "budžetiranje",
         "correct": false
       },
       {
-        "text": "Eksterni rizici",
+        "text": "strategijsko planiranje",
         "correct": false
       },
       {
-        "text": "Tehnički rizici",
+        "text": "finansijsko predviđanje",
         "correct": true
+      },
+      {
+        "text": "finansijsko izveštavanje",
+        "correct": false
       },
       {
-        "text": "Interni rizici",
+        "text": "finansijsko planiranje",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Čemu služi RBS (Risk Breakdown Structure) u upravljanju rizicima?",
+    "question": "Tržište na kome se trguje kratkoročnim novčanim sredstavima:",
     "options": [
       {
-        "text": "Za analizu troškova projekta",
-        "correct": false
+        "text": "novčano tržište",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Nedepozitne finansijske institucije su:",
+    "options": [
+      {
+        "text": "penzioni fondovi",
+        "correct": true
+      },
+      {
+        "text": "investicioni fondovi",
+        "correct": true
       },
       {
-        "text": "Za definisanje komunikacionih kanala",
+        "text": "kreditno - štedne institucije",
         "correct": false
       },
       {
-        "text": "Za identifikaciju, dokumentovanje i grupisanje rizika po kategorijama",
+        "text": "osiguravajuća društva",
         "correct": true
       },
       {
-        "text": "Za procenu učinka tima",
+        "text": "komercijalne banke",
         "correct": false
+      },
+      {
+        "text": "finansijske kompanije",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "U građevinskoj firmi „GreenBuild“ identifikovan je rizik da softver za nadzor potrošnje energije neće biti završen na vreme, ali se posledice tog kašnjenja mogu osetiti tek nekoliko meseci kasnije, kada se objekti već počnu koristiti. Koji ključni parametar rizika je u pitanju?",
+    "question": "Kada se isplata po akredetivu vrši nakon određenog roka naznačenog u akreditivu, reč je o:",
     "options": [
       {
-        "text": "Urgentnost",
+        "text": "nostro akreditivu",
         "correct": false
       },
       {
-        "text": "Zakasnelo dejstvo",
+        "text": "terminskom akr.",
         "correct": true
+      },
+      {
+        "text": "prenosivom akr.",
+        "correct": false
       },
       {
-        "text": "Strateški uticaj",
+        "text": "domiliciliranom akr.",
         "correct": false
       },
       {
-        "text": "Mogućnost upravljanja",
+        "text": "a vista akr.",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Apple koristi spoljne kompanije za transport i distribuciju iPhone uređaja širom sveta, jer te kompanije imaju više iskustva i kapaciteta za upravljanje logističkim rizicima. Koja strategija je ovde",
+    "question": "Materijalna stalna sredstva (imovina) su:",
     "options": [
       {
-        "text": "Izbegavanje",
+        "text": "akcije i obveznice",
         "correct": false
       },
       {
-        "text": "Prenošenje",
+        "text": "dugoročni fin plasmani",
         "correct": true
       },
       {
-        "text": "Ublažavanje",
+        "text": "zalihe",
         "correct": false
       },
       {
-        "text": "Prihvatanje",
+        "text": "materijalna prava",
         "correct": false
+      },
+      {
+        "text": "nekretnine, postrojenja i oprema",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Google je procenio da postoji mali rizik kašnjenja kod uvođenja nove verzije Google Workspace aplikacije zbog moguće greške u kodu. Ipak, kompanija nije preduzela posebne mere, već je ostavila prostor u rasporedu za rešavanje problema ako se rizik ostvari. Koja strategija je primenjena?",
+    "question": "Računi ispravki vrednosti su:",
     "options": [
       {
-        "text": "Eskalacija",
+        "text": "računi uspeha (računi stanja su)",
         "correct": false
       },
       {
-        "text": "Izbegavanje",
+        "text": "isključivo aktivni računi",
         "correct": false
       },
       {
-        "text": "Ublažavanje",
+        "text": "isključivo pasivni računi",
         "correct": false
+      },
+      {
+        "text": "uvek vezani za neki drugi račun",
+        "correct": true
       },
       {
-        "text": "Prihvatanje",
+        "text": "korektivni računi",
         "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Agilni tim u kompaniji TechPay razvija aplikaciju za digitalna plaćanja. U backlog-u se nalazi stavka „Integracija sa eksternim bankarskim API-jem“, koja nosi visoku poslovnu vrednost, ali i visok tehnički rizik zbog neproverenih protokola. Tim odlučuje da tu stavku obradi u jednoj od prvih sprint iteracija, iako nije prva po poslovnoj vrednosti.Koji pristup backlog-u je primenjen u ovom slučaju?",
+    "question": "Racio koji pokazuje vreme koje protekne od nabavke resursa do prodaje gotovih proizvoda:",
     "options": [
       {
-        "text": "Klasični backlog vođen samo poslovnom vrednošću",
-        "correct": false
+        "text": "prosečan period obrta zaliha",
+        "correct": true
       },
       {
-        "text": "Backlog prilagođen riziku",
-        "correct": true
+        "text": "koeficijent obrta zaliha",
+        "correct": false
       },
       {
-        "text": "Backlog sa nasumičnim rasporedom",
+        "text": "koeficijent obrta kupaca",
         "correct": false
       },
       {
-        "text": "Kanban pristup sa vremenskim ograničenjem",
+        "text": "prosečan period isplate",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Kompanija Uber objavila je interni memorandum zaposlenima o novim pravilima ponašanja tokom vožnje, koji je poslat svima putem e-pošte. Zaposleni nisu morali da odgovore, ali su morali da budu informisani. Koji metod komunikacije je Uber koristio u ovom slučaju?",
+    "question": "Unapred naplaćeni prihodi (PVR) se tretiraju kao:",
     "options": [
       {
-        "text": "Interaktivna komunikacija",
+        "text": "imovina i novčani prilivi",
         "correct": false
       },
       {
-        "text": "Push komunikacija",
+        "text": "obaveza i novčani prilivi",
         "correct": true
       },
       {
-        "text": "Pull komunikacija",
+        "text": "stavka bilansa uspeha i nov. priliva",
         "correct": false
       },
       {
-        "text": "Formalna eskalacija",
+        "text": "ništa od ponuđenog",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "U projektu \"The Line\" primećeno je da tim za geoinženjering troši više od planiranih kapaciteta, dok tim za pametne tehnologije ima višak slobodnog vremena. Koji tip izveštaja bi to najverovatnije prikazao?",
+    "question": "U slučaju prodaje osnovnih sredstava po ceni višoj od njihove sadašnje vrednosti:",
     "options": [
       {
-        "text": "Izveštaj o budžetu",
+        "text": "finansijski prihod",
         "correct": false
+      },
+      {
+        "text": "dobitak od prodaje",
+        "correct": true
       },
       {
-        "text": "Izveštaj za upravni odbor",
+        "text": "poslovni prihod",
         "correct": false
       },
       {
-        "text": "Izveštaj o opterećenju (Workload Report)",
-        "correct": true
+        "text": "gubitak kod prodaje",
+        "correct": false
       },
+      {
+        "text": "neposlovni prihod",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kao rezultat odnosa neto dobiti i angažovanih sopstvenih sredstava, dobija se:",
+    "options": [
       {
-        "text": "Izveštaj o zatvaranju projekta",
+        "text": "stopa prinosa na sopstvena sredstva",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Tokom izveštavanja o napretku projekta \"The Line\", tim navodi da je do sada potrošeno 60% budžeta, da je ostatak rezervisan za završnu fazu, ali postoji manjak u segmentu nabavke senzora. Koji izveštaj uključuje ove informacije?",
+    "question": "Investicione banke:",
     "options": [
+      {
+        "text": "kreiraju depozite po viđenju",
+        "correct": false
+      },
       {
-        "text": "Izveštaj o resursima",
+        "text": "utvrđaju deviznu i monetarnu politiku",
         "correct": false
       },
       {
-        "text": "Izveštaj o budžetu",
+        "text": "učestvuju u restruktuiranju preduzeća",
         "correct": true
       },
       {
-        "text": "Izveštaj o zatvaranju projekta",
-        "correct": false
+        "text": "trguju hartijama od vrednosti",
+        "correct": true
       },
       {
-        "text": "Izveštaj o vremenu",
-        "correct": false
+        "text": "emitiju hartije od vrednosti",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Tokom realizacije projekta izgradnje geotermalne elektrane na Islandu, inženjer i projektni koordinator su se tokom pauze spontano dogovorili da predlože manju izmenu u planu cevovoda zbog terenskih uslova. Dogovor nije odmah dokumentovan, već će biti razmatran kasnije.Koja vrsta komunikacije je u pitanju?",
+    "question": "Potraživanje prema celoukupnom invertaru u slučaju zalaganja invertara se naziva:",
     "options": [
+      {
+        "text": "nijedan od navedenih odgovora",
+        "correct": false
+      },
       {
-        "text": "Formalna verbalna",
+        "text": "hipoteka nad pokretnom imovinom",
         "correct": false
       },
       {
-        "text": "Formalna pisana",
+        "text": "prijem na skladištenje",
         "correct": false
       },
       {
-        "text": "Neformalna pisana",
+        "text": "primanje pod nadzor",
         "correct": false
       },
       {
-        "text": "Neformalna verbalna",
+        "text": "pravo zadržavanja",
         "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "U okviru projekta uvođenja javnog sistema električnih trotineta u Litvaniji, gradska uprava postavila je smernice o bezbednom korišćenju i pravilima parkiranja na posebnom portalu za korisnike, gde svi zainteresovani mogu samostalno pristupiti dokumentima u bilo kom trenutku. O povratnim informacijama nije bilo obavezne dvosmerne komunikacije.Koja komunikaciona metoda je najprikladnije korišćena u ovom slučaju?",
+    "question": "Troškovi koji u datom obračunatom periodu nemaju konačnog nosioca i nisu deo obračunato razdoblja, nazivaju se:",
     "options": [
       {
-        "text": "Brifinzi timova i sastanci sa građanima",
+        "text": "Nedospeli rashodi",
         "correct": false
+      },
+      {
+        "text": "Neukalkulisani troškovi",
+        "correct": true
       },
       {
-        "text": "E-pošta i interne mreže (intranet)",
+        "text": "Sumnjiva potraživanje",
         "correct": false
       },
       {
-        "text": "Veb portali i repozitorijumi informacija (za „pull“ komunikaciju)",
-        "correct": true
+        "text": "Materijalni troškovi",
+        "correct": false
       },
       {
-        "text": "Saopštenja za javnost i godišnji izveštaji",
+        "text": "Obaveze na osnovu udruženih sredstava",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Tokom realizacije IT projekta u agilnom okruženju, tim koristi test-driven development, definiše kriterijume prihvatanja za svaku funkcionalnost i održava redovne sastanke sa korisnicima kako bi unapredili razumevanje potreba. Kvalitet se proverava unutar svake iteracije, pre nego što funkcionalnost bude prihvaćena.Koji pristup upravljanju kvalitetom je najviše u skladu sa ovim pristupom?",
+    "question": "Bruto dobit je:",
     "options": [
       {
-        "text": "Integrisanje kvaliteta u proces kroz prevenciju grešaka i definiciju prihvatanja u agilnom okruženju",
+        "text": "Razlika ukupnih prihoda i rashoda",
         "correct": true
+      },
+      {
+        "text": "Razlika ukupnih prihoda i rashoda koji se odnose na proizvodnju",
+        "correct": false
       },
       {
-        "text": "Korišćenje nezavisnog tima za testiranje po završetku sprinta",
+        "text": "Negativan poslovni rezultat",
         "correct": false
       },
       {
-        "text": "Kontrola kvaliteta zasnovana na završnoj inspekciji",
+        "text": "Deo za isplatu dividendi",
         "correct": false
       },
       {
-        "text": "Planiranje kvaliteta korišćenjem benchmarking alata pre početka razvoja",
+        "text": "Poslovni rezultat",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "U kompaniji Tesla, tokom testiranja novog modela automobila otkrivena je greška u softveru za automatsko parkiranje. Inženjerski tim je morao da izvrši dodatna podešavanja i testiranja pre početka isporuke vozila korisnicima. Trošak koji je pri tome nastao obuhvata vreme tima, dodatno testiranje i odlaganje isporuke.Kojoj kategoriji troškova kvaliteta ovaj slučaj pripada?",
+    "question": "Metoda koja zahteva poznat trošak kapitala da bi se procenila isplativost ulaganja je:",
     "options": [
       {
-        "text": "Trošak eksternih neusaglašenosti",
-        "correct": false
+        "text": "interna stopa prinosa",
+        "correct": true
+      },
+      {
+        "text": "neto sadašnja vrednost",
+        "correct": true
       },
       {
-        "text": "Trošak procene",
+        "text": "nijedna od navedenih metoda ne zahteva poznat trošak kapitala",
         "correct": false
       },
       {
-        "text": "Trošak interne neusaglašenosti (Failure – interni)",
-        "correct": true
+        "text": "indeks profitabilnosti",
+        "correct": false
       },
       {
-        "text": "Trošak prevencije",
+        "text": "prosečan period povraćaja",
         "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Za preduzeće koje nema zalihe:",
+    "options": [
+      {
+        "text": "ORL=BRL",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Tokom razvoja softverskog rešenja za poresku upravu, tim je definisao dokument koji sadrži sve relevantne standarde kvaliteta koje proizvod mora da ispuni, kriterijume prihvatanja funkcionalnosti, kao i metodologiju za inspekcije i testiranje. Ovaj dokument biće osnova za dalje upravljanje kvalitetom tokom celog trajanja projekta. Koji je izlaz procesa planiranja kvaliteta u ovom slučaju?",
+    "question": "Pod stalnim sredstvima (imovinom) se podrazumevaju:",
     "options": [
       {
-        "text": "Prikupljanje podataka",
+        "text": "emitovane dugoročne obveznice",
         "correct": false
       },
       {
-        "text": "Organizaciona procesna sredstva",
+        "text": "sredstva koja se u poslovnim procesima vraćaju u prvobitni pojavni oblik",
         "correct": false
       },
       {
-        "text": "Faktori iz spoljnog okruženja",
+        "text": "sredstva koja učestvujući u poslovnim procesima postepeno prenose svoju vrednost na postojeće učinke",
+        "correct": true
+      },
+      {
+        "text": "dugoročni finansijski plasmani",
         "correct": false
       },
       {
-        "text": "Plan upravljanja kvalitetom",
-        "correct": true
+        "text": "sredstva koja se ne amortizuju",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Šta od navedenog nije karakteristično za agilni način razmišljanja?",
+    "question": "Pomoćne knjigovodstvene evidencije:",
     "options": [
       {
-        "text": "Pozdraviti promene",
+        "text": "Pomoćna knjiga kupaca",
         "correct": false
       },
       {
-        "text": "Učiti kroz otkrivanje, tokom realizacije projekta",
+        "text": "Pomoćna knjiga dobavljača",
         "correct": false
       },
       {
-        "text": "Kontinuirano isporučivati vrednost",
+        "text": "Knjiga materijala",
         "correct": false
       },
       {
-        "text": "Poštovati proces",
-        "correct": true
+        "text": "Evidencija zaliha",
+        "correct": false
+      },
+      {
+        "text": "Analitičke evidencije (npr. za nekretnine, kapital..)",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Lokalna samouprava na zapadu Srbije je donela svoju strategiju razvoja za naredni period od 10 godina. U okviru strategije postoji 4 prioriteta sa svojim skupovima različitih projekata i aktivnosti. Svaki projekat ima ulogu u ostvarenju prioriteta kome pripada, a svi prioriteti su povezani ciljevima strategije i zajedničkim korišćenjem resursa. Opisan je koji tip programa?",
+    "question": "U slučaju postojanja ustaljenih poslovnih odnosa (strateškog partnerstva) i visokog kreditnog skora kupca, kao instrument plaćanja",
     "options": [
       {
-        "text": "Tip programa - Organizacija za upravljanje programima",
+        "text": "sopstvena menica",
         "correct": false
       },
       {
-        "text": "Tip programa - Više projekata za jednog klijenta",
-        "correct": true
+        "text": "garancija",
+        "correct": false
       },
       {
-        "text": "Tip programa - Megaprojekat",
+        "text": "vučena menica",
         "correct": false
       },
       {
-        "text": "Tip programa - Organizacija sa više projekata",
+        "text": "otvoreni račun",
         "correct": false
+      },
+      {
+        "text": "akreditiv",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Kompanija YellowBox bavi se logističkim poslovima za različite organizacije koje posluju na teritoriji Nemačke. Trenutno je u toku projekat od visoke važnosti, a čije je trajanje predviđenona tri godine. Marija je uključena u pripremanje izveštaja koji se tiču napretka realizacije projekta i stanja radova. Sam proces izveštavanja svodi se na prikupljanje i diseminaciju informacija o napretku projekta. Koji podproces modela  upravljanja komunikacijom obavlja Marija?",
+    "question": "Kada preduzeće gotovinu na računu drži da bi depozitom obezbedio dobijanje kredita, takav razlog je:",
     "options": [
+      {
+        "text": "špekulativni",
+        "correct": false
+      },
       {
-        "text": "Administrativno zaključenje (zatvaranje)",
+        "text": "razlog predostrožnosti",
         "correct": false
       },
       {
-        "text": "Planiranje komunikacije",
+        "text": "depozitni",
         "correct": false
       },
       {
-        "text": "Distribuciju informacija",
+        "text": "kompenzacioni",
         "correct": true
       },
       {
-        "text": "Izveštavanje o izvođenju",
+        "text": "transakcioni",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Vi ste menadžer projekta koji trenutno sprovodi identifikaciju zahteva klijenata kako biste mogli da definišete ciljeve i mere kvaliteta za plan upravljanja kvalitetom Vašeg projekta. Dok to radite, najmlađi član tima Vas pita da mu objasnite koristi sprovođenja ovih aktivnosti. Šta biste odgovorili?",
+    "question": "Kada se izvestan saldo gotovine u preduzecu drzi sa ciljem dnevnih izmirivanja dospelih obaveza, takav se razlog naziva:",
     "options": [
       {
-        "text": "Ove aktivnosti pružaju smernice i uputstva o tome kako će se upravljati kvalitetom i verifikovati kvalitet proizvoda tokom celog projekta",
+        "text": "transakcioni",
         "correct": true
-      },
-      {
-        "text": "Ovim aktivnostima se proverava da li isporuke i rad odgovaraju zahtevima ključnih zainteresovanih strana.",
-        "correct": false
-      },
-      {
-        "text": "Ove aktivnosti obezbeđuju da stepen, tip i vidljivost upravljanja rizikom budu srazmerni rizicima i važnosti projekta za organizaciju i druge zainteresovane strane",
-        "correct": false
-      },
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Tržišna vrednost određene akcije zavisi od:",
+    "options": [
       {
-        "text": "Ovim aktivnostima se povećava verovatnoća postizanja ciljeva kvaliteta, kao i uspešna identifikacija neefikasnih procesa i uzroka lošeg kvaliteta.",
-        "correct": false
+        "text": "nominalna vr + azio?",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koja od sledećih izjava je tačna u vezi sa upravljanjem nabavkama na projektu?",
+    "question": "Okvir za odgovarajuće reakcije preduzeća u uslovima neizvesnosti uspostavlja se:",
     "options": [
+      {
+        "text": "zadovoljavajućim planiranjem",
+        "correct": false
+      },
       {
-        "text": "Projektni menadžer treba da bude dovoljno upoznat sa procesima i odredbama koje se tiču procesa upravljanja nabavkama.",
+        "text": "inovativnim planiranjem",
         "correct": true
       },
       {
-        "text": "Projektni menadžer ima ovlašćenje da potpiše pravne ugovore koji obavezuju organizaciju.",
+        "text": "optimalnim planiranjem",
         "correct": false
       },
       {
-        "text": "Projektni menadžer mora biti obučen stručnjak za zakone i propise o upravljanju nabavkama.",
+        "text": "operativnim planiranjem",
         "correct": false
       },
       {
-        "text": "Ugovor opisuje odnos između dve strane, projektnog menadžera i njegove organizacije poslodavca.",
+        "text": "osnovnim planiranjem",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Na kraju sprinta, agilni tim je isporučio četiri korisničke priče procenjene na ukupno 28 story points-a koje su bile 100% završene po definiciji urađenog, dok je jedna korisnička priča procenjena na 5 story points-a bila 70% završena. Koja je brzina tima u ovom sprintu?",
+    "question": "U komisione (neutralne) bankarske poslove se ubravaju:",
     "options": [
       {
-        "text": "7",
+        "text": "menjački poslovi",
+        "correct": true
+      },
+      {
+        "text": "eskontni poslovi",
         "correct": false
       },
       {
-        "text": "31.5",
+        "text": "izdavanje kreditnih pisama",
         "correct": false
       },
       {
-        "text": "33",
+        "text": "emitovanje obveznica // ipak je pasivannn",
         "correct": false
       },
       {
-        "text": "28",
+        "text": "otvaranje akreditiva",
         "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koji od sledećih principa Agilnog manifesta reflektuje agilni fokus na rezultatski orijentisano ponašanje?",
+    "question": "Izdavanja bankarskih garancija je:",
     "options": [
       {
-        "text": "Funkcionalan softver je primarna mera napretka",
+        "text": "neutralni posao",
         "correct": true
-      },
-      {
-        "text": "Pozdravljanje zahteva za promenu, čak i kasnije u razvoju",
-        "correct": false
-      },
-      {
-        "text": "Izgradnja projekta oko motivisanih pojedinaca",
-        "correct": false
-      },
-      {
-        "text": "Jednostavnost -veština maksimiziranja količine posla je suštinska",
-        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "U okviru kompanije \"J&J Motors\" svi članovi tima okupili su se kako bi definisali predstojeći sprint i način na koji će taj posao biti postignut. Vlasnik proizvoda je prezentovao ažurirane stavke u backlog-u, a zatim su diskutovali o njima kako bi obezbedili da imaju zajedničko razumevanje, nakon čega je razvojni tim izvršio procenu šta bi moglo biti isporučeno u okviru sprinta i definisao kriterijume za prihvatanje i testove. Korisničke priče su se podelile u taskove, a definisano je i ko će da radi na kom tasku. Koji događaj je u pitanju?",
+    "question": "Odaberite jedan projekat koji maksimira vrednost preduzeća, ako su poznati njihovi neto sadašnja vrednost (NSV) i prosečan period povraćaja (PPP):",
     "options": [
       {
-        "text": "Sprint Retrospektiva",
+        "text": "C: NSV = 150,000 PPP = 15 godina",
         "correct": false
       },
       {
-        "text": "Planiranje sprinta",
-        "correct": true
+        "text": "D: NSV = 100,000 PPP = 6 meseci",
+        "correct": false
       },
       {
-        "text": "Dnevni Scrum",
+        "text": "nijedan projekat ne uvećava vrednost preduzeća",
         "correct": false
+      },
+      {
+        "text": "B: NSV = 450,000 PPP = 2 godine",
+        "correct": true
       },
       {
-        "text": "Pregled Sprinta",
+        "text": "A: NSV = 500,000 PPP = 32 godine",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Tokom treće faze realizacije softverskog projekta projektni tim je uočio da je razvoj jedne funkcionalnosti potpuno zaboravljen. Iako su preventivne mere, koje bi trebalo da spreče ovu situaciju, bile deo plana upravljanja kvalitetom, otkrivanje da ova funkcionalnost nije razvijena je uticalo na ponovno obavljanje posla koji je prethodno bio prihvaćen i stvaranje dosta otpadnog koda. Koji tip troškova kvaliteta predstavljaju troškovi ponovnog rada i stvaranja viška otpada?",
+    "question": "Metoda(e) koja se zasniva na konceptu vremenske vrednosti novca je:",
     "options": [
       {
-        "text": "Troškovi neusaglašenosti - eksterni troškovi grešaka",
+        "text": "prosečan period povraćaja",
         "correct": false
       },
       {
-        "text": "Troškovi usaglašenosti - troškovi procene",
+        "text": "cena kapitala",
         "correct": false
       },
       {
-        "text": "Troškovi neusaglašenosti - interni troškovi grešaka",
+        "text": "interna stopa prinosa",
         "correct": true
       },
       {
-        "text": "Troškovi usaglašenosti - preventivni troškovi",
-        "correct": false
+        "text": "neto sadašnja vrednost",
+        "correct": true
+      },
+      {
+        "text": "indeks profitabilnosti",
+        "correct": true
+      },
+      {
+        "text": "diskontovani period povraćaja",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Tokom sastanka za ažuriranje statusa, prezentujete zainteresovanim stranama grafikon koji prati posao koji je preostao da se završi u odnosu na vreme koje je preostalo u ovom periodu projekta. Koju vrstu grafikona ste pokazali zainteresovanim stranama?",
+    "question": "Emisija efekata za sopstveni račun:",
     "options": [
       {
-        "text": "Burndown grafikon",
+        "text": "pasivni",
         "correct": true
-      },
-      {
-        "text": "Gantogram",
-        "correct": false
-      },
-      {
-        "text": "Burnup grafikon",
-        "correct": false
-      },
-      {
-        "text": "Sprint backlog",
-        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koje atributi se vezuju za korisničke priče?",
+    "question": "Nematerijalna imovina čine:",
     "options": [
       {
-        "text": "Proverljive, velike",
+        "text": "prava na model",
         "correct": false
       },
       {
-        "text": "Potvrđene, ekonomične",
+        "text": "licence, softveri, patenti",
         "correct": false
       },
       {
-        "text": "Vitalne, velike",
+        "text": "sredstva koja se ne amortizuju",
         "correct": false
       },
       {
-        "text": "Vredne, procenjive",
-        "correct": true
+        "text": "dugoročni finansijski plasmani",
+        "correct": false
+      },
+      {
+        "text": "emisiona premija (ažio)",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koje od sledećih vrednosti Agilnog manifesta su usko povezane sa radom u toku (work in progress - WIP)?",
+    "question": "Nove emisije hartija od vrednosti preduzeća obavljaju se na:",
     "options": [
       {
-        "text": "Radni softver preko sveobuhvatne dokumentacije",
+        "text": "sekundarnom tržišu kapitala",
         "correct": false
       },
       {
-        "text": "Reagovanje na promenu u skladu sa planom",
+        "text": "međubankarskom tržištu",
         "correct": false
       },
       {
-        "text": "Saradnja sa klijentima preko pregovora o ugovoru",
+        "text": "novčanom tržištu",
         "correct": false
       },
       {
-        "text": "Pojedinci i interakcije nad procesima i alatima",
-        "correct": true
+        "text": "primarnom tržištu kapitala",
+        "correct": false
+      },
+      {
+        "text": "deviznom tržištu",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Milan je inženjer i jedan od 10 članova projektnog tima. Projektni sponzor, Dušan, konstantno ukazuje Milanu na lošiji kvalitet njegovog rada. Milan počinje da se nervira zbog Dušana jer smatra da krajnja odgovornost za kvalitet projekta nije njegova briga i da ne treba da se meša. Koja od sledećih izjava u najvećoj meri govori o tome ko je krajnje odgovoran za kvalitet projekta?",
+    "question": "Kod operativnog lizinga karakteristično je:",
     "options": [
       {
-        "text": "Menadžer kvaliteta je osoba koja je krajnje odgovorna za kvalitet na bilo kom projektu.",
+        "text": "sredstvo po isteku lizinga ostaje davaocu lizinga",
+        "correct": true
+      },
+      {
+        "text": "rizik i koristi padaju na primaoca lizinga",
         "correct": false
       },
       {
-        "text": "Projektni sponzor treba da bude odgovoran za kvalitet projekta.",
+        "text": "rok trajanja odgovora je približno jednak veku trajanja sredstva",
         "correct": false
       },
       {
-        "text": "Krajnja odgovornost za kvalitet projekta je na svim članovima projektnog tima. Osoba koja obavlja rad treba da se brine i osigura isporuku kvalitetnog proizvoda. 3 BODA",
+        "text": "prednost lizinga su trajna dobra",
         "correct": true
       },
       {
-        "text": "Inženjer projekta je osoba koja je odgovorna za kvalitet projekta, pošto je inženjer jedini koji u potpunosti razume sve komponente proizvoda projekta. Question 14 Not yet answered",
+        "text": "računovodstveno se tretira kao rashod",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Projekat za Državnu zdravstvenu agenciju je u fazi planiranja. Međutim, tokom rada dolazi do čestih nesuglasica između članova tima jer oni prvi put rade zajedno iako su svi izuzetno kompetentni. Takođe, projektni menadžer, koji je do sada postizao sjajne rezultate i kome je dodeljen ovaj projekat, do sada nije imao iskustva u radu unutar zdravstvene industrije i ne zna koju metodologiju za upravljanje projektom da primeni. Zbog toga, projektni sponzor sa članovima upravnog odora kompanija razmatra da li je tim dovoljno jak za realizaciju projekta i da li ih vodi adekvatan projektni menadžer. Koja vrsta rizika je opisana?",
+    "question": "Kod finansijskog lizinga karakteristično je:",
     "options": [
       {
-        "text": "Finansijski rizici",
+        "text": "sredstvo po isteku lizinga ostaje davaocu lizinga",
         "correct": false
+      },
+      {
+        "text": "rizik i koristi padaju na primaoca lizinga",
+        "correct": true
       },
       {
-        "text": "Organizacioni rizici",
+        "text": "rok trajanja odgovora je približno jednak veku trajanja sredstva",
         "correct": false
       },
       {
-        "text": "Upravljački rizici",
+        "text": "prednost lizinga su trajna dobra",
         "correct": false
       },
       {
-        "text": "Rizici vezani za ljudski faktor",
-        "correct": true
+        "text": "računovodstveno se tretira kao rashod",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Marija je portfolio menadžer koja je odgovorna za realizaciju određenog poduhvata koji je njena kompanija definisala kao visoko prioritetan za poslovanje. Kao portfolio menadžer, Marija ima nekoliko program menadžera i projektnih menadžera koji je izveštavaju o uspešnosti i napretku izvršenja. Upravljanje portfoliom je složen proces, koji traži odgovarajuće razumevanje na višem nivou. Koja od navedenih tvrdnji se odnosi na upravljanje portfoliom?",
+    "question": "Suština hedžing pristupa je:",
     "options": [
       {
-        "text": "Upravljanje portfoliom podrazumeva nezavisno vođenje nekoliko projekata.",
+        "text": "da kratkoročnim izvorima budu finansirane povremene potrebe za sredstvima",
         "correct": false
       },
       {
-        "text": "Upravljanje portfoliom ima definisan početak i kraj.",
+        "text": "ništa od navedenog",
         "correct": false
       },
       {
-        "text": "Upravljanje portfoliom svodi se na distribuciju informacija na nivou jednog projekta.",
+        "text": "da dugoročnim izvorima budu finansirane povremene potrebe za sredstvima",
         "correct": false
       },
       {
-        "text": "Upravljanje portfoliom se fokusira na maksimizaciju korišćenja raspoloživih resursa",
+        "text": "da dugoročnim izvorima budu finansirana osnovna sredstva",
         "correct": true
+      },
+      {
+        "text": "da dugoročnim izvorima budu finansirana trajna obrtna sredstva",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Veliki i kompleksan projekat koji uključuje koordinaciju nekoliko dobavljača se približava završetku. Menadžer projekta želi da pronađe informacije za formalno zatvaranje nabavke. Šta će menadžer projekta uraditi kako bi došao do traženih informacija?",
+    "question": "U kratkoročne obaveze preduzeća se ubrajaju:",
     "options": [
+      {
+        "text": "kratkoročni plasmani",
+        "correct": false
+      },
       {
-        "text": "Pregledaće registar sprovedenih nabavki.",
+        "text": "ažio",
         "correct": false
       },
       {
-        "text": "Proveriće matricu za praćenje stejkholdera i plan angažovanja stejkholdera.",
+        "text": "slobodne rezerve",
         "correct": false
       },
       {
-        "text": "Pogledaće plan upravljanja nabavkom i zaključene ugovore sa dobavljačima.",
+        "text": "emitovani i prodati komercijalni zapisi",
         "correct": true
       },
       {
-        "text": "Pogledaće registar naučenih lekcija i prethodne ugovore sa sličnim dobavljačima.",
-        "correct": false
+        "text": "ukalkulisane obaveze",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Kada je u pitanju odvojeni ugovor sa više izvođača, onda je odgovornost za koordinaciju i vođenje projekta na:",
+    "question": "Finansijski izveštaj koji se sastavlja za određeni period (najčešće godinu dana) je:",
     "options": [
       {
-        "text": "Izvođaču i konsultantu",
+        "text": "bilans stanja",
         "correct": false
       },
       {
-        "text": "Podeljena odgovornost investitora, izvođača i konsultanta",
+        "text": "bilans uspeha",
         "correct": false
       },
       {
-        "text": "Izvođaču",
+        "text": "izveštaj o novčanim tokovima",
         "correct": false
       },
       {
-        "text": "Investitoru",
-        "correct": true
+        "text": "izveštaj o promenama na kapitalu",
+        "correct": false
+      },
+      {
+        "text": "napomene uz fin. izveštaje",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Kompanija Quantum, bavi se istraživanjem telekomunikacionih rešenja za potrebe drugih organizacija. Quantum obavlja veliki broj projekata istovremeno, tako da je okruženje u kome kompanija posluje okarakterisano kao složeno i dinamično. Iz navedenog razloga Quantum se odlučio za primenu projektno orijentisane organizacije. Šta od sledećeg bi predstavljalo karakteristiku projektno orijentisane organizacije?",
+    "question": "U kategoriju poslovnih prihoda preduzeca ubrajaju se:",
     "options": [
       {
-        "text": "nije potrebno obezbeđivanje IT infrastrukture",
+        "text": "prihodi od kamata",
         "correct": false
       },
       {
-        "text": "realizacija više projekata, programa i portfolia sa čestim prekidima",
+        "text": "negativne kursne razlike",
         "correct": false
+      },
+      {
+        "text": "prihodi od prodaje proizvoda i usluga",
+        "correct": true
       },
       {
-        "text": "veliki oslonac na individualni rad",
+        "text": "dugorocna rezervisanja",
         "correct": false
       },
       {
-        "text": "primena mrežne i ravne organizacije",
-        "correct": true
+        "text": "prihodi na osnovu naplate otpisanih potrazivanja",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Šta od sledećeg može da se koristi za davanje prioriteta stavkama u zaostatku?",
+    "question": "Ako je planska nabavna vrednost materijala veca od njegove stvarne vrednosti tacno je:",
     "options": [
       {
-        "text": "Poslovna vrednost",
-        "correct": true
+        "text": "rec je o negativnom odstupanju",
+        "correct": false
       },
       {
-        "text": "Trajanje",
+        "text": "razlika se evidentira na dugovnoj strain racuna 1009",
         "correct": false
       },
       {
-        "text": "Povezani rizici",
+        "text": "razlika se evidentira na potraznoj strani racuna 1009",
+        "correct": true
+      },
+      {
+        "text": "razlika se evidentira na potraznoj strani racuna 100",
         "correct": false
       },
       {
-        "text": "Cena",
+        "text": "rec je o pozitivnom odstupanju",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koja od sledećih izjava najbolje opisuje retrospektivu?",
+    "question": "Kada se visina otpisa osnovnog sredstva povecava iz godine u godinu rec je o?",
     "options": [
-      {
-        "text": "Tim radi sa vlasnikom proizvoda kako bi dao prioritet stavkama u zaostatku proizvoda.",
-        "correct": false
-      },
-      {
-        "text": "Tim razgovara o tome šta će biti isporučeno u sledećoj iteraciji.",
-        "correct": false
-      },
       {
-        "text": "Tim raspravlja o tome šta je pošlo kako treba, a šta pogrešno tokom iteracije i traži mogućnosti za poboljšanje.",
+        "text": "čini trosak amortizacije",
         "correct": true
       },
       {
-        "text": "Održava se na kraju iteracije da bi se pregledao inkrement proizvoda izgrađen tokom iteracije.",
-        "correct": false
+        "text": "metod vremenskog otpisivanja obracunata na osnovu progresivnog otpisa",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Modna kuća \"Elegance Artistry\" planira da se pridruži velikoj dobrotvornoj kampanji koja podržava edukaciju dece iz manje razvijenih zajednica. Dizajnerski timovi su angažovani na stvaranju kolekcije koja će se predstaviti na ovom humanitarnom događaju. S obzirom da je se događaj održava za mesec dana, cilj je da se linija odevnih komada brzo kreira i isporuči. Koji životni ciklus bi bio najadekvatniji za upravljanje ovakvim projektom?",
+    "question": "Bilansna pozicija dugoročnih rezervisanja je element:",
     "options": [
+      {
+        "text": "osnovnih sredstava",
+        "correct": false
+      },
       {
-        "text": "Agilni",
+        "text": "obrtnih sredstava",
         "correct": false
       },
       {
-        "text": "Inkrementalni",
+        "text": "sopstvenog kapitala",
         "correct": true
       },
       {
-        "text": "Iterativni",
+        "text": "obaveza",
         "correct": false
       },
       {
-        "text": "Prediktivni",
+        "text": "prihoda",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Vaš tim radi na istraživanju novih tehnologija koje bi mogle unaprediti proces proizvodnje. Međutim, novi tehnički izazovi i nepredviđeni faktori u vezi sa razvojem tehnologije mogu dovesti do nepoznatih i potpuno neočekivanih promena u industriji te je zbog toga jako teško odabrati onu tehnologiju koja će moći da se koristi duže vreme. Ovaj primer predstavlja:",
+    "question": "Ocekivani obim usluga koje osnovno sredstvo moze da pruzi koristi se za utvrdjivanje otpisa kod:",
     "options": [
       {
-        "text": "Rizik",
+        "text": "linearnog otp isa",
         "correct": false
       },
       {
-        "text": "Strukturirana neizvesnost",
+        "text": "progresivnog otpisa",
         "correct": false
       },
       {
-        "text": "Nestrukturirana neizvesnost",
+        "text": "funkcionalnog metoda",
         "correct": true
+      },
+      {
+        "text": "metode aritmeticke digresije",
+        "correct": false
       },
       {
-        "text": "Izvesnost",
+        "text": "metode geometrijske progresije",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Članovi agilnog tima se svađaju oko prioriteta korisničkih priča. Kako scrum master treba postupiti u ovoj situaciji?",
+    "question": "Finansijski izvestaju koji su direktan proizvod dvojnog knjigovodstva:",
     "options": [
       {
-        "text": "Objašnjava da je određivanje prioriteta proces koji se dešava tokom celog projekta i da se prioriteti menjaju 3 BODA",
+        "text": "bilans stanja",
         "correct": true
       },
       {
-        "text": "Govori timu da je određivanje prioriteta samo odgovornost scrum mastera i da će on odrediti prioritete",
+        "text": "dnevnik",
         "correct": false
+      },
+      {
+        "text": "bilans uspeha",
+        "correct": true
       },
       {
-        "text": "Dozvoljava članovima tima da definišu prioritet korisničkih priča",
+        "text": "napomene uz fin izvestaje",
         "correct": false
       },
       {
-        "text": "Odmah zaustavlja sukob jer je on loš za rad tima",
+        "text": "glavna knjiga",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Šta od sledećeg ne bi bilo prikladno pominjati tokom svakodnevnog scrum-a?",
+    "question": "Ako vrednost neto obrtnih sredstava raste to nužno znači da:",
     "options": [
       {
-        "text": "Kontakt za klijente je van kancelarije ove nedelje, što će odložiti trenutnu aktivnost do sledeće nedelje.",
-        "correct": true
+        "text": "Vrednost ORL ne može da opada",
+        "correct": false
       },
       {
-        "text": "Uspešno sam aktivirao dva sajta.",
+        "text": "Neminovno ostaje isti ORL",
         "correct": false
       },
       {
-        "text": "Novi softver je uštedeo mnogo vremena jer je automatizovao proces izveštavanja.",
+        "text": "Neminovno opada vrednost ORL",
         "correct": false
       },
       {
-        "text": "Pokušavamo da popravimo grešku otkrivenu juče koja je izazvala pad igre.",
+        "text": "Neminovno raste vrednost ORL",
         "correct": false
+      },
+      {
+        "text": "Vrednost ORL može da raste, opada, I ostane ista",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Vlasnik proizvoda tima počinje pregled sprinta kratkim pregledom cilja sprinta i listom svih planiranih korisničkih priča na projektu sa statusom. Šta je vlasnik proizvoda trebalo da uradi drugačije?",
+    "question": "U sredstva preduzeca ubrajaju se:",
     "options": [
       {
-        "text": "Da prikaže samo završene korisničke priče i traži povratne informacije od zainteresovanih strana.",
+        "text": "prodaja proizvoda",
+        "correct": false
+      },
+      {
+        "text": "sporna potrazivanja",
+        "correct": false
+      },
+      {
+        "text": "menicne obaveze",
+        "correct": false
+      },
+      {
+        "text": "kratkorocni finansijska ulaganja",
+        "correct": true
+      },
+      {
+        "text": "primljeni avansi",
+        "correct": false
+      },
+      {
+        "text": "kratkoročna potraživanja",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U sredstva preduzeća ubrajaju se:",
+    "options": [
+      {
+        "text": "emitovane HOV",
+        "correct": false
+      },
+      {
+        "text": "kratkoročna fin ulaganja",
+        "correct": true
+      },
+      {
+        "text": "gudvil",
+        "correct": true
+      },
+      {
+        "text": "ukalkulisane obaveze",
+        "correct": false
+      },
+      {
+        "text": "menične obaveze",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kojom metodom se vrsi obracun troskova materijala po cenama poslednjih nabavki?",
+    "options": [
+      {
+        "text": "fifo",
+        "correct": false
+      },
+      {
+        "text": "lifo",
+        "correct": true
+      },
+      {
+        "text": "metod ponderisane prosecne cene",
+        "correct": false
+      },
+      {
+        "text": "hifo",
+        "correct": false
+      },
+      {
+        "text": "lofo",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ukoliko preduzece A u predvidjenom roku plati robu preduzecu B I na taj nacin realizuje kasa skonto u iznosu od 10000 to za preduzece A predstavlja:",
+    "options": [
+      {
+        "text": "ostali I vanredni rashodi",
+        "correct": false
+      },
+      {
+        "text": "ostali I vanredni prihod",
+        "correct": false
+      },
+      {
+        "text": "finansijski rashod",
+        "correct": false
+      },
+      {
+        "text": "prihod od prodaje robe",
+        "correct": false
+      },
+      {
+        "text": "finansijski prihod",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Naplata otpisanog potrazivanja od kupaca pripada kategoriji:",
+    "options": [
+      {
+        "text": "finansijskih prihoda",
+        "correct": false
+      },
+      {
+        "text": "poslovnih prihoda",
+        "correct": false
+      },
+      {
+        "text": "ostalih i neposlovnih prihoda (to bi bili vanredni prihodi)",
+        "correct": true
+      },
+      {
+        "text": "poslovnih rashoda",
+        "correct": false
+      },
+      {
+        "text": "nista od navedenog",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Metoda prema kojoj troskovi otpisa osnovnih sredstava iskljucivo zavise od njihovog fizickog trosenja je:",
+    "options": [
+      {
+        "text": "metoda progresivnog otpisa",
+        "correct": false
+      },
+      {
+        "text": "funkcionalna metoda",
+        "correct": true
+      },
+      {
+        "text": "metoda aritmeticke degresije",
+        "correct": false
+      },
+      {
+        "text": "metoda geometrijske progresije",
+        "correct": false
+      },
+      {
+        "text": "metoda linearnog otpisa - ovo je jer ne zavisi od vremena.",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Rashodi koji nastaju po osnovu korišćenja kreditnih izvora su:",
+    "options": [
+      {
+        "text": "Poslovni rashodi",
+        "correct": false
+      },
+      {
+        "text": "Direktni troškovi",
+        "correct": false
+      },
+      {
+        "text": "Finansijski rashodi",
+        "correct": true
+      },
+      {
+        "text": "Indirektni troškovi",
+        "correct": false
+      },
+      {
+        "text": "Troškovi nabavke",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kada banka korisniku kredita ne stavlja na raspolaganje novčana sredstva, već se indirektno obavezuje za njegov račun, takav kredit se naziva:",
+    "options": [
+      {
+        "text": "rambursni",
+        "correct": false
+      },
+      {
+        "text": "akceptni",
+        "correct": true
+      },
+      {
+        "text": "lombardni",
+        "correct": false
+      },
+      {
+        "text": "avalni",
+        "correct": false
+      },
+      {
+        "text": "hipoterkarni",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Emisiona premija je:",
+    "options": [
+      {
+        "text": "Deo kapitala akcionarskog društva",
+        "correct": false
+      },
+      {
+        "text": "Zakonska rezerva preduzeća",
+        "correct": false
+      },
+      {
+        "text": "Razlika između više prodajne cene akcija i nominalne vrednosti",
+        "correct": true
+      },
+      {
+        "text": "Razlika između više prodajne cene akcija i tržišne vrednosti",
+        "correct": false
+      },
+      {
+        "text": "Dugoročna obavzea",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Dugoročni finansijski plasmani pripadaju poziciji:",
+    "options": [
+      {
+        "text": "Dugoročnih rezervisanja",
+        "correct": false
+      },
+      {
+        "text": "Dugoročnih obaveza",
+        "correct": false
+      },
+      {
+        "text": "Stalnih sredstava",
+        "correct": true
+      },
+      {
+        "text": "Rezervi",
+        "correct": false
+      },
+      {
+        "text": "Obrtnih sredstava",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U obrtna sredstva se svrstavaju:",
+    "options": [
+      {
+        "text": "Rezervisanja",
+        "correct": false
+      },
+      {
+        "text": "Nedovršena proizvodnja",
+        "correct": true
+      },
+      {
+        "text": "Menične obaveze",
+        "correct": false
+      },
+      {
+        "text": "Kratkoročni finansijski plasmani",
+        "correct": true
+      },
+      {
+        "text": "Učešća u drugim privrednim društvima(nisam siguran da li je i ovo)",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U kategoriju poslovnih rashoda preduzeća ubrajaju se:",
+    "options": [
+      {
+        "text": "Troškovi neproizvodnih usluga",
+        "correct": true
+      },
+      {
+        "text": "Negativne kursne razlike",
+        "correct": false
+      },
+      {
+        "text": "Rashodi na osnovu plaćenih kazni",
+        "correct": false
+      },
+      {
+        "text": "Nabavna vrednost prodate robe",
+        "correct": true
+      },
+      {
+        "text": "Rashodi kamata",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kada se visina otpisa osnovnog sredstva povećava iz godine u godinu, reč je o:",
+    "options": [
+      {
+        "text": "Metodi linearnog otpisa",
+        "correct": false
+      },
+      {
+        "text": "Metodi geometrijske progresije",
+        "correct": false
+      },
+      {
+        "text": "Metodi progresivnog otpisa",
+        "correct": true
+      },
+      {
+        "text": "Funkcionalnoj metodi",
+        "correct": false
+      },
+      {
+        "text": "Metodi aritmetičke degresije",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Finansijsko računovodstvo:",
+    "options": [
+      {
+        "text": "Pruža finansijske informacije eksternim stejkholderima",
+        "correct": true
+      },
+      {
+        "text": "Koristi se isključivo u profitno orijentisanim organizacijama",
+        "correct": false
+      },
+      {
+        "text": "Kreira izveštaje prema specifičnim zahtevima preduzeća menadžmenta preduzeća",
+        "correct": false
+      },
+      {
+        "text": "Orijentisano je ka budućnosti",
+        "correct": false
+      },
+      {
+        "text": "Poštuje opšte prihvaćene principe računovodstva",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U izvore sredstava preduzeća se ubrajaju:",
+    "options": [
+      {
+        "text": "Dati avansi",
+        "correct": false
+      },
+      {
+        "text": "Menične obaveze",
+        "correct": true
+      },
+      {
+        "text": "Kratkoročna finansijska ulaganja",
+        "correct": false
+      },
+      {
+        "text": "Dugoročna rezervisanja",
+        "correct": true
+      },
+      {
+        "text": "Sporna potraživanja",
+        "correct": false
+      },
+      {
+        "text": "Prodaja proizvoda",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Troškovi transporta, poštanskog saobraćaja i komunalnih usluga čine:",
+    "options": [
+      {
+        "text": "Materijalne troškove",
+        "correct": false
+      },
+      {
+        "text": "Finansijske rashode",
+        "correct": false
+      },
+      {
+        "text": "Troškovi ličnih dohodaka",
+        "correct": false
+      },
+      {
+        "text": "Troškove proizvodnih usluga",
+        "correct": true
+      },
+      {
+        "text": "Troškove neproizvodnih usluga",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Obrtna sredstva u obliku novca obuhvataju:",
+    "options": [
+      {
+        "text": "Novac na deviznom računu",
+        "correct": true
+      },
+      {
+        "text": "Novac na izdvojenim računima za tekuće potrebe",
+        "correct": true
+      },
+      {
+        "text": "Otvorene akreditive",
+        "correct": false
+      },
+      {
+        "text": "Novac u blagajni",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Bruto dobit je:",
+    "options": [
+      {
+        "text": "Razlika ukupnih prihoda i rashoda",
+        "correct": true
+      },
+      {
+        "text": "Poslovni rezultat",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Pozitivnu razliku ukupnih prihoda i ukupnih rashoda nazivamo:",
+    "options": [
+      {
+        "text": "Neto dobit",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Računovodstvo u preduzeću treba da obuhvata:",
+    "options": [
+      {
+        "text": "Knjigovodstvo",
+        "correct": true
+      },
+      {
+        "text": "Rač. planiranje",
+        "correct": true
+      },
+      {
+        "text": "Rač. odlučivanje",
+        "correct": false
+      },
+      {
+        "text": "Rač. kontrola (nadzor)",
+        "correct": true
+      },
+      {
+        "text": "Rač. informacije",
+        "correct": true
+      },
+      {
+        "text": "Rač. analiza",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Usklađivanje originalne vrednosti osnovnih sredstava sa kretanjem cena u veku korišćenja naziva se:",
+    "options": [
+      {
+        "text": "Revalorizacija",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Pod materijalnim pravima se podrazumevaju:",
+    "options": [
+      {
+        "text": "Patenti",
+        "correct": false
+      },
+      {
+        "text": "Licence",
+        "correct": false
+      },
+      {
+        "text": "Korišćenje proizvodno tehničke dokumentacije",
+        "correct": false
+      },
+      {
+        "text": "Žigovi",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Pozitivna razlika prihoda i rashoda:",
+    "options": [
+      {
+        "text": "Neto dobit",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Razlika prihoda i rashoda",
+    "options": [
+      {
+        "text": "Bruto dobit",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Pozitivna razlika poslovnih prihoda i poslovnih rashoda",
+    "options": [
+      {
+        "text": "Poslovna dobit",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Pomoćne knjigovodstvene evidencije:",
+    "options": [
+      {
+        "text": "Evidencija o materijalu",
+        "correct": true
+      },
+      {
+        "text": "Izveštaj o novčanim tokovima",
+        "correct": false
+      },
+      {
+        "text": "Dnevnik",
+        "correct": false
+      },
+      {
+        "text": "Skladišna knjiga",
+        "correct": true
+      },
+      {
+        "text": "Glavna knjiga",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kada pred ima pozitivna neto obrtna sredstva (OBS) to znači da se:",
+    "options": [
+      {
+        "text": "OBS u celosti finansiraju kratk. Izvorima",
+        "correct": false
+      },
+      {
+        "text": "OBS delom finansiraju dugoročnim izv",
+        "correct": true
+      },
+      {
+        "text": "OBS u celosti finansiraju dug izvorima",
+        "correct": false
+      },
+      {
+        "text": "OBS delom finansiraju kratk. Izvorima",
+        "correct": false
+      },
+      {
+        "text": "Ništa od navedenog",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Knjigovodstveno obuhvatanje prijema osnovnih sredstava",
+    "options": [
+      {
+        "text": "Zaduživanje računa osnovnih sredstava",
+        "correct": true
+      },
+      {
+        "text": "Zaduživanjem računa sopstveni kapital",
+        "correct": false
+      },
+      {
+        "text": "Odobravanjem računa ispravke vrednosti osnovnih sredstava",
+        "correct": true
+      },
+      {
+        "text": "Odobravanjem računa sopstveni kapital",
+        "correct": true
+      },
+      {
+        "text": "Zaduživanjem računa zaliha",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U metode vremenskog otpisivanje vrednosti osnovih sredstava ubrajaju se:",
+    "options": [
+      {
+        "text": "Metoda progresivnog otpisa",
+        "correct": true
+      },
+      {
+        "text": "Metoda degresivnog otpisa",
+        "correct": true
+      },
+      {
+        "text": "Metoda linearnog otpisa",
+        "correct": true
+      },
+      {
+        "text": "Metoda aritmetičke degresije",
+        "correct": false
+      },
+      {
+        "text": "Metoda geometrijske degresije",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Menična radnja koja se pokreće u slučaju gubitka menice:",
+    "options": [
+      {
+        "text": "amortizacija menice",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Finansijske prihode preduzeća čine:",
+    "options": [
+      {
+        "text": "Prihodi od redovnih kamata",
+        "correct": true
+      },
+      {
+        "text": "Primljene menice od kupaca",
+        "correct": false
+      },
+      {
+        "text": "Prihodi od iskorišćenih kasa skonta (od dobavljača)",
+        "correct": true
+      },
+      {
+        "text": "Pozitivne kursne razlike",
+        "correct": true
+      },
+      {
+        "text": "Negativne kursne razlike",
+        "correct": false
+      },
+      {
+        "text": "Sve od prethodno navedenog",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Navedite osnovne ekonomske kategorije:",
+    "options": [
+      {
+        "text": "Sredstva i obaveze prema izvorima sredstava, prihodi i rashodi",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Primljeni avansi su pozicija koja pripada:",
+    "options": [
+      {
+        "text": "Kratkoročnim finansijskim plasmanima",
+        "correct": false
+      },
+      {
+        "text": "Kratkoročnim obavezama",
+        "correct": true
+      },
+      {
+        "text": "Kratkoročnim potraživanjima",
+        "correct": false
+      },
+      {
+        "text": "Dugoročnim rezervisanjima",
+        "correct": false
+      },
+      {
+        "text": "Nematerijalnim sredstvima",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Saldo je:",
+    "options": [
+      {
+        "text": "Trenutno stanje pozicije za koju se račun vodi",
+        "correct": true
+      },
+      {
+        "text": "Račun izravnanja",
+        "correct": false
+      },
+      {
+        "text": "Razlika dugovne i potražne strane računa",
+        "correct": true
+      },
+      {
+        "text": "Korektivni račun",
+        "correct": false
+      },
+      {
+        "text": "Pomoćni račun",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Upravljačko računovodstvo:",
+    "options": [
+      {
+        "text": "Koristi se isključivo u profitno orijentisanim organizacijama",
+        "correct": false
+      },
+      {
+        "text": "Poštuje opšte prihvaćenje principe računovodstva",
+        "correct": false
+      },
+      {
+        "text": "Orijentisano je ka budućnosti",
+        "correct": true
+      },
+      {
+        "text": "Pruža finansijske informacije eksternim stejkholderima",
+        "correct": false
+      },
+      {
+        "text": "Kreira izveštaje prema specifičnim zahtevima menadžmenta preduzeća",
+        "correct": true
+      },
+      {
+        "text": "Sadržina izveštaja je neformalizovana",
+        "correct": true
+      },
+      {
+        "text": "Obuhvata obavezni set finansijskih izveštaja",
+        "correct": false
+      },
+      {
+        "text": "Pruža informacije neophodne menadžment grupi",
+        "correct": true
+      },
+      {
+        "text": "sadržina izveštaja je jednoobrazna",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Prevođenje strategijskih planova u akcione planove preduzeća rezultat je:",
+    "options": [
+      {
+        "text": "budžetiranja",
+        "correct": true
+      },
+      {
+        "text": "operativnog planiranja",
+        "correct": false
+      },
+      {
+        "text": "finansijkog planiranja",
+        "correct": false
+      },
+      {
+        "text": "finansijskog predviđenja",
+        "correct": false
+      },
+      {
+        "text": "inovativnog planiranja",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U metode vremenskog otpisivanja vrednosti osnovnih sredstava ubrajaju se:",
+    "options": [
+      {
+        "text": "Metoda progresivnog otpisa",
+        "correct": false
+      },
+      {
+        "text": "Funkcionalna metoda",
+        "correct": false
+      },
+      {
+        "text": "Metoda aritmetičke degresije",
+        "correct": false
+      },
+      {
+        "text": "Metoda geometrijske progresije (treba degresije)",
+        "correct": false
+      },
+      {
+        "text": "Metoda ponderisane prosečne cene",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Odrediti koje od navedenih stalnih materijalnih sredstava podleže obračunu amortizacije:",
+    "options": [
+      {
+        "text": "Zemljište",
+        "correct": false
+      },
+      {
+        "text": "Avansi za nekretnine, postrojenja i opremu",
+        "correct": false
+      },
+      {
+        "text": "Nekretnine, postrojenja i oprema u PRIPREMi",
+        "correct": false
+      },
+      {
+        "text": "Građevinski objekti",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Zaokružiti tačnu tvrdnju:",
+    "options": [
+      {
+        "text": "Kapital predstavlja zbir sredstava i obaveza",
+        "correct": false
+      },
+      {
+        "text": "Kapital predstavlja ostatak sredstava pravnog lica nakon odbitka svih njegovih obaveza",
+        "correct": true
+      },
+      {
+        "text": "Kapital predstavlja tuđi izvor sredstava",
+        "correct": false
+      },
+      {
+        "text": "Kapital predstavlja razliku prihoda i rashoda",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Koje od navedenih sredstava ne spada u obrtna sredstva:",
+    "options": [
+      {
+        "text": "Kratkoročna ulaganja",
+        "correct": false
+      },
+      {
+        "text": "Unapred plaćeni troškovi",
+        "correct": true
+      },
+      {
+        "text": "Obračunati a neplaćeni troškovi",
+        "correct": true
+      },
+      {
+        "text": "Novac i novčani ekvivalenti",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Metode utvrđivanja periodičnog rezultata su (bilansa uspeha):",
+    "options": [
+      {
+        "text": "Metoda ukupnih troškova",
+        "correct": true
+      },
+      {
+        "text": "Revalorizaciona metoda",
+        "correct": false
+      },
+      {
+        "text": "Funkcionalna metoda",
+        "correct": false
+      },
+      {
+        "text": "Metoda prodatih učinaka",
+        "correct": true
+      },
+      {
+        "text": "Metoda obračunatih zaliha",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Devizni kurs kojim država utiče na međunarodne ekonomske i finansijske transakcije?",
+    "options": [
+      {
+        "text": "Višestruki",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Početni finansijski ciljevi su:",
+    "options": [
+      {
+        "text": "solventnost",
+        "correct": false
+      },
+      {
+        "text": "likvidnost",
+        "correct": true
+      },
+      {
+        "text": "optimalna struktura sredstava",
+        "correct": true
+      },
+      {
+        "text": "brz obrt sredstava",
+        "correct": false
+      },
+      {
+        "text": "maksimizacija profitabilnosti",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Zaokružiti neutralne bankarske poslove:",
+    "options": [
+      {
+        "text": "eskontni poslovi",
+        "correct": false
+      },
+      {
+        "text": "izdavanje kreditnih pisama",
+        "correct": true
+      },
+      {
+        "text": "otvaranja akreditiva",
+        "correct": true
+      },
+      {
+        "text": "inkaso poslovi",
+        "correct": true
+      },
+      {
+        "text": "emitovanje obveznica // ipak je pasivan",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Krajnji finansijski ciljevi su:",
+    "options": [
+      {
+        "text": "solvetnost",
+        "correct": false
+      },
+      {
+        "text": "brz obrt sredstava",
+        "correct": false
+      },
+      {
+        "text": "minimizacija troškova",
+        "correct": false
+      },
+      {
+        "text": "finansijska snaga",
+        "correct": true
+      },
+      {
+        "text": "maksimizacija profitabilnosti",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Optimalna struktura kapitala je:",
+    "options": [
+      {
+        "text": "miks kapitala preduzeća i duga",
+        "correct": false
+      },
+      {
+        "text": "struktura koja obezbeđuje najveću likvidnost",
+        "correct": false
+      },
+      {
+        "text": "struktura koja maksimizira cenu akcije",
+        "correct": true
+      },
+      {
+        "text": "optimalan balans između rizika i prinosa",
+        "correct": true
+      },
+      {
+        "text": "odnos 1:1 između sopstvenog i tuđeg kapitala",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Stanje i dinamika likvidnost najbolje se prati i analizira preko:",
+    "options": [
+      {
+        "text": "FFL",
+        "correct": false
+      },
+      {
+        "text": "FPL",
+        "correct": false
+      },
+      {
+        "text": "tekućeg racia likvidnosti",
+        "correct": true
+      },
+      {
+        "text": "marže sigurnosti",
+        "correct": false
+      },
+      {
+        "text": "BRL",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Vertikalna pravila finansiranja odnose se na pokazatelje:",
+    "options": [
+      {
+        "text": "ORL",
+        "correct": false
+      },
+      {
+        "text": "koeficijent finansijske stabilnosti",
+        "correct": false
+      },
+      {
+        "text": "stepen samofinansiranja",
+        "correct": true
+      },
+      {
+        "text": "marža sigurnosti",
+        "correct": true
+      },
+      {
+        "text": "stepen pokrića",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ugovor kojim kupac ima pravo, ali ne i obavezu da kupi određeno sredstvo na neki datum u budućnosti naziva se:",
+    "options": [
+      {
+        "text": "opcija",
+        "correct": true
+      },
+      {
+        "text": "svop",
+        "correct": false
+      },
+      {
+        "text": "obveznica",
+        "correct": false
+      },
+      {
+        "text": "fjučers",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Finansijski izveštaj koji se sastavlja za određeni period (najčešće godinu dana) je:",
+    "options": [
+      {
+        "text": "bilans stanja",
+        "correct": true
+      },
+      {
+        "text": "bilans uspeha",
+        "correct": true
+      },
+      {
+        "text": "izveštaj o novčanim tokovima",
+        "correct": true
+      },
+      {
+        "text": "izveštaj o promenama na kapitalu",
+        "correct": false
+      },
+      {
+        "text": "napomene uz fin. izveštaje",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ukoliko banka vrši emisiju efekata za sopstveni račun, to za nju predstavlja:",
+    "options": [
+      {
+        "text": "aktivni posao",
+        "correct": false
+      },
+      {
+        "text": "sopstveni posao",
+        "correct": false
+      },
+      {
+        "text": "pasivni posao",
+        "correct": true
+      },
+      {
+        "text": "neutralni posao",
+        "correct": false
+      },
+      {
+        "text": "eskontni posao",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kredit koji se odobrava po tekućem računu između dva preduzeća koja imaju ustaljeni poslovni odnos, naziva se:",
+    "options": [
+      {
+        "text": "avalni kredit",
+        "correct": false
+      },
+      {
+        "text": "lombardni kredit",
+        "correct": false
+      },
+      {
+        "text": "eskontni",
+        "correct": false
+      },
+      {
+        "text": "konto-korentni",
+        "correct": true
+      },
+      {
+        "text": "hipotekarni",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Indirektna metoda sastavljanja izveštaja o novčanim tokovima:",
+    "options": [
+      {
+        "text": "Pristup odozdo nagore",
+        "correct": true
+      },
+      {
+        "text": "Pogodna za interne potrebe pred",
+        "correct": false
+      },
+      {
+        "text": "Kompleksnija od direktne",
+        "correct": false
+      },
+      {
+        "text": "Prati bruto tokove gotovine",
+        "correct": false
+      },
+      {
+        "text": "Jednostavnija od direktne",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Prenošenje prava po osnovu menice se vrši radnjom koja se naziva:",
+    "options": [
+      {
+        "text": "akceptiranje menice",
+        "correct": false
+      },
+      {
+        "text": "isplata menice",
+        "correct": false
+      },
+      {
+        "text": "indosiranje menice",
         "correct": true
+      },
+      {
+        "text": "avaliranje menice",
+        "correct": false
+      },
+      {
+        "text": "protest",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Direktna i indirektna metoda primenjuju se prilikom sačinavanja sledećeg finansijskog izveštaja:",
+    "options": [
+      {
+        "text": "napomene uz fin. izveštaje",
+        "correct": false
       },
       {
-        "text": "Da istakne kako se dnevni scrum ne dokumentuje adekvatno.",
+        "text": "bilansa stanja",
         "correct": false
       },
       {
-        "text": "Da predstavi budžetsku situaciju i ukaže na varijacije troškova.",
+        "text": "izveštaja o promenama na kapitalu",
         "correct": false
+      },
+      {
+        "text": "izveštaja o novčanim tokovima",
+        "correct": true
       },
       {
-        "text": "Da pregleda rezultate testa (koje su prethodno uradili članovi razvojnog tima) kako bi stekao poverenje zainteresovanih strana.",
+        "text": "bilansa uspeha",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Ana, menadžer projekta, smatra da bi dodavanje opcije za automatsko generisanje izveštaja bilo uzbudljivo za kupce, jer bi to bio novi i neočekivan dodatak koji bi značajno unapredio funkcionalnost platforme. Marko, softverski inženjer, procenjuje da bi bolja organizacija korisničkog interfejsa bila zadovoljavajuća karakteristika, jer bi to poboljšalo upotrebljivost platforme, što bi korisnicima donelo vrednost. Jelena, analitičar podataka, smatra da bi nedostatak funkcionalnosti za personalizaciju izveštaja bio nezadovoljavajući za kupce, jer bi to moglo umanjiti njihovo zadovoljstvo, iako sama prisutnost ove karakteristike ne bi nužno povećala zadovoljstvo. Na kraju, Nikola, direktor marketinga, veruje da bi dodavanje opcije za praćenje analitike projekata moglo biti sporedno za kupce, jer smatra da to nije ključno za njihovo zadovoljstvo. Koju metodu prioritetizacije je primenio tim?",
+    "question": "Tekuća finansijska politika obuhvata:",
     "options": [
       {
-        "text": "Procena afiniteta",
+        "text": "politiku maksimiziranja profitabilnosti",
         "correct": false
       },
       {
-        "text": "Monopol",
+        "text": "politiku upravljanja finansijama",
         "correct": false
       },
       {
-        "text": "Metoda 100 poena",
+        "text": "politiku pravila finansiranja",
         "correct": false
       },
       {
-        "text": "Kano analiza",
+        "text": "politiku obrta kapitala",
         "correct": true
+      },
+      {
+        "text": "politiku likvidnosti",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Tim koji radi na organizaciji projekta „SMP 2023” je identifikovao određene rizične događaja. Dogovorili su se da pokušaju da naprave izmenu ugovora kako bi se oslobodili nekih obaveza koje nose identifikovani rizici i da se tim ugovorom deo rizika prenese na partnersku firmu, koja je sada odgovorna za upravljanje tim delovima rizika projekta. Ova strategija reakcije na rizik se naziva:",
+    "question": "Prema načinu određivanja poverioce, hartija od vrednosti može da glasi:",
     "options": [
+      {
+        "text": "po naredbi",
+        "correct": true
+      },
       {
-        "text": "Prebacivanje rizika",
+        "text": "na ime",
         "correct": true
       },
       {
-        "text": "Smanjenje rizika",
+        "text": "na imaoca",
         "correct": false
       },
       {
-        "text": "Podnošenje rizika",
+        "text": "na dužnika",
         "correct": false
       },
       {
-        "text": "Podela rizika",
+        "text": "na donosioca",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koja od sledećih tvrdnji opisuje ugovor sa fiksnom cenom i stimulativnim dodatkom?",
+    "question": "Stopa prinosa na sopstvena sredstva se dobija iz matematičkog odnosa:",
     "options": [
       {
-        "text": "Plaćanje troškova plus 5.400€ za svaki mesec realizacije projekat ukoliko se on završi pre Svetog Nikole.",
+        "text": "poslovne dobiti i sopstvenog kapitala",
         "correct": false
       },
       {
-        "text": "Plaćanje 540.000€ plus 5.400€ za svaki mesec koji se projekat završi ranije.",
+        "text": "neto dobiti i sopstvenog kapitala",
         "correct": true
+      },
+      {
+        "text": "neto dobiti i poslovnih sredstava",
+        "correct": false
       },
       {
-        "text": "Plaćanje svih troškova plus naknade od 5.400€.",
+        "text": "ništa od navedenog",
         "correct": false
       },
       {
-        "text": "Plaćanje 540.000€ dolara.",
+        "text": "poslovne dobiti i poslovnih sredstava",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Šta od sledećeg nije Scrum ceremonija?",
+    "question": "Prema mestu plaćanja, akreditivi mogu biti:",
     "options": [
+      {
+        "text": "opozivi i neopozivi",
+        "correct": false
+      },
       {
-        "text": "Planiranje sprinta",
+        "text": "vista i oročeni",
+        "correct": true
+      },
+      {
+        "text": "prenosivi i neprenosivi",
         "correct": false
       },
       {
-        "text": "Retrospektiva",
+        "text": "nostro i loro",
         "correct": false
       },
+      {
+        "text": "potvrđeni i nepotvrđeni",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Povećano zaduživanje prema “DuPont” šemi profitabilnosti:",
+    "options": [
       {
-        "text": "Doterivanje product backlog-a",
+        "text": "povećanje profitabilnosti",
         "correct": true
+      },
+      {
+        "text": "smanjuje profitabilnost",
+        "correct": false
+      },
+      {
+        "text": "povećava marginalnu dobit",
+        "correct": false
       },
       {
-        "text": "Dnevni scrum",
+        "text": "povećava koeficijent obrta",
         "correct": false
+      },
+      {
+        "text": "povećava multiplikator sopstvenih sredstava",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Projektni tim tokom podprocesa kontrole kvaliteta meri kvalitet proizvoda na osnovu njihove grube kategoričke ocene (prihvatljiv/defektan). Koju tehniku kontrole kvaliteta primenjuje projektni tim?",
+    "question": "Pravilo za odnos obrtnih sredstava i tekućih obaveza “2:1” predstavlja:",
     "options": [
       {
-        "text": "Test tolerancije",
+        "text": "eksternu normu za poređenje",
         "correct": false
       },
       {
-        "text": "Varijabilno uzorkovanje",
+        "text": "subjektivnu normu za poređenje",
         "correct": false
       },
+      {
+        "text": "apokrifnu normu za poređenje",
+        "correct": true
+      },
+      {
+        "text": "objektivnu normu za poređenje",
+        "correct": false
+      },
+      {
+        "text": "internu normu za poređenje",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U kontnom okviru četvorocifreni brojevi predstavljaju:",
+    "options": [
       {
-        "text": "Prevencija",
+        "text": "klase",
         "correct": false
       },
       {
-        "text": "Atributivno uzorkovanje",
+        "text": "analitičke račune",
         "correct": true
+      },
+      {
+        "text": "sintentičke račune",
+        "correct": false
+      },
+      {
+        "text": "mešovite račune",
+        "correct": false
+      },
+      {
+        "text": "grupe",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Scrum master tima radio je na kritičnom zadatku kada mu se drugi član tima obratio za pomoć. Scrum master treba da:",
+    "question": "U kontnom okviru trocifreni brojevi predstavljaju:",
     "options": [
       {
-        "text": "Dovrši kritični zadatak, a zatim pomogne članu tima.",
+        "text": "klase",
         "correct": false
       },
       {
-        "text": "Zamoli drugog člana tima da mu pomogne.",
+        "text": "analitičke račune",
         "correct": false
       },
       {
-        "text": "Prvo pomogne članu tima, a zatim se vrati svom zadatku.",
+        "text": "sintentičke račune",
         "correct": true
+      },
+      {
+        "text": "mešovite račune",
+        "correct": false
+      },
+      {
+        "text": "grupe",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "U kontnom okviru dvocifreni brojevi predstavljaju:",
+    "options": [
+      {
+        "text": "klase",
+        "correct": false
+      },
+      {
+        "text": "analitičke račune",
+        "correct": false
       },
       {
-        "text": "Zamoli člana tima da se obrati vlasniku proizvoda.",
+        "text": "sintentičke račune",
         "correct": false
+      },
+      {
+        "text": "mešovite račune",
+        "correct": false
+      },
+      {
+        "text": "grupe",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Na kraju sprinta, agilni tim je isporučio četiri korisničke priče procenjene na ukupno 33 story points-a koje su bile 100% završene po definiciji završenog, dok je jedna korisnička priča procenjena na 3 story points-a bila 70% završena. Koja je brzina tima u ovom sprintu?",
+    "question": "U kontnom okviru jednocifreni brojevi predstavljaju:",
     "options": [
+      {
+        "text": "klase",
+        "correct": true
+      },
       {
-        "text": "33",
+        "text": "analitičke račune",
         "correct": false
       },
       {
-        "text": "36",
+        "text": "sintentičke račune",
         "correct": false
       },
       {
-        "text": "35,1",
+        "text": "mešovite račune",
         "correct": false
       },
       {
-        "text": "5",
+        "text": "grupe",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Aleksa je želeo da prikaže novi spektar boja za proizvod koja je više u skladu sa korporativnim brendiranjem. Koji je najbolji događaj za ovo?",
+    "question": "Kada se devizni kurs vezuje za vrednost strane valute, ali u rasponu većem od 2,25%, takav kurs se naziva:",
     "options": [
+      {
+        "text": "fiksni",
+        "correct": false
+      },
+      {
+        "text": "ograničeni",
+        "correct": false
+      },
+      {
+        "text": "fluktuirajući",
+        "correct": false
+      },
       {
-        "text": "Pregled sprinta",
+        "text": "fleksibilni",
         "correct": true
       },
+      {
+        "text": "višestruki",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Korišćenje diskontovanja kao tehnike je karakteristično za:",
+    "options": [
       {
-        "text": "Planiranje sprinta",
+        "text": "interna stopa prinosa",
         "correct": false
       },
       {
-        "text": "Sprint retrospektiva",
+        "text": "cena kapitala",
         "correct": false
       },
       {
-        "text": "Dnevni scrum",
+        "text": "prosečan period povraćaja",
         "correct": false
+      },
+      {
+        "text": "indeks profitabilnosti",
+        "correct": true
+      },
+      {
+        "text": "neto sadašnja vrednosti",
+        "correct": true
+      },
+      {
+        "text": "diskontovani period povracaja",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Projektni tim identifikuje niz tehničkih izazova sa karakteristikama u sledećem sprintu. Šta treba da rade?",
+    "question": "Činjenicu da je hipoteka pravo koje postoji jedino ako postoji i potraživanje koje se njome obezbeđuje nazivamo:",
     "options": [
+      {
+        "text": "pravo obezbeđenja",
+        "correct": false
+      },
       {
-        "text": "Zamole tehničkog menadžera za pomoć.",
+        "text": "akcesorno pravo",
         "correct": false
       },
       {
-        "text": "Da se samostalno organizuju za rad i odrede onoga ko je najbolje kvalifikovan da odgovori na izazove.",
+        "text": "nedeljivo pravo",
         "correct": true
+      },
+      {
+        "text": "stvarno pravo",
+        "correct": false
+      },
+      {
+        "text": "ekstezivno pravo",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kada menadžment nastoji da maksimizira poslovne rezultate korišćenjem postojećih ili pribavljenih izvore, takvo planiranje je:",
+    "options": [
+      {
+        "text": "operativno",
+        "correct": false
       },
       {
-        "text": "Zamole vlasnika proizvoda da preraspodeli funkcije na drugi sprint.",
+        "text": "zadovoljavajuće",
         "correct": false
       },
       {
-        "text": "Zamole vlasnika proizvoda da dodeli zadatke najprikladnijim resursima.",
+        "text": "osnovno",
         "correct": false
+      },
+      {
+        "text": "inovativno",
+        "correct": false
+      },
+      {
+        "text": "optimalno",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koji je pristup koji Scrum tim treba da primeni kada utvrdi da će biti teško da isporuči bilo kakvu vrednost do kraja sprinta?",
+    "question": "Diskontovani period povraćaja:",
     "options": [
       {
-        "text": "Zajedno sa vlasnikom proizvoda fokusirati se na ono što se može uraditi i identifikovati način da se isporuči nešto vredno na kraju svakog Sprinta.",
+        "text": "zahteva poznat trošak kapitala",
         "correct": true
       },
       {
-        "text": "Predložiti vlasniku proizvoda da prekine Sprint.",
+        "text": "predstavlja metod koji najbolje rangira investicije",
         "correct": false
       },
       {
-        "text": "Treba se odmah obratiti višem rukovodstvu.",
+        "text": "pruža informaciju o povećaju vrednosti preduzeća",
         "correct": false
+      },
+      {
+        "text": "ignoriše novčani tok nakon perioda povraćaja",
+        "correct": true
       },
       {
-        "text": "Produžiti sprint za nekoliko dana kako bi se prilagodio dodatni posao.",
+        "text": "ne uzima u obzir vremensku vrednost novca",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Kada je sprint gotov?",
+    "question": "Kada menadžment nastoji da minimizira troškove pri datom nivou prihoda, takvo planiranje je:",
     "options": [
+      {
+        "text": "operativno",
+        "correct": false
+      },
       {
-        "text": "Kada sve stavke iz sprint backlog-a zadovolje svoju definiciju „gotovo“.",
+        "text": "zadovoljavajuće",
         "correct": false
       },
       {
-        "text": "Kada su svi taskovi završeni.",
+        "text": "osnovno",
         "correct": false
       },
       {
-        "text": "Kada vlasnik proizvoda kaže da je \"gotovo\".",
+        "text": "inovativno",
         "correct": false
       },
       {
-        "text": "Kada rok istekne.",
+        "text": "optimalno",
         "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Prema Agilnom manifestu, koji način komunikacije sa i u okviru razvojnog tima se smatra najefikasnijim i najefektivnijim?",
+    "question": "Računi uspeha su:",
     "options": [
       {
-        "text": "Elektronska komunikacija (npr. e-mail), jer omogućava praćenje razgovora i kasniji pregled informacija.",
+        "text": "odlivi",
         "correct": false
       },
       {
-        "text": "Pisani dokumenti, jer omogućavaju trajno evidentiranje odluka i informacija dostupnih široj publici.",
+        "text": "računi ispravki vrednosti",
         "correct": false
       },
       {
-        "text": "Formalni sastanci sa unapred definisanim agendama, jer pružaju strukturu i jasnoću u komunikaciji.",
+        "text": "računi prihoda",
+        "correct": true
+      },
+      {
+        "text": "prilivi",
+        "correct": false
+      },
+      {
+        "text": "aktivni računi",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kojoj grupi bilansnih promena pripadaju promene koje izazivaju povećanje aktive i pasive za isti iznos?",
+    "options": [
+      {
+        "text": "drugoj grupi",
+        "correct": false
+      },
+      {
+        "text": "trećoj grupi",
+        "correct": false
+      },
+      {
+        "text": "četvrtoj grupi",
         "correct": false
       },
       {
-        "text": "Direktna komunikacija licem u lice, jer omogućava brži prenos informacija, uključujući emocije i govor tela.",
+        "text": "nijednoj od navedenih",
+        "correct": false
+      },
+      {
+        "text": "prvoj grupi",
         "correct": true
       }
     ],
     "explanation": ""
   },
-{
-    "question": "Kompanija Quantum, bavi se istraživanjem telekomunikacionih rešenja za potrebe drugihorganizacija. Quantum obavlja veliki broj projekata istovremeno, tako da je okruženjeukomekompanija posluje okarakterisano kao složeno i dinamično. Iz navedenog razloga Quantum seodlučio za primenu projektno orijentisane organizacije. Šta od sledećeg bi predstavljalokarakteristiku projektno orijentisane organizacije?",
+  {
+    "question": "Kojoj grupi bilansnih promena pripadaju promene koje izazivaju smanjivanje aktive i pasive za isti iznos?",
     "options": [
+      {
+        "text": "drugoj grupi",
+        "correct": true
+      },
+      {
+        "text": "trećoj grupi",
+        "correct": false
+      },
+      {
+        "text": "četvrtoj grupi",
+        "correct": false
+      },
       {
-        "text": "veliki oslonac na individualni rad",
+        "text": "nijednoj od navedenih",
         "correct": false
       },
+      {
+        "text": "prvoj grupi",
+        "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kojoj grupi bilansnih promena pripadaju promene koje izazivaju promene u strukturi aktive:",
+    "options": [
+      {
+        "text": "trećoj grupi",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kojoj grupi bilansnih promena pripadaju promene koje izazivaju promene u strukturi pasive:",
+    "options": [
       {
-        "text": "primena mrežne i ravne organizacije",
+        "text": "četvrtoj grupi",
         "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Derivativne hartije od vrednosti su:",
+    "options": [
+      {
+        "text": "blagajnički zapisi",
+        "correct": false
       },
       {
-        "text": "nije potrebno obezbeđivanje IT infrastrukture",
+        "text": "certifikat o depozitu",
         "correct": false
+      },
+      {
+        "text": "opcije",
+        "correct": true
       },
       {
-        "text": "realizacija više projekata, programa i portfolia sa čestim prekidima",
+        "text": "svopovi",
+        "correct": true
+      },
+      {
+        "text": "komercijalni zapisi",
         "correct": false
+      },
+      {
+        "text": "fjucersi i forvard ugovori",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Tokom sastanka za ažuriranje statusa, prezentujete zainteresovanim stranama grafikon kojiprati posao koji je preostao da se završi u odnosu na vreme koje je preostalo u ovom perioduprojekta. Koju vrstu grafikona ste pokazali zainteresovanim stranama?",
+    "question": "Zalihe su:",
     "options": [
+      {
+        "text": "materijal u obradi i doradi",
+        "correct": true
+      },
       {
-        "text": "Burnup grafikon",
+        "text": "šume i osnovno stado",
         "correct": false
       },
       {
-        "text": "Sprint backlog",
+        "text": "gotovinski ekvivalenti",
         "correct": false
       },
       {
-        "text": "Burndown grafikon",
+        "text": "nedovršena proizvodnja",
         "correct": true
       },
       {
-        "text": "Gantogram",
+        "text": "obrtna sredstva (imovina)",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Kako biste nabavili potrebne materijale za Vaš projekt, Vaš tim je pripremio svu tenderskudokumentaciju koja je poslata potencijalnim dobavljačima. Dokumenta su struktuirana tako dadefinišu predloge za postizanje dogovora i način ocenjivanja pristiglih ponuda od stranedobavljača. Očekujete u narednom periodu veliki broj pristiglih ponuda koje će biti potrebnooceniti kako se odabrao najpovoljniji dobavljač i zaključio ugovor sa njim. O kom podprocesuupravljanja nabavkom je reč?",
+    "question": "Racio koji objašnjava pokrivenost svake novčane jedinice kratkoročnih obaveza određenim iznosom likvidnih sredstava se naziva:",
     "options": [
       {
-        "text": "Zatvaranje nabavke",
+        "text": "rigorozni racio likvidnosti (brzi)",
+        "correct": true
+      },
+      {
+        "text": "opšti racio likvidnosti",
         "correct": false
       },
       {
-        "text": "Planiranje upravljanja nabavkom",
+        "text": "racio defanzivnog intervala",
         "correct": false
       },
       {
-        "text": "Kontrola nabavki",
+        "text": "neto obrtna sredstva",
         "correct": false
       },
       {
-        "text": "Sprovođenje nabavki",
-        "correct": true
+        "text": "racio usklađenosti novčanih tokova",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Milan je zadužen da obuči novog praktikanta o konceptu projektnog menadžmenta. Jedna odtema koju Milan treba da obradi sa praktikantom i osigura da je on stekao dobro razumevanje jetema upravljanja komunikacijom na projektu. Šta bi Milan trebao da kaže novom praktikantu dasu četiri osnovna elementa procesa komuniciranja?",
+    "question": "Faktori razvoja finansijskog tržišta su:",
     "options": [
       {
-        "text": "Slanje, filtriranje, primanje i tumačenje poruke",
+        "text": "fiskalna politika",
         "correct": false
       },
       {
-        "text": "Plan komunikacija, projektni tim, distribucija informacija i izveštaji",
-        "correct": false
+        "text": "novac",
+        "correct": true
+      },
+      {
+        "text": "koncentracija kapitala",
+        "correct": true
       },
       {
-        "text": "Sastanci, korespondencija, elektronska pošta i lični kontakti",
+        "text": "centralizacija kapitala",
         "correct": false
+      },
+      {
+        "text": "inflacija",
+        "correct": true
       },
       {
-        "text": "Komunikator, poruka, medij, primalac",
+        "text": "monetarna politika",
         "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Član tima je predložio da se određena funkcionalnost uključi u trenutnu isporuku proizvoda.Ovo do sada nije zahtevao nijedan kupac, ali bi to mogao biti uzbudljiv dodatak proizvodu ijedinstvena prodajna ponuda. Drugi članovi tima smatraju da postoji mnogo drugih obaveznihfunkcionalnosti koje treba da budu prioritet. Na kraju, vlasniku proizvoda je prepušteno da odrediprioritet nove funkcionalnosti. Kako vlasnik proizvoda treba da donese odluku?",
+    "question": "Prema modelu organizacije finansijske funkcije, u poslove finansijskog upravljanja ubrajaju se:",
     "options": [
       {
-        "text": "Produži isporuku dokle god ne dođe red na novu funkcionalnost",
-        "correct": false
+        "text": "finansijska analiza",
+        "correct": true
       },
       {
-        "text": "Odloži novu funkcionalnost dok se obavezne funkcionalnost ne završe",
+        "text": "finansijsko poslovanje",
         "correct": false
       },
       {
-        "text": "Organizuje glasanje unutar tima i složi se sa mišljenjem većine",
+        "text": "finansijski informacioni sistem",
         "correct": false
+      },
+      {
+        "text": "finansijko planiranje",
+        "correct": true
       },
       {
-        "text": "Donese odluku na osnovu vrednosti koju nova funkcionalnost donosi korisniku i uporedi savrednošću obaveznih funkcionalnosti",
+        "text": "finansijska kontrola",
         "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Projektni tim tokom podprocesa kontrole kvaliteta meri kvalitet proizvoda na osnovu njihovegrube kategoričke ocene (prihvatljiv/defektan). Koju tehniku kontrole kvaliteta primenjujeprojektni tim?",
+    "question": "Aktivni računi:",
     "options": [
       {
-        "text": "Atributivno uzorkovanje",
-        "correct": true
+        "text": "povećanja se beleže na potražnoj strani",
+        "correct": false
       },
       {
-        "text": "Test tolerancije",
+        "text": "imaju početno stanje na potražnoj strani",
         "correct": false
       },
       {
-        "text": "Prevencija",
-        "correct": false
+        "text": "povećanja se beleže na dugovnoj strani",
+        "correct": true
       },
       {
-        "text": "Varijabilno uzorkovanje",
+        "text": "su računi uspeha",
         "correct": false
+      },
+      {
+        "text": "saldo izravnanja se beleži na potražnoj strani",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Kompanija \"InnoDesign Furnishings\" koja se bavi proizvodnjom modernog nameštaja zadomaćinstva. Njihov tim istražuje nove tehnologije i materijale kako bi unapredili svoju linijuproizvoda. Svaki dan otkrivaju inovativne načine obrade materijala i optimizacije dizajnanameštaja. Sa uzbuđenjem žele što pre implementirati ove nove elemente u proizvodnju kako biostali korak ispred konkurencije. Fokusirani su na lansiranje novih komada nameštaja koji donosestvarnu vrednost kupcima, težeći ka prikupljanju korisnih povratnih informacija za daljeunapređenje svojih proizvoda. Koji pristup upravljanja ciklusom unapređenja proizvoda bi najvišeodgovarao \"InnoDesign Furnishings\"?",
+    "question": "Pod obrtnih sredstavima (imovinom) se podrazumevaju:",
     "options": [
       {
-        "text": "Inkrementalni",
+        "text": "akcije",
         "correct": false
       },
       {
-        "text": "Agilni",
-        "correct": true
+        "text": "sredstva koja se amortizuju",
+        "correct": false
       },
       {
-        "text": "Hibridni",
+        "text": "kratkoročni kapital",
         "correct": false
+      },
+      {
+        "text": "sredstva koja se jednokratnom upotrebom troše u poslovnom procesu",
+        "correct": true
       },
       {
-        "text": "Vodopad",
+        "text": "softveru, patenti i licence",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Razvojni tim radi na jednom od sprintova planiranih na njihovom agilnom projektu.Zainteresovana strana prilazi scrum masteru pitajući se zašto je određena karakteristika uklonjenaiz poslednjeg sprinta, koje karakteristike su u planu da budu isporučene u sledećem sprintu i kakose troši novac na projektu. Šta Scrum master treba da preduzme ovoj situaciji?",
+    "question": "Pasivni bankarski poslovi su:",
     "options": [
+      {
+        "text": "otvaranje akreditiva",
+        "correct": false
+      },
       {
-        "text": "Preporuči zainteresovanoj strani da razgovara sa vlasnikom proizvoda",
+        "text": "međubankarski zajmovi",
         "correct": true
       },
       {
-        "text": "Daje tražene informacije zainteresovanoj strani na dnevnom scrum sastanku",
+        "text": "inkaso poslovi",
         "correct": false
       },
       {
-        "text": "Savetuje zainteresovanu stranu da pogleda burndown grafikon",
-        "correct": false
+        "text": "relombard",
+        "correct": true
       },
       {
-        "text": "Uputi zainteresovanu stranu ka članovima tima, jer su oni odgovorni za te aktivnosti",
+        "text": "devizni poslovi",
         "correct": false
+      },
+      {
+        "text": "depozitni poslovi",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Milan se nalazi na poziciji projektnog menadžera. On je odgovoran za realizaciju projektarazvoja novog sistema za upravljanje nabavkom. U pitanju je interni projekat kompanije u kojoj jezaposlen. Treba da pomognete Milanu da bolje razume i razlikuje koncepte upravljanja projektimai upravljanja programom. Koju od navedenih tvrdnji biste mu rekli da je tačna za konceptupravljanje projektima?",
+    "question": "Poređenje zasnovano na “benčmarkingu” predstavlja:",
     "options": [
       {
-        "text": "Upravljanje projektima odnosi se na veći broj simultanih projekata, dok se upravljanje programomodnosi na upravljanje realizacijom jednog projekta tokom vremena.",
+        "text": "subjektivnu normu za poređenje",
         "correct": false
       },
       {
-        "text": "Upravljanje projektima se fokusira na resurse, dok kod upravljanja programom fokus nije usmerenka resursima.",
+        "text": "objektivnu normu za poređenje",
         "correct": false
       },
       {
-        "text": "Upravljanje projektima usmerava fokus na ciljeve organizacije, dok upravljanje programomusmerava fokus na projekte.",
+        "text": "internu normu za poređenje",
         "correct": false
       },
       {
-        "text": "Upravljanje projektima podrazumeva raspoloživost manjeg broja alata, dok upravljanjeprogramom podrazumeva veći broj raspoloživih alata.",
+        "text": "eksternu normu za poređenje",
         "correct": true
+      },
+      {
+        "text": "apokrifnu normu za poređenje",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Vaš tim radi na razvoju novog softverskog proizvoda. Nakon istraživanja tržišta, primetili ste dapostoji velika konkurencija u industriji, ali i potencijal za značajnim prihodima. Međutim, postojimogućnost da se pojave tehnički problemi tokom implementacije novih funkcionalnosti, što bimoglo dovesti do kašnjenja u lansiranju proizvoda. Ovaj primer predstavlja:",
+    "question": "Politika pravila finansiranja, pravila finansijskog poslovanja i upravljanja finansijama čine:",
     "options": [
       {
-        "text": "Rizik",
+        "text": "osnovnu finansijsku politiku",
         "correct": true
+      },
+      {
+        "text": "politiku upravljanja kapitalom",
+        "correct": false
       },
       {
-        "text": "Nestrukturirana neizvesnost",
+        "text": "ništa od navedenog",
         "correct": false
       },
       {
-        "text": "Strukturirana neizvesnost",
+        "text": "razvojnu politiku",
         "correct": false
       },
       {
-        "text": "Izvesnost",
+        "text": "investicionu politiku",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "U slučaju kada je Naručilac neiskusan u poslovima izvođenja projekata i nema specijalizovaneljude koji mogu da rade na koordinaciji i vođenju projekta, on angažuje specijalizovanogkonsultanta, da u njegovo ime i za njegov račun, upravlja izvođenjem projekta u celini. U slučajukada je u pitanju odvojeni ugovor sa više izvođača, koji od navedenih modaliteta povezanostiučesnika projekta je najbolji za opisanu situaciju?I – Investitor; PMI – Project management investitora; GI – Glavni izvođač; PI – Podizvođači; IZ –Izvođači; PMK – Project management konsultant; PMGI – Project management glavnog izvođača.Kada je idealno vreme za održavanje retrospektive?",
+    "question": "Knjigovodstvo je:",
     "options": [
       {
-        "text": "Tokom pregleda sprinta",
+        "text": "deo upravljačkog računovodstva",
         "correct": false
       },
       {
-        "text": "Neposredno pre planiranja sprinta",
+        "text": "glavni deo računovodstva",
         "correct": true
       },
       {
-        "text": "Odmah nakon planiranja sprinta",
+        "text": "sinonim s računovodstvom",
         "correct": false
       },
       {
-        "text": "Na početku sledeće isporuke",
+        "text": "širi pojam od računovodstva",
         "correct": false
+      },
+      {
+        "text": "NIJE strogo formalna evidencija",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Šta predstavlja \"pull\" sistem u kanbanu?",
+    "question": "Kada je vrednost faktora poslovnog leveridža 2,5, a očekivani rast prihoda od prodaje 10%, to znači da će se za 25% povećati:",
     "options": [
       {
-        "text": "Članovi tima \"povlače\" posao između sebe (od jednog do drugog člana).",
+        "text": "bruto dobit",
         "correct": false
       },
       {
-        "text": "Po Litlovom zakonu, što ima manje radnih stavki na listi, biće potrebno više vremena da se onezavrše.",
+        "text": "neto dobit",
         "correct": false
       },
       {
-        "text": "Kada se određena radna stavka završi, sledeća radna stavka se \"povlači\" u tu fazu procesa.",
-        "correct": true
+        "text": "dobit pre operezivanja",
+        "correct": false
       },
       {
-        "text": "Iteracije se \"povlače\" u proces po potrebi.",
+        "text": "marginalna dobit",
         "correct": false
+      },
+      {
+        "text": "poslovna dobit",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koja od sledećih tvrdnji opisuje ugovor sa fiksnom cenom i stimulativnim dodatkom?",
+    "question": "Međusobno prebijanje potraživanja i dugovanja u međunarodnom platnom prometu obavlja se putem:",
     "options": [
       {
-        "text": "Plaćanje svih troškova plus naknade od 5.400€.",
+        "text": "svopova",
         "correct": false
       },
       {
-        "text": "Plaćanje 540.000€ plus 5.400€ za svaki mesec koji se projekat završi ranije.",
+        "text": "otvaranje akreditiva",
         "correct": true
       },
       {
-        "text": "Plaćanje 540.000€ dolara.",
+        "text": "rambusiranja",
         "correct": false
       },
       {
-        "text": "Plaćanje troškova plus 5.400€ za svaki mesec realizacije projekat ukoliko se on završi pre Svetog Nikole.",
+        "text": "kliringa",
         "correct": false
+      },
+      {
+        "text": "fjučersa",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Trenutno sprovodite aktivnosti kojim želite da utvrdite da li se podprocesi kvaliteta odvijaju po planu i da li ostvaruju planirane rezultate. Pored toga, želite da utvrdite da li proizvod projektazadovoljava definisane zahteve klijenata i da li se procedure i politike kvaliteta adekvatnoprimenjuju. U kojem podprocesu upravljanja kvalitetom trenutno učestvujete?",
+    "question": "Pasivni računi:",
     "options": [
       {
-        "text": "Kontrola kvaliteta",
+        "text": "su računi uspeha",
         "correct": false
       },
       {
-        "text": "Planiranje upravljanja kvalitetom",
-        "correct": false
+        "text": "su računi stanja",
+        "correct": true
       },
       {
-        "text": "Obezbeđenje kvaliteta",
+        "text": "saldo za izravnanje se beleži na dugovnoj strani",
         "correct": true
+      },
+      {
+        "text": "imaju početno stanje na dugovnoj strani",
+        "correct": false
       },
       {
-        "text": "Sprovođenje pregleda kvaliteta",
+        "text": "povećanja se beleže na dugovnoj strani",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Na kraju sprinta, agilni tim je isporučio četiri korisničke priče procenjene na ukupno 14 storypoints-a koje su bile 100% završene po definiciji urađenog, dok su dve korisničke priče procenjenena 4 story points-a bile 70% završene. Koja je brzina tima u ovom sprintu?",
+    "question": "Prema svrsi sastavljanja finansijski planovi mogu biti:",
     "options": [
       {
-        "text": "14",
-        "correct": false
+        "text": "planovi sredstava i njihovih izvora",
+        "correct": true
       },
       {
-        "text": "22",
-        "correct": false
+        "text": "planovi prihoda i rashoda",
+        "correct": true
       },
       {
-        "text": "19,6",
+        "text": "planovi priliva i odliva",
         "correct": true
       },
       {
-        "text": "6",
+        "text": "prospektivni i perspektivni planovi",
         "correct": false
+      },
+      {
+        "text": "osnovni i operativni planovi",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Milan i Marija se oboje bave oblašću upravljanja projektima. U nedavnom razgovoru Milan jerekao Mariji da prilikom razmatranja različitih projekata koristi neke ekonomske i strateškemetode. Marija nije sigurna za koje potrebe se one primenjuju. Šta biste rekli Mariji za šta sekoriste ekonomske i strateške metode?",
+    "question": "Koje od sledećih hartija od vrednosti mogu izdavati isključivo banke:",
     "options": [
       {
-        "text": "Određivanje budžetskih sredstava potrebnih za krizne situacije",
-        "correct": false
+        "text": "blagajnički zapisi",
+        "correct": true
       },
       {
-        "text": "Određivanje maksimalne vrednosti koju će projekat generisati u novčanom i vremenskom smislu",
+        "text": "komercijalni zapisi",
         "correct": false
       },
       {
-        "text": "Optimizacija raspodele kadrova",
+        "text": "obveznice",
         "correct": false
       },
       {
-        "text": "Prioritetizacija projekata",
+        "text": "certifikat o depozitu",
         "correct": true
+      },
+      {
+        "text": "opcije",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Šta od navedenog nije karakteristično za agilni način razmišljanja?",
+    "question": "Za revolving kredit je karakteristično da se:",
     "options": [
       {
-        "text": "Poštovati proces",
+        "text": "ništa od navedenog nije tačno",
         "correct": true
       },
       {
-        "text": "Kontinuirano isporučivati vrednost",
+        "text": "banka ne obavezuje prema klijentu da će mu sredstva biti",
         "correct": false
       },
       {
-        "text": "Učiti kroz otkrivanje, tokom realizacije projekta",
+        "text": "aranžman pravi na duži period",
         "correct": false
       },
       {
-        "text": "Pozdraviti promene",
+        "text": "na neiskorišćeni deo plaća kamata",
         "correct": false
+      },
+      {
+        "text": "najčešće koristi varijabilna kamatna stopa",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koja od sledećih tvrdnji predstavlja najbolju interpretaciju vrednosti Agilnog manifesta „Funkcionalan softver u odnosu na detaljnu dokumentaciju “?",
+    "question": "U trgovačkom izrazu 5/10 neto 30, broj 10 označava:",
     "options": [
       {
-        "text": "Kreiranje visokokvalitetnog softvera je glavni prioritet i kreiranje projektne dokumentacije može",
+        "text": "veličinu kasa skonta",
         "correct": false
       },
       {
-        "text": "Kreiranje visokokvalitetnog softvera treba uraditi pre izrade projektne dokumentacije.",
-        "correct": false
+        "text": "diskontni period",
+        "correct": true
       },
       {
-        "text": "Izrada visokokvalitetnog softvera je glavni prioritet, jer kreiranje dokumentacije bez funkcionalnogsoftvera nema nikakvu vrednost.",
+        "text": "rok za korišćenje popusta",
         "correct": true
+      },
+      {
+        "text": "rok za otplatu ukupnog duga",
+        "correct": false
       },
       {
-        "text": "Softverski projekti obično ne zahtevaju dokumentaciju.",
+        "text": "kreditni period",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Upravljate medicinskim istraživačkim projektom koji zahteva prikupljanje i zamrzavanjeuzoraka krvi. Stabilnost uzoraka krvi zavisi od toga da li zamrzivač održava konstantnutemperaturu. Odlučili ste da, ako jedan od zamrzivača prestane s radom, uzorke podelite i staviteih u dva odvojena zamrzivača koji će biti priključeni na izvore napajanja koji će biti napajanirezervnim generatorom u slučaju nestanka struje. Koju strategiju odgovora na rizik ste primenili?",
+    "question": "Ugovor kojim se vrši prodaja aktive po fiksnoj ceni za aktivu čija je cena varijabilna:",
     "options": [
       {
-        "text": "Ignorisanje rizika",
+        "text": "forvard",
         "correct": false
       },
       {
-        "text": "Smanjenje rizika",
+        "text": "fjučers",
         "correct": true
       },
       {
-        "text": "Podela rizika",
+        "text": "svop",
         "correct": false
       },
       {
-        "text": "Prebacivanje rizika",
+        "text": "opcija",
         "correct": false
+      },
+      {
+        "text": "obveznica",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Vi ste menadžer projekta za veliki građevinski projekat izgradnje tržnog centra. Sav dizajn ćebiti poveren eksternim kompanijama. Vaš tim je razvio dokumentaciju za nabavku, a tim zanabavku je poslao zahtev za predlog ponuda Izvođačima, ali cene koje su ponudili su veomavisoke. Vi i menadžer nabavke se slažete da je potrebno dodatno pregovarati s potencijalnimIzvođačima kako biste postigli pravičnu i razumnu cenu za njihove usluge. Ko obično vodi ovakvepregovore o nabavci?",
+    "question": "Ako se deo trajnih obrtnih sredstava finansira kratkoročnim izvorima to je:",
     "options": [
-      {
-        "text": "Projektni sponzor",
-        "correct": false
-      },
-      {
-        "text": "Projektni menadžer",
-        "correct": false
-      },
-      {
-        "text": "Projektni sponzor i menadžer nabavke",
-        "correct": false
-      },
       {
-        "text": "Menadžer nabavke",
+        "text": "agresivna finansijska politika",
         "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Šta je od sledećeg među ulogama Scrum mastera tokom dnevnog scrum-a?",
+    "question": "Kategorija zaliha C u ABC modelu su:",
     "options": [
       {
-        "text": "Da nauči developere da zadrže dnevni scrum unutar vremenskog okvira od 15 minuta.",
+        "text": "zalihe sa najmanjom jediničnom vrednošću",
         "correct": true
       },
       {
-        "text": "Da prenosi Vlasniku proizvoda planove za naredne dane sprinta.",
+        "text": "zalihe koje se moraju strogo kontrolisati",
         "correct": false
       },
       {
-        "text": "Da omogući diskusiju kako bi osigurao da svaki član tima ima priliku da govori.",
+        "text": "zalihe sa najmanjim obrtom",
         "correct": false
       },
       {
-        "text": "Da vodi diskusiju i interveniše kada je potrebno.",
+        "text": "zalihe sa najvećom jedinačnom vrednošću",
         "correct": false
+      },
+      {
+        "text": "zalihe sa najvećim obrtom",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Na kraju sastanka za ugovaranje agilnog projekta, zainteresovana strana pita menadžeraprojekta kada će biti prva prilika da vidi napredak tima u razvoju nove aplikacije. Koji Scrumdogađaj bi trebalo da menadžer projekta pozove zainteresovanu stranu da prisustvuje?",
+    "question": "Racio koji pokazuje koliko je učešće dividende u ukupnom ostvarenom",
     "options": [
       {
-        "text": "Dnevni scrum sastanak",
-        "correct": false
+        "text": "racio isplate dividendi",
+        "correct": true
       },
       {
-        "text": "Sastanak za planiranje sprinta",
+        "text": "zarada po akciji",
         "correct": false
       },
       {
-        "text": "Sprint retrospektiva",
+        "text": "prinos u vidu dividende",
         "correct": false
-      },
-      {
-        "text": "Sastanak za pregled sprinta",
-        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Koja od sledećih tvrdnji, koje se tiču isporuke u scrumu je tačna?",
+    "question": "Pod terminom “fjučers” podrazumeva se:",
     "options": [
       {
-        "text": "Proizvodi će služiti svojoj svrsi, ali možda neće zadovoljiti sve potrebe korisnika.",
+        "text": "pravo, ali ne i obaveza da se kupi određena aktiva u budućnosti",
         "correct": false
       },
       {
-        "text": "Proizvodi Scrum projekta biće skuplji od ostalih, ali uz najviši mogući kvalitet.",
-        "correct": false
+        "text": "izvedena hartija od vrednosti",
+        "correct": true
+      },
+      {
+        "text": "terminski ugovor",
+        "correct": true
       },
       {
-        "text": "Proizvodi koji nastaju na osnovu Scrum projekta su jeftiniji od proizvoda koji nastaju na neki drugi način, ali će kvalitet ispaštati.",
+        "text": "promptni ugovor",
         "correct": false
       },
       {
-        "text": "Proizvodi će biti zadovoljavajućeg kvaliteta jer je u toku procesa razvoja uključeno vođenje od strane vlasnika proizvoda.",
+        "text": "obavezu da se kupi određena aktiva u budućnosti",
         "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Element koji u okviru veb sajta ili aplikacije opisuje funkcionalnosti koje će imati vrednost za korisnike i ujedno predstavlja najmanji inkrement vrednosti je?",
+    "question": "Racio koji pokazuje odnos likvidnih sredstava i kratkoročnih obaveza:",
     "options": [
       {
-        "text": "Epic",
+        "text": "ima optimalnu teorijsku vrednost 2:1",
         "correct": false
+      },
+      {
+        "text": "ima optimalnu teorijsku vrednost 1:1",
+        "correct": true
       },
       {
-        "text": "Tema",
+        "text": "naziva se neto obrtna sredstva",
         "correct": false
       },
       {
-        "text": "Sprint backlog",
+        "text": "naziva se opšti racio likvidnosti",
         "correct": false
       },
       {
-        "text": "Korisnička priča (korisnička priča)",
+        "text": "naziva se rigorozni racio likvidnosti",
         "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Angažovani ste kao novi menadžer projekta koji je odmakao u fazi realizacije. Projekat imaproblem sa kvalitetom proizvoda, te zbog toga želite prvo da se pozabavite tim pitanjem. Odlučiliste da Vaš prvi korak bude pronalaženje informacijama o svim spornim pitanjima upravljanjakvalitetom koja su desila i svim korektivnim merama koje su sprovedene da bi se ti problemi rešili.Koja dokumenta ćete pogledati kako biste došli do tih informacija?",
+    "question": "Posebna vrsta akceptnog kredita za plaćanje prekomorskog uv…",
     "options": [
       {
-        "text": "Izveštaje i ažurirana dokumenta kvaliteta",
+        "text": "rambursni kredit",
         "correct": true
       },
       {
-        "text": "Evidencije rizika",
+        "text": "eskotni kredit",
         "correct": false
       },
       {
-        "text": "Naučene lekcije prethodnih projekata",
+        "text": "lombardni kredit",
         "correct": false
-      },
-      {
-        "text": "Plan upravljanja kvalitetom",
-        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Projekat je u fazi planiranja i tokom planiranja troškova i budžeta projektni tim se susreće sabrojnim problemima procene troškova jer nema dovoljno informacija. Takođe, postoji nesigurnosti u vezi sa izvorima finansiranja jer se očekuju značajne promene na tržištu kapitala za koje se nezna kakve će uslove stvoriti odnosno da li će doći do rasta kamatnih stopa ili njihovog pada. Okojoj vrsti rizika je reč?",
+    "question": "Kada je ORL 2:1, to znači da je vrednost neto obrtnih sredstava:",
     "options": [
+      {
+        "text": "nemoguće je izvući bilo kakav zaključak",
+        "correct": false
+      },
       {
-        "text": "Rizici vezani za ljudski faktor",
+        "text": "između nula i jedan",
         "correct": false
       },
       {
-        "text": "Finansijski rizici",
+        "text": "veća od jedan\tNOBS = Obrtna sredstva – Ko, NOBS = 200k-100k = 100k, a ORL = Obrtna/Ko (2:1)",
         "correct": true
       },
       {
-        "text": "Upravljački rizici",
+        "text": "jednaka 1",
         "correct": false
       },
       {
-        "text": "Organizacioni rizici",
+        "text": "manja od 1",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Vaš projekat ima za cilj razvoj sistema za upravljanje kadrovima zaposlenih unutar kompanijeVašeg klijenta. Uverili ste klijenta da sistem sadrži sve najmodernije funkcije sajber bezbednosti iodlučujete to da dokažete sprovođenjem test prodiranja. Trošak izvođenja ovog testa je primerkojih vrsta troškova kvaliteta?",
+    "question": "Banka čiji je primarni posao prikupljanje kapitala i plasman HOV, kao i pružanje brokersko-dilerskih usluga se nazivaju:",
     "options": [
       {
-        "text": "Troškovi usaglašenosti - troškovi procene",
-        "correct": true
+        "text": "komercijane banke",
+        "correct": false
       },
       {
-        "text": "Troškovi usaglašenosti - preventivni troškovi",
+        "text": "univerzalne banke",
         "correct": false
       },
       {
-        "text": "Troškovi neusaglašenosti - eksterni troškovi grešaka",
+        "text": "investicione banke",
+        "correct": true
+      },
+      {
+        "text": "centralne banke",
         "correct": false
       },
       {
-        "text": "Troškovi neusaglašenosti - interni troškovi grešaka",
+        "text": "ništa od navedenog",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "U marketinškoj agenciji \"Creative Spark\", scrum tim ocenjuje korisničku priču: Kao vlasnik kampanje \"Digital Boost\", želim da implementiramo alat za analizu društvenih medijau naš sistem za bolje razumevanje angažmana naših kampanja na platformama kao što suFacebook, Instagram i Twitter.",
+    "question": "Odnos poslovne dobiti i dobiti pre oporezivanja:",
     "options": [
+      {
+        "text": "FFL",
+        "correct": true
+      },
       {
-        "text": "kurac",
+        "text": "ekonomske dodate vrednosti",
         "correct": false
       },
       {
-        "text": "palac",
+        "text": "stope prinosa na poslovna sredstva",
         "correct": false
       },
       {
-        "text": "kurcina",
+        "text": "racio pokrića duga",
         "correct": false
       },
       {
-        "text": "pedercina",
+        "text": "ništa od navedenog",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Ana je odabrala karticu sa brojem 3 Smatra da je ova implementacija slična prethodnojintegraciji alata za e-mail kampanje, ali primećuje da će integracija društvenih medija zahtevatimalo više vremena. Marko je odabrao karticu sa brojem 5. Razmatrajući zahteve integracijedruštvenih medija, smatra da će ovo biti malo zahtevnije od prethodnog zadatka, ali nije uverenda je dovoljno kompleksno za ocenu od 8. Jelena se odlučila za karticu sa brojem 8. Smatra da ćeova integracija biti značajno kompleksnija od prethodnih projekata. Primećuje da bi integracijaviše platformi društvenih medija mogla doneti dodatne izazove i potencijalne tehničkekomplikacije. Nakon diskusije i ponovljenog glasanja, većina članova tima se složila da je 5odgovarajuća vrednost story points-a za implementaciju alata za analizu društvenih medija. Ovaprocena će biti korišćena kao smernica za planiranje vremena i resursa za ovaj zadatak. Kojumetodu procene story points-a je tim primenio?",
+    "question": "Kada pravo konverzije deviza postoji i za strane i za domaće rezidente, takvu konvertabilnost nazivamo:",
     "options": [
-      {
-        "text": "Metoda 100 poena",
-        "correct": false
-      },
       {
-        "text": "Veličina majice",
+        "text": "eksternom",
         "correct": false
       },
       {
-        "text": "Procena afiniteta",
+        "text": "internom",
         "correct": false
-      },
-      {
-        "text": "Planning poker",
-        "correct": true
       },
       {
-        "text": "nije potrebno obezbeđivanje IT infrastrukture",
+        "text": "organičenom",
         "correct": false
       },
       {
-        "text": "realizacija ne podrazumeva uključenost top menadžmenta i menadžera različitih nivoa",
+        "text": "neograničenom",
         "correct": false
       },
       {
-        "text": "veliki oslonac na timski rad",
+        "text": "opštom",
         "correct": true
-      },
-      {
-        "text": "realizacija više projekata, programa i portfolia sa čestim prekidima",
-        "correct": false
-      },
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Zaokružiti ciljeve menadžmenta vezane za upravljanje aktivnošću - obrtom sredstava",
+    "options": [
       {
-        "text": "Uradi retrospektivu sprinta",
+        "text": "koef obrta dobavljača treba da bude što viši",
         "correct": false
       },
       {
-        "text": "Zakaže sastanak za pregled sprinta",
+        "text": "koef obrta kupaca treba da bude što viši",
         "correct": true
       },
       {
-        "text": "Predstavi inkrement na dnevnom scrumu",
+        "text": "prosečan period obrta zaliha treba da bude što duži",
         "correct": false
       },
       {
-        "text": "Zamoli tim da definiše cilj sledećeg sprinta",
+        "text": "prosečan period naplate treba da bude što kraći",
         "correct": false
       },
       {
-        "text": "Nakon analize pristiglih ponuda, ali pre donošenja odluke o odabiru konačnog dobavljača.",
+        "text": "ništa od navedenog",
         "correct": false
-      },
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kada pravo konverzije deviza postoji samo za strane rezidente, takvu konvertabilnost nazivamo:",
+    "options": [
       {
-        "text": "Nakon razgovora sa dobavljačima, ali pre nego što odabere konačnog dobavljača.",
+        "text": "opštom",
         "correct": false
       },
       {
-        "text": "Pre potpisivanja ugovora, ali nakon odabira konačnog dobavljača.",
+        "text": "neograničenom",
         "correct": false
       },
       {
-        "text": "Nakon što kreira dokumente za prikupljanje ponuda, ali pre nego što odabere konačnog dobavljača",
+        "text": "eksternom (spoljna)",
         "correct": true
       },
       {
-        "text": "Zamoli glavnog programera da identifikuje rešenje, a zatim podeli detalje sa timom",
+        "text": "organičenom",
         "correct": false
       },
       {
-        "text": "Zamoli tehničkog menadžera da odredi rešenje problema",
+        "text": "internom",
         "correct": false
-      },
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Kada pravo konverzije deviza postoji samo za domaće rezidente, takvu konvertabilnost nazivamo:",
+    "options": [
       {
-        "text": "Konsultuje se sa vlasnikom proizvoda i korisnikom",
+        "text": "opštom",
         "correct": false
       },
       {
-        "text": "Stvori okruženje za saradnju tako da tim može zajedno da istraži rešenje",
-        "correct": true
-      },
-      {
-        "text": "Slanje, filtriranje, primanje i tumačenje poruke",
+        "text": "neograničenom",
         "correct": false
       },
       {
-        "text": "Plan komunikacija, projektni tim, distribucija informacija i izveštaji",
+        "text": "eksternom",
         "correct": false
       },
       {
-        "text": "Sastanci, korespondencija, elektronska pošta i lični kontakti",
+        "text": "organičenom",
         "correct": false
       },
       {
-        "text": "Komunikator, poruka, medij, primalac",
+        "text": "internom",
         "correct": true
-      },
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Politike likvidnosti, finansijske stabilnosti i obrta kapitala čine:",
+    "options": [
       {
-        "text": "WIP granice",
+        "text": "investicionu politiku",
         "correct": false
       },
       {
-        "text": "Dnevni scrum",
+        "text": "ništa od navedenog",
         "correct": false
       },
       {
-        "text": "Male isporuke",
+        "text": "osnovnu finansijsku politiku",
         "correct": true
       },
       {
-        "text": "Vizualizacija",
-        "correct": false
+        "text": "tekuću finansijku politiku",
+        "correct": true
       },
       {
-        "text": "Identifikacijom rizika",
+        "text": "politiku upravljanja kapitalom",
         "correct": false
-      },
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Razvojna finansijska politika obuhvata:",
+    "options": [
       {
-        "text": "SWOT analizom",
+        "text": "politiku maksimiziranja profitabilnosti",
         "correct": false
-      },
-      {
-        "text": "Kvantitativnom analizom",
-        "correct": true
       },
       {
-        "text": "Kvalitativnom analizom",
+        "text": "politiku finansijske snage",
         "correct": false
       },
       {
-        "text": "Menadžer kvaliteta je osoba koja je krajnje odgovorna za kvalitet na bilo kom projektu.",
+        "text": "politiku upravljanja finansijama",
         "correct": false
       },
       {
-        "text": "Projektni sponzor treba da bude odgovoran za kvalitet projekta.",
+        "text": "politiku finansijske stabilnosti",
         "correct": false
-      },
-      {
-        "text": "Krajnja odgovornost za kvalitet projekta je na svim članovima projektnog tima. Osoba koja obavlja rad treba da se brine i osigura isporuku kvalitetnog proizvoda.",
-        "correct": true
       },
       {
-        "text": "Inženjer projekta je osoba koja je odgovorna za kvalitet projekta, pošto je inženjer jedini koji u potpunosti razume sve komponente proizvoda projekta.",
+        "text": "politiku upravljanja kapitalom",
         "correct": false
-      },
-      {
-        "text": "Upravljanje portfoliom fokusira se na strateški pristup.",
-        "correct": true
-      },
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Zaokružite elemente strukture sistema upravljanja finansijama:",
+    "options": [
       {
-        "text": "Upravljanje portfoliom se vezuje za sekvencijalno odvijanje projekta.",
+        "text": "utvrđivanje potreba za finansijkim sredstavima",
         "correct": false
-      },
-      {
-        "text": "Upravljanje portfoliom karakteriše sporo sprovođenje promena na projektu zavisno od zahteva preduzeća.",
-        "correct": true
       },
       {
-        "text": "Upravljanje portfolom je koncept koji podrazumeva upravljanje samo jednim projektom.",
+        "text": "pribavljanje finansijkih sredstava",
         "correct": false
       },
       {
-        "text": "Svaki put kada nastane problem u vezi kvaliteta",
+        "text": "obezbeđenje likvidnosti",
         "correct": false
       },
       {
-        "text": "Na kraju svake faze",
+        "text": "finansijska politika",
         "correct": false
       },
       {
-        "text": "U fazi izvršenja projekta",
+        "text": "finansijsko odlučivanje",
         "correct": false
-      },
-      {
-        "text": "Tokom celog projekta",
-        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Scrum master vodi agilan projekat u kojem razvojni tim nije uspeo da postigne cilj sprinta uposlednje tri iteracije. Tokom retrospektive sprinta, tim odlučuje da primeni nekoliko promenakako bi povećao brzinu. Kako bi Scrum master mogao da potvrdi bilo kakvo poboljšanjeperformansi?",
+    "question": "Kada HOV glasi “po naredbi” to znači da se:",
     "options": [
       {
-        "text": "Izračuna CPI projekta",
+        "text": "forvard",
         "correct": false
       },
       {
-        "text": "Prouči Gantogram",
+        "text": "prenosi postupkom avaliranja",
         "correct": false
       },
       {
-        "text": "Pregleda burndown grafikon",
+        "text": "prenosi postupkom indosiranja",
         "correct": true
+      },
+      {
+        "text": "prenosi postupkom predaje",
+        "correct": false
       },
       {
-        "text": "Napravi burndown grafikon",
+        "text": "prenosi postupkom cesije",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Investitor, suočen s izazovom odabira odgovarajuće vrste ugovora za izvođenje projekta,razmatra nekoliko ključnih opcija. Zaključio je da mu je potrebna takva vrsta ugovor kod kojeizvođač odgovara za deo posla za koji je angažovan, dok je odgovornost za koordinaciju radova iefikasnost završetka celokupnog projekta je na naručiocu. Opisana je koja vrsta ugovora?",
+    "question": "Kada HOV glasi “na donosioca” prenosi se radnjom koja se naziva:",
     "options": [
       {
-        "text": "BOT ugovor",
+        "text": "forvard",
         "correct": false
       },
       {
-        "text": "Jedinstveni ugovor",
+        "text": "prenosi postupkom avaliranja",
         "correct": false
       },
       {
-        "text": "Više odvojenih ugovora",
+        "text": "prenosi postupkom indosiranja",
+        "correct": false
+      },
+      {
+        "text": "prenosi postupkom predaje",
         "correct": true
       },
       {
-        "text": "„Ključ u ruke“ ugovor",
+        "text": "prenosi postupkom cesije",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Prema R. Gareis-u za projektno orijentisanu organizaciju se kaže da ima:",
+    "question": "Kada HOV glasi “na ime”, prenosi se radnjom koja se naziva:",
     "options": [
+      {
+        "text": "akceptiranje",
+        "correct": false
+      },
       {
-        "text": "statičke granice i sadržaje",
+        "text": "predaja",
         "correct": false
       },
       {
-        "text": "fiksne ciljeve, troškove i budžet",
+        "text": "indosiranje",
         "correct": false
       },
       {
-        "text": "dinamičke granice i sadržaje",
+        "text": "cesija",
         "correct": true
       },
       {
-        "text": "implementiran holistički pristup",
+        "text": "avaliranje",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Vrednost dnevnog scruma je najveća za:",
+    "question": "Odnos diskontovanih tokova novca i početnog troška se naziva:",
     "options": [
       {
-        "text": "Članove razvojnog tima, da prate napredak ostalih članova tima tokom iteracije.",
+        "text": "indeks profitabilnosti",
         "correct": true
       },
       {
-        "text": "Scrum mastera, da sazna šta su planovi članova tima za dalje",
+        "text": "neto sadašnja vrednost",
         "correct": false
       },
       {
-        "text": "Vlasnik proizvoda, da zna šta je završeno iz sprint backlog-a.",
+        "text": "interna stopa prinosa",
         "correct": false
       },
       {
-        "text": "Scrum mastera, da prati napredak tima",
+        "text": "prosečan period povraćaja",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Vi i Vaš tim se sastajete kako biste ocenili ponude dobavljača. Jedan od članova tima je ranijeradio sa Kompanijom A i nahvalio njihov profesionalizam i kvalitet. Drugi član tima je pristrasnijiKompaniji B. Još nekoliko članova tima se pridružuje razgovoru dodajući svoje mišljenje. Na štabiste podsetili članove tima da se fokusiraju prilikom odabira dobavljača?",
+    "question": "Kada se bilansne vrednosti analiziraju tokom niza obračunskih perioda, pri čemu se jedan period uzima za bazni",
     "options": [
+      {
+        "text": "analiza prošlih performansi",
+        "correct": false
+      },
       {
-        "text": "Objektivne kriterijume za izbor dobavljača",
+        "text": "horizontalna analiza",
         "correct": true
       },
       {
-        "text": "Plan upravljanja nabavkom",
+        "text": "vertikalna analiza",
         "correct": false
       },
       {
-        "text": "Ugovorne klauzule",
+        "text": "racio analiza",
         "correct": false
       },
       {
-        "text": "Profesionalne standarde zaključivanja ugovora",
+        "text": "analiza budućih performansi",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Tema je ________________.",
+    "question": "Pro forma račun prihoda i pro forma bilans stanja rezultat je:",
     "options": [
       {
-        "text": "Centralna ideja ili svrha iza grupe priča, ponavljanja ili izdanja",
+        "text": "profitnog planiranja",
         "correct": true
+      },
+      {
+        "text": "kratrokočnog finansijskog planiranja",
+        "correct": false
       },
       {
-        "text": "Poslovna potreba",
+        "text": "dugoročnog fin. planiranja",
         "correct": false
       },
       {
-        "text": "Epic",
+        "text": "inovativnim planiranjem",
         "correct": false
       },
       {
-        "text": "Zbir više taskova",
+        "text": "optimalnim planiranjem",
         "correct": false
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Prema ročnosti sredstava fin trž:",
+    "options": [
+      {
+        "text": "tržišta kapitala",
+        "correct": true
+      },
+      {
+        "text": "tržišta novca",
+        "correct": true
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Klijent se obratio vašoj organizaciji da započne novi projekat. Traži da se njegovi zahtevirazvijaju tokom projekta i da bi se projekat mogao završiti sa potpuno drugačijim proizvodom odonoga koji je prvobitno bio planiran. U svetlu ovoga, koji od sledećih pristupa najviše odgovaraovom projektu?",
+    "question": "Kada se izračunava udeo jedne bilansne pozicije u njenoj sintetičkoj kategoriji, takva analiza se naziva:",
     "options": [
       {
-        "text": "Nema dovoljno informacija za odlučivanje.",
+        "text": "horizontalna analiza",
         "correct": false
       },
       {
-        "text": "Inkrementalni",
+        "text": "racio analiza",
         "correct": false
       },
       {
-        "text": "Vodopad",
+        "text": "analiza budućih performansi",
         "correct": false
       },
       {
-        "text": "Agilni",
+        "text": "vertikalna analiza",
         "correct": true
+      },
+      {
+        "text": "analiza prošlih performansi",
+        "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Šta od sledećeg najbolje opisuje pristup za određivanje dužine Sprinta?",
+    "question": "Kada se plaćanje između trasanta i remitenta po čeku vrši bez upotrebe gotovog novca, tada kažemo da je to:",
     "options": [
+      {
+        "text": "ček koji glasi po naredbi",
+        "correct": false
+      },
       {
-        "text": "Sprint uvek treba da traje 4 nedelje",
+        "text": "alternativni ček",
         "correct": false
       },
       {
-        "text": "Tim određuje dužinu Sprinta tako što ukupan broj teza priče podeli sa prosečnom brzinom tima",
+        "text": "gotovinski ček",
         "correct": false
       },
       {
-        "text": "Tim treba da se dogovori o dužini projekta, uzimajući u obzir veličinu i složenost projekta",
+        "text": "virmanski (obračunski) ček",
         "correct": true
       },
       {
-        "text": "Sprint uvek treba da traje dve nedelje",
+        "text": "ček koji glasi na donosioca",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Projektni sponzor je zatražio od scrum tima da mu objasni kada će se realizovati isporuke naprojektu i od čega će se one sastojati. Šta od navedenog će najbolje odgovoriti sponzoru nazahtev?",
+    "question": "Horizontalna pravila finansiranja odnose se na:",
     "options": [
       {
-        "text": "Product backlog",
-        "correct": false
+        "text": "ocena finansijske stabilnosti",
+        "correct": true
+      },
+      {
+        "text": "zlatno bankarsko pravilo",
+        "correct": true
       },
       {
-        "text": "Mapa puta proizvoda (product roadmap)",
+        "text": "zlatno bilansno pravilo",
         "correct": true
       },
       {
-        "text": "MVP",
+        "text": "stepen pokrića",
         "correct": false
       },
       {
-        "text": "Taskboard",
+        "text": "brzi racio likvidnosti",
         "correct": false
       }
     ],
     "explanation": ""
   },
   {
-    "question": "Tokom sastanka za planiranje sprinta, scrum tim raspravlja o korisničkim pričama vrednim višeod 115 story points-a za koje vlasnik proizvoda traži da budu završene u predstojećem sprintu.Međutim, prosečna brzina razvojnog tima je samo 100 story points-a. Ko donosi konačnu odluku otome koliko story points-a može biti ostvareno tokom sprinta?",
+    "question": "Finansijska politika je:",
     "options": [
+      {
+        "text": "aktivnost koja se sastoji u adekvatnom utvrđenu potrebnih finansijkih sredstava, njihovom pribavljanju iz najpovoljnijih izvora, racionalnoj upotrebi tih sredstava i stalnom praćenju, usmeravanju i kontroli kretanja finansijskih sredstava radi ostvarivanja finansijskih ciljeva preduzeća",
+        "correct": false
+      },
       {
-        "text": "Vlasnik proizvoda",
+        "text": "ništa od navedenog",
         "correct": false
       },
       {
-        "text": "Razvojni tim",
+        "text": "izbor odgovarajućih finansijskih strategija za detaljnije opredeljivanje ciljeva i izbor pravaca akcija uz svrsishodnu alokaciju resursa za njihovo poslovanje",
         "correct": true
       },
       {
-        "text": "Scrum master",
-        "correct": false
+        "text": "koncipiranje i utvrđivanje strategije i taktike dugoročnog i srednjoročnog delovanja finansijskog poslovnog sistema, kao dela složenog dinamičkog sistema",
+        "correct": true
       },
       {
-        "text": "Menadžer projekta",
-        "correct": false
+        "text": "svesno traženje i stvaralačko odlučivanje o osnovnim finansijskim ciljevima",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Ukoliko preduzece A pokloni preduzecu B osnovno sredstvo, preduzece B osnovno sredstvo evidentira na racunu?",
+    "options": [
+      {
+        "text": "Sopstveni kapital.",
+        "correct": true
+      }
+    ],
+    "explanation": ""
+  },
+  {
+    "question": "Osnovne ekonomske kategorije racunovodstva:",
+    "options": [
+      {
+        "text": "-sredstva i obaveze prema izvorima sredstava",
+        "correct": true
       }
     ],
     "explanation": ""
