@@ -1,4210 +1,3902 @@
 [
   {
-    "question": "Menične radnje nisu:",
+    "question": "Statistika parametarskog tesksta za proveru nezavisnosti ima Studentovu raspodelu sa",
     "options": [
       {
-        "text": "akceptiranje",
+        "text": "a. n-1",
         "correct": false
       },
       {
-        "text": "certifikacija",
+        "text": "b. n-2",
         "correct": true
       },
       {
-        "text": "opoziv",
-        "correct": true
-      },
-      {
-        "text": "amortizacija",
+        "text": "c. n-3",
         "correct": false
       },
       {
-        "text": "jemstvo (avaliranje)",
+        "text": "d. nema Studentovu raspodelu",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Koji od finansijskih izveštaja nisu ključni:",
+    "question": "Ako je slucajnost u uzorku narusena zbog monotonosti ocekivane vrednosti u populaciji, kriticnu oblast odredjuje nacin:",
     "options": [
+      {
+        "text": "a. P{t > z₀ | H₀} = α",
+        "correct": false
+      },
       {
-        "text": "glavna knjiga",
+        "text": "b. P{t < z₀ | H₀} = α",
         "correct": true
+      },
+      {
+        "text": "c. P{t > z₀ | H₁} = α",
+        "correct": false
       },
+      {
+        "text": "d. P{t < z₀ | H₁} = α",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ako smo slučajnu promenljivu X grupisali u šest intervala i želimo da testiramo da li X ~ N(m, σ²), koristićemo Hi-kvadrat test sa koliko stepeni slobode?",
+    "options": [
       {
-        "text": "bilans uspeha",
+        "text": "a. četiri stepena slobode",
         "correct": false
       },
       {
-        "text": "dnevnik",
+        "text": "b. tri stepena slobode",
         "correct": true
       },
       {
-        "text": "izveštaj o novčanim tokovima",
+        "text": "c. pet stepeni slobode",
         "correct": false
       },
       {
-        "text": "izveštaj o prometu sredstava",
-        "correct": true
+        "text": "d. statistika podleže raspodeli koja n...",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U bilansu uspeha se mogu naci:",
+    "question": "Ako su, kod Mann-Whitney testa, uzorci većeg obima, statistika testa ima:",
     "options": [
       {
-        "text": "NV prodate robe",
+        "text": "a. Standardizovanu Normalnu raspodelu",
         "correct": true
       },
       {
-        "text": "Menicna potrazivanja //sredstva, bilans stanja",
+        "text": "b. Studentovu raspodelu sa n stepeni slobode",
         "correct": false
       },
       {
-        "text": "Pozitivne kursne razlike",
-        "correct": true
+        "text": "c. Hi-kvadrat raspodelu sa n-1 stepeni slobode",
+        "correct": false
       },
       {
-        "text": "Dugorocna finansijska ulaganja",
+        "text": "d. Normalnu raspodelu sa očekivanjem 0 i varijansom σ²",
         "correct": false
       },
       {
-        "text": "Prihodi od aktivacije sopstvenih ucinaka",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Rast amortizacije kao finansijskog troška će usloviti porast:",
+    "question": "Neka obelezje X ima varijansu S²x a obelezje Y ima S²y i neka izmedju X i Y -> Y=aX - b. Tada je srednja vrednost obelezja Y jednaka:",
     "options": [
       {
-        "text": "KOZ",
+        "text": "a. mᵧ = a mₓ + b",
         "correct": false
       },
       {
-        "text": "racija pokrića kamata",
-        "correct": false
+        "text": "b. mᵧ = a mₓ – b",
+        "correct": true
       },
       {
-        "text": "BRL",
+        "text": "c. mᵧ = a² mₓ + b²",
         "correct": false
       },
       {
-        "text": "FPL",
-        "correct": true
+        "text": "d. mᵧ = a mₓ + b",
+        "correct": false
       },
       {
-        "text": "NOS",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Koja se kamatna stopa najcesce koristi kod revolving kredita?",
+    "question": "Prvi pirsenov koeficijent(koeficijent asimetrije)",
     "options": [
       {
-        "text": "Fiksna",
+        "text": "a. β₁ = μ₃ / S³",
         "correct": true
+      },
+      {
+        "text": "b. Kₐ = 3(x̄ − Me) / S",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U 5K kreditnoj analizi, kapital označava:",
+    "question": "Koja od dole navedenih mera pokazuje najvecu frekvenciju obelezja?",
     "options": [
       {
-        "text": "Dovoljnost novčanih tokova",
+        "text": "a. Mo",
         "correct": true
       },
       {
-        "text": "Dovoljnost obrtnih sredstava",
+        "text": "b. Me",
         "correct": false
       },
       {
-        "text": "Dovoljnost ostvarenih Prihoda",
+        "text": "c. x̄",
         "correct": false
       },
       {
-        "text": "Dovoljnost sopstvenog kapitala",
+        "text": "d. σ",
         "correct": false
       },
       {
-        "text": "Dovoljnost osnovnih sredstava",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Metoda kojom se sadašnja vrednost budućih priliva izjednačava sa kapitalnim izdatkom:",
+    "question": "Koeficijent asimetrije je dat izrazom",
     "options": [
       {
-        "text": "indeks profitabilnosti",
+        "text": "a. Ka = 3(Me - x̄) / S",
         "correct": false
       },
       {
-        "text": "neto sadašnja vrednost",
+        "text": "b. μ3 = (1/N) Σ (Xi - x̄)^3",
         "correct": false
       },
       {
-        "text": "trošak kapitala",
+        "text": "c. β1 = μ4 / S^4",
         "correct": false
       },
       {
-        "text": "interna stopa prinosa",
+        "text": "d. Ka = 3(x̄ - Me) / S",
         "correct": true
       },
       {
-        "text": "period povraćaja",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Vertikalna pravila finansiranja:",
+    "question": "Ako u Kolmogorov-Smirnov testu za jedan uzorak, vrednost statistike D bude manja od D0, nulta hipoteza ce",
     "options": [
       {
-        "text": "pravilo za odnos osnovnog kapitala i rezervi",
-        "correct": true
+        "text": "a. biti odbačena",
+        "correct": false
       },
       {
-        "text": "pravilo za odnos dugoročnog prema kratkoročnom kapitalu",
-        "correct": true
+        "text": "b. biti podvrgnuta dodatnom testiranju korišćenjem Wald-Wolfowitz testa koraka",
+        "correct": false
       },
       {
-        "text": "pravilo za odnos sopstvenog i tuđeg kapitala",
-        "correct": true
+        "text": "c. biti promenjena",
+        "correct": false
       },
       {
-        "text": "zlatno bilansno pravilo",
+        "text": "d. biti podvrgnuta dodatnom testiranju korišćenjem Kolmogorov-Smirnov testa za dva uzorka",
         "correct": false
       },
       {
-        "text": "zlatno bankarsko pravilo",
-        "correct": false
+        "text": "e. biti prihvaćena",
+        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Lice koje izdaje nalog da se iz njegovog pokrića po čeku isplati neko drugo lice na koje je ček trasiran, naziva se:",
+    "question": "Ukoliko testiramo hipotezu da obeležje X podleže Normalnoj raspodeli korišćenjem testa Kolmogorov, i vrednost statistike D=0, možemo zaključiti da:",
     "options": [
       {
-        "text": "Trasant - daje nalog ja",
+        "text": "a. X podleže Normalnoj raspodeli",
         "correct": true
-      },
-      {
-        "text": "Trasat –ima obavezu da isplati banka",
-        "correct": false
       },
       {
-        "text": "Indosant – prenosilac prava ili stari vlasnik",
+        "text": "b. X ne podleže Normalnoj raspodeli",
         "correct": false
       },
       {
-        "text": "Indosatar - primalac prava ili novi vlasnik",
+        "text": "c. Zaključak nije moguće doneti zato što u verbalnom opisu nemam informaciju kolika je kritična vrednost raspodele",
         "correct": false
       },
       {
-        "text": "Remitent // lice kome se ili po cijoj naredbi mora u roku platiti menicna obaveza infosoft",
+        "text": "d. Zaključak nije moguće doneti zato što prethodno nisam uradio/la Mann-Whitney U test",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Lice koje daje nalog da se u njegovo ime izvrsi isplata po menici:",
+    "question": "Zelimo da proverimo da li se muskarci i zene razlikuju u pogledu koliko para potrose u sopingu. Uzeli smo 18 zena  i prikupili egzaktne podatke o potrosnji [Musk1-1572 din, Musk2-1950 din ... , Zena1 - 2305 dinara (ne vidi se)]. Testiranje normaliteta je sporevedno kroz Kolmogorov-Smirnov test[D=0.08, D0 = 0.059] i sledeci korak u analizi je?",
     "options": [
       {
-        "text": "Trasat – lice oznaceno kao duznik po menici",
-        "correct": false
+        "text": "a. t-test",
+        "correct": true
       },
       {
-        "text": "remitent – lice kome se ili po cijoj naredbi mora u roku platiti men obaveza",
+        "text": "b. ANOVA",
         "correct": false
       },
       {
-        "text": "Akceptant-onaj ko daje potvrdu da ce menica biti isplacena",
+        "text": "c. Wald-Wolfowitz test",
         "correct": false
-      },
-      {
-        "text": "Trasant – lice koje je izdalo menicu",
-        "correct": true
       },
       {
-        "text": "Indosant-onaj ko prenosi menicu na drugoga",
+        "text": "d. Test koraka za jedan uzorak",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Proces kojim se sagledava buduće stanje bez postavljanja ciljeva i inteziteta željenih radnji je:",
+    "question": "U prostom linearnom regresionom modelu, parametri dobijeni primenom metode najmanjih kvadrata, uz pretpostavke modela, imaju:",
     "options": [
       {
-        "text": "budžetiranje",
+        "text": "a. Studentovu raspodelu",
         "correct": false
       },
       {
-        "text": "strategijsko planiranje",
+        "text": "b. Hi-kvadrat raspodelu",
         "correct": false
       },
       {
-        "text": "finansijsko predviđanje",
+        "text": "c. Normalnu raspodelu",
         "correct": true
-      },
-      {
-        "text": "finansijsko izveštavanje",
-        "correct": false
       },
       {
-        "text": "finansijsko planiranje",
+        "text": "d. Puasonovu raspodelu",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Tržište na kome se trguje kratkoročnim novčanim sredstavima:",
+    "question": "U prostom linearnom regresionom modelu, slučajna promenljiva ε podleže:",
     "options": [
+      {
+        "text": "a. Χ² raspodeli",
+        "correct": false
+      },
       {
-        "text": "novčano tržište",
+        "text": "b. t raspodeli",
+        "correct": false
+      },
+      {
+        "text": "c. F raspodeli",
+        "correct": false
+      },
+      {
+        "text": "d. N(0, σ²)",
         "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Nedepozitne finansijske institucije su:",
+    "question": "Pokazatelj kvaliteta regresionog modela je koeficijent determinacije",
     "options": [
       {
-        "text": "penzioni fondovi",
+        "text": "a. Tacno",
         "correct": true
       },
       {
-        "text": "investicioni fondovi",
-        "correct": true
+        "text": "b. Netacno",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kod testiranja hipoteze o varijansi, najčešće donosioca odluke interesuje da li je:",
+    "options": [
+      {
+        "text": "a. varijansa manja od neke unapred određene vrednosti",
+        "correct": false
       },
       {
-        "text": "kreditno - štedne institucije",
+        "text": "b. varijansa različita od neke unapred određene vrednosti",
         "correct": false
       },
       {
-        "text": "osiguravajuća društva",
+        "text": "c. varijansa veća od neke unapred određene vrednosti",
         "correct": true
       },
       {
-        "text": "komercijalne banke",
+        "text": "d. varijansa jednaka nekoj određenoj vrednosti",
         "correct": false
       },
       {
-        "text": "finansijske kompanije",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada se isplata po akredetivu vrši nakon određenog roka naznačenog u akreditivu, reč je o:",
+    "question": "Ispituju se građani o mesečnim primanjima (do 30.000; 30.000–50.000; 50.000–100.000; preko 100.000). Želimo da uporedimo razliku između zaposlenih u privatnom i javnom sektoru. Test koji koristimo je?",
     "options": [
       {
-        "text": "nostro akreditivu",
+        "text": "a. Anova",
         "correct": false
       },
       {
-        "text": "terminskom akr.",
-        "correct": true
-      },
-      {
-        "text": "prenosivom akr.",
+        "text": "b. Test koraka",
         "correct": false
       },
       {
-        "text": "domiliciliranom akr.",
+        "text": "c. t-test",
         "correct": false
       },
       {
-        "text": "a vista akr.",
-        "correct": false
+        "text": "d. Hi-kvadrat test",
+        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Materijalna stalna sredstva (imovina) su:",
+    "question": "Pravila za izbor testa na osnovu normalnosti raspodele:",
     "options": [
-      {
-        "text": "akcije i obveznice",
-        "correct": false
-      },
       {
-        "text": "dugoročni fin plasmani",
+        "text": "a. Ako je D ≤ D₀ → podaci prate normalnu raspodelu → koristimo parametarski test (t-test, ANOVA)",
         "correct": true
       },
       {
-        "text": "zalihe",
+        "text": "b. Ako je D > D₀ → podaci ne prate normalnu raspodelu → koristimo neparametarski test (Mann-Whitney, Kruskal-Wallis)",
         "correct": false
       },
       {
-        "text": "materijalna prava",
+        "text": "c. Ako želimo da proverimo da li podaci prate normalnu raspodelu → koristimo Kolmogorov-Smirnov test (ili Shapiro-Wilk za manje uzorke)",
         "correct": false
-      },
-      {
-        "text": "nekretnine, postrojenja i oprema",
-        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Računi ispravki vrednosti su:",
+    "question": "Homoskedastičnost znači da je:",
     "options": [
       {
-        "text": "računi uspeha (računi stanja su)",
+        "text": "a. varijansa od ε uvek pozitivna",
         "correct": false
       },
       {
-        "text": "isključivo aktivni računi",
+        "text": "b. varijansa od ε uvek jednaka nuli",
         "correct": false
       },
       {
-        "text": "isključivo pasivni računi",
+        "text": "c. varijansa od ε uvek jednaka jedinici",
         "correct": false
       },
       {
-        "text": "uvek vezani za neki drugi račun",
+        "text": "d. varijansa od ε konstantna",
         "correct": true
       },
       {
-        "text": "korektivni računi",
-        "correct": true
+        "text": "e. varijansa od ε promenljiva",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Racio koji pokazuje vreme koje protekne od nabavke resursa do prodaje gotovih proizvoda:",
+    "question": "U mere centralne tendencije ne spada:",
     "options": [
       {
-        "text": "prosečan period obrta zaliha",
-        "correct": true
+        "text": "a. medijana",
+        "correct": false
       },
       {
-        "text": "koeficijent obrta zaliha",
+        "text": "b. aritmetička sredina",
         "correct": false
+      },
+      {
+        "text": "d. kvartilna devijacija",
+        "correct": true
       },
       {
-        "text": "koeficijent obrta kupaca",
+        "text": "c. moda",
         "correct": false
       },
       {
-        "text": "prosečan period isplate",
+        "text": "e. geometrijska sredina",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Unapred naplaćeni prihodi (PVR) se tretiraju kao:",
+    "question": "Zbir odstupanja vrednosti obeležja X na posmatranom skupu od njihove aritmetičke sredine, Σ(Xᵢ – X̄), je jednako:",
     "options": [
+      {
+        "text": "a. Σxᵢₘ",
+        "correct": false
+      },
       {
-        "text": "imovina i novčani prilivi",
+        "text": "b. S",
         "correct": false
       },
       {
-        "text": "obaveza i novčani prilivi",
+        "text": "c. 0",
         "correct": true
       },
       {
-        "text": "stavka bilansa uspeha i nov. priliva",
+        "text": "d. S²",
         "correct": false
       },
       {
-        "text": "ništa od ponuđenog",
+        "text": "e. Σxᵢₘ / m",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U slučaju prodaje osnovnih sredstava po ceni višoj od njihove sadašnje vrednosti:",
+    "question": "Nulta hipoteza kod testa koraka za jedan uzorak glasi:",
     "options": [
       {
-        "text": "finansijski prihod",
+        "text": "a. Slučajnost u uzorku X₁, X₂, …, Xₙ je narušena zbog monotonosti očekivane vrednosti u populaciji",
         "correct": false
-      },
-      {
-        "text": "dobitak od prodaje",
-        "correct": true
       },
       {
-        "text": "poslovni prihod",
+        "text": "b. Uzorak X₁, X₂, …, Xₙ potiče iz populacije sa normalnom raspodelom",
         "correct": false
       },
       {
-        "text": "gubitak kod prodaje",
+        "text": "c. Uzorak X₁, X₂, …, Xₙ nije slučajan",
         "correct": false
       },
       {
-        "text": "neposlovni prihod",
+        "text": "d. Slučajnost u uzorku X₁, X₂, …, Xₙ je narušena zbog periodičnih promena očekivane vrednosti u populaciji",
         "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Kao rezultat odnosa neto dobiti i angažovanih sopstvenih sredstava, dobija se:",
-    "options": [
+      },
       {
-        "text": "stopa prinosa na sopstvena sredstva",
-        "correct": false
+        "text": "e. Uzorak X₁, X₂, …, Xₙ je slučajan",
+        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Investicione banke:",
+    "question": "Kada uzorak potiče iz populacije sa dvodimenzionalnom normalnom raspodelom, pretpostavka o nezavisnosti obeležja ekvivalentna je pretpostavci:",
     "options": [
       {
-        "text": "kreiraju depozite po viđenju",
+        "text": "a. H₀ (ρ ≥ 0)",
         "correct": false
       },
       {
-        "text": "utvrđaju deviznu i monetarnu politiku",
+        "text": "b. H₀ (ρ ≠ 0)",
         "correct": false
       },
       {
-        "text": "učestvuju u restruktuiranju preduzeća",
-        "correct": true
+        "text": "c. H₀ (ρ = 1)",
+        "correct": false
       },
       {
-        "text": "trguju hartijama od vrednosti",
-        "correct": true
+        "text": "d. H₀ (ρ = 1)",
+        "correct": false
       },
       {
-        "text": "emitiju hartije od vrednosti",
+        "text": "e. H₀ (ρ = 0)",
         "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Potraživanje prema celoukupnom invertaru u slučaju zalaganja invertara se naziva:",
+    "question": "Za model Normalne raspodele X ~ N(μ, σ²), gde su μ i σ² nepoznati, dovoljne statistike su:",
     "options": [
       {
-        "text": "nijedan od navedenih odgovora",
+        "text": "a. Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²/n)",
         "correct": false
       },
       {
-        "text": "hipoteka nad pokretnom imovinom",
+        "text": "b. Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²σ²/n)",
         "correct": false
       },
       {
-        "text": "prijem na skladištenje",
+        "text": "c. Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²m/n)",
         "correct": false
       },
       {
-        "text": "primanje pod nadzor",
-        "correct": false
+        "text": "d. Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²)",
+        "correct": true
       },
       {
-        "text": "pravo zadržavanja",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Troškovi koji u datom obračunatom periodu nemaju konačnog nosioca i nisu deo obračunato razdoblja, nazivaju se:",
+    "question": "Koji od sledećih testova ne može da se koristi kao neparametarska alternativa t-testu za dva uzorka:",
     "options": [
       {
-        "text": "Nedospeli rashodi",
+        "text": "a. Kolmogorov-Smirnov test za dva uzorka",
         "correct": false
       },
       {
-        "text": "Neukalkulisani troškovi",
+        "text": "b. Test kategorisanih podataka",
         "correct": true
       },
       {
-        "text": "Sumnjiva potraživanje",
+        "text": "c. Mann-Whitney test",
         "correct": false
       },
       {
-        "text": "Materijalni troškovi",
+        "text": "d. Wald-Wolfowitz test",
         "correct": false
       },
       {
-        "text": "Obaveze na osnovu udruženih sredstava",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Bruto dobit je:",
+    "question": "Dužina intervala poverenja zavisi od nivoa poverenja i to tako da:",
     "options": [
       {
-        "text": "Razlika ukupnih prihoda i rashoda",
-        "correct": true
+        "text": "a. Sa povećanjem nivoa poverenja, smanjuje se dužina intervala poverenja, što je poželjno",
+        "correct": false
       },
       {
-        "text": "Razlika ukupnih prihoda i rashoda koji se odnose na proizvodnju",
-        "correct": false
+        "text": "b. Sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je nepoželjno",
+        "correct": true
       },
       {
-        "text": "Negativan poslovni rezultat",
+        "text": "c. Sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je poželjno",
         "correct": false
       },
       {
-        "text": "Deo za isplatu dividendi",
+        "text": "d. Sa povećanjem nivoa poverenja, ne menja se dužina intervala poverenja",
         "correct": false
       },
       {
-        "text": "Poslovni rezultat",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Metoda koja zahteva poznat trošak kapitala da bi se procenila isplativost ulaganja je:",
+    "question": "Ako je D > D₀, nulta hipoteza se odbacuje. Šta zaključujemo?",
     "options": [
       {
-        "text": "interna stopa prinosa",
-        "correct": true
+        "text": "a. X podleže normalnoj raspodeli",
+        "correct": false
       },
       {
-        "text": "neto sadašnja vrednost",
+        "text": "b. X ne podleže normalnoj raspodeli",
         "correct": true
-      },
-      {
-        "text": "nijedna od navedenih metoda ne zahteva poznat trošak kapitala",
-        "correct": false
       },
       {
-        "text": "indeks profitabilnosti",
+        "text": "c. Zaključak ne možemo doneti jer nemamo informaciju koliki je rizik greške",
         "correct": false
       },
       {
-        "text": "prosečan period povraćaja",
+        "text": "d. Zato što nije urađen Mann-Whitney test",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Za preduzeće koje nema zalihe:",
+    "question": "Ako je D < D₀, onda je?",
     "options": [
       {
-        "text": "ORL=BRL",
+        "text": "a. X podleže normalnoj raspodeli",
         "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Pod stalnim sredstvima (imovinom) se podrazumevaju:",
-    "options": [
-      {
-        "text": "emitovane dugoročne obveznice",
-        "correct": false
       },
       {
-        "text": "sredstva koja se u poslovnim procesima vraćaju u prvobitni pojavni oblik",
+        "text": "b. X ne podleže normalnoj raspodeli",
         "correct": false
-      },
-      {
-        "text": "sredstva koja učestvujući u poslovnim procesima postepeno prenose svoju vrednost na postojeće učinke",
-        "correct": true
       },
       {
-        "text": "dugoročni finansijski plasmani",
+        "text": "c. Zaključak ne možemo doneti jer nemamo informaciju koliki je rizik greške",
         "correct": false
       },
       {
-        "text": "sredstva koja se ne amortizuju",
+        "text": "d. Zato što nije urađen Mann-Whitney test",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pomoćne knjigovodstvene evidencije:",
+    "question": "U prostom linearnom regresionom modelu, parametri dobijeni primenom metode najmanjih kvadrata, pod pretpostavkama modela, imaju:",
     "options": [
       {
-        "text": "Pomoćna knjiga kupaca",
-        "correct": false
+        "text": "a. Studentovu raspodelu",
+        "correct": true
       },
       {
-        "text": "Pomoćna knjiga dobavljača",
+        "text": "b. Hi-kvadrat raspodelu",
         "correct": false
       },
       {
-        "text": "Knjiga materijala",
+        "text": "c. F-raspodelu",
         "correct": false
       },
       {
-        "text": "Evidencija zaliha",
+        "text": "d. Uniformnu raspodelu",
         "correct": false
       },
       {
-        "text": "Analitičke evidencije (npr. za nekretnine, kapital..)",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U slučaju postojanja ustaljenih poslovnih odnosa (strateškog partnerstva) i visokog kreditnog skora kupca, kao instrument plaćanja",
+    "question": "Dužina intervala poverenja zavisi od veličine uzorka i to tako da:",
     "options": [
       {
-        "text": "sopstvena menica",
-        "correct": false
+        "text": "a. Sa povećanjem veličine uzorka, smanjuje se dužina intervala poverenja, što je poželjno",
+        "correct": true
       },
       {
-        "text": "garancija",
+        "text": "b. Sa povećanjem veličine uzorka, smanjuje se dužina intervala poverenja, što je nepoželjno",
         "correct": false
       },
       {
-        "text": "vučena menica",
+        "text": "c. Sa povećanjem veličine uzorka, povećava se dužina intervala poverenja, što je poželjno",
         "correct": false
       },
       {
-        "text": "otvoreni račun",
+        "text": "d. Sa povećanjem veličine uzorka, ne menja se dužina intervala poverenja",
         "correct": false
-      },
-      {
-        "text": "akreditiv",
-        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada preduzeće gotovinu na računu drži da bi depozitom obezbedio dobijanje kredita, takav razlog je:",
+    "question": "Koji od navedenih testova se bazira na poređenju rangova iz dva uzorka:",
     "options": [
       {
-        "text": "špekulativni",
+        "text": "a. Test koraka za jedan uzorak",
         "correct": false
       },
       {
-        "text": "razlog predostrožnosti",
+        "text": "b. Test koraka za dva uzorka",
         "correct": false
       },
       {
-        "text": "depozitni",
+        "text": "c. Kolmogorov-Smirnov test",
         "correct": false
       },
       {
-        "text": "kompenzacioni",
+        "text": "d. Mann-Whitney test",
         "correct": true
-      },
-      {
-        "text": "transakcioni",
-        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada se izvestan saldo gotovine u preduzecu drzi sa ciljem dnevnih izmirivanja dospelih obaveza, takav se razlog naziva:",
+    "question": "Kada se, pod istim uslovima, testira ista hipoteza na manjem i većem uzorku, tada:",
     "options": [
       {
-        "text": "transakcioni",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Tržišna vrednost određene akcije zavisi od:",
-    "options": [
+        "text": "a. Sa povećanjem obima uzorka, povećavaju se verovatnoće grešaka i prve i druge vrste",
+        "correct": false
+      },
+      {
+        "text": "b. Sa smanjenjem obima uzorka, smanjuju se verovatnoće grešaka i prve i druge vrste",
+        "correct": false
+      },
       {
-        "text": "nominalna vr + azio?",
+        "text": "c. Sa povećanjem obima uzorka, smanjuju se verovatnoće grešaka i prve i druge vrste",
         "correct": true
+      },
+      {
+        "text": "d. Verovatnoće grešaka prve i druge vrste ne zavise od obima uzorka",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Okvir za odgovarajuće reakcije preduzeća u uslovima neizvesnosti uspostavlja se:",
+    "question": "Koju metodu možemo koristiti kako bismo predviđali vrednosti jedne promenljive u odnosu na drugu promenljivu?",
     "options": [
       {
-        "text": "zadovoljavajućim planiranjem",
+        "text": "a. Mann-Whitney test",
         "correct": false
       },
       {
-        "text": "inovativnim planiranjem",
+        "text": "b. Linearni regresioni model",
         "correct": true
       },
       {
-        "text": "optimalnim planiranjem",
+        "text": "c. Koeficijent korelacije",
         "correct": false
       },
       {
-        "text": "operativnim planiranjem",
+        "text": "d. Hi-kvadrat test nezavisnosti",
         "correct": false
-      },
-      {
-        "text": "osnovnim planiranjem",
-        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U komisione (neutralne) bankarske poslove se ubravaju:",
+    "question": "Medijana je:",
     "options": [
-      {
-        "text": "menjački poslovi",
-        "correct": true
-      },
       {
-        "text": "eskontni poslovi",
+        "text": "a. Zbir svih vrednosti obeležja podeljen brojem elemenata",
         "correct": false
       },
       {
-        "text": "izdavanje kreditnih pisama",
-        "correct": false
+        "text": "b. Vrednost obeležja koja deli statistički skup na dva jednaka dela",
+        "correct": true
       },
       {
-        "text": "emitovanje obveznica // ipak je pasivannn",
+        "text": "c. Vrednost obeležja koja ima najveću frekvenciju u skupu elemenata ili u funkciji gustine",
         "correct": false
       },
       {
-        "text": "otvaranje akreditiva",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Izdavanja bankarskih garancija je:",
-    "options": [
-      {
-        "text": "neutralni posao",
-        "correct": true
+        "text": "d. Srednje kvadratno odstupanje promenljive od njene očekivane vrednosti ili sredine",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Odaberite jedan projekat koji maksimira vrednost preduzeća, ako su poznati njihovi neto sadašnja vrednost (NSV) i prosečan period povraćaja (PPP):",
+    "question": "Ukoliko želimo da ispitamo da li uzorak dolazi iz Normalne raspodele, pri čemu su parametri raspodele poznati, koje dve metode možemo koristiti?",
     "options": [
       {
-        "text": "C: NSV = 150,000 PPP = 15 godina",
+        "text": "a. Test saglasnosti i test podobnosti modela",
         "correct": false
       },
       {
-        "text": "D: NSV = 100,000 PPP = 6 meseci",
-        "correct": false
+        "text": "b. Test saglasnosti i Kolmogorov-Smirnov test za 1 uzorak",
+        "correct": true
       },
       {
-        "text": "nijedan projekat ne uvećava vrednost preduzeća",
+        "text": "c. Test podobnosti i Kolmogorov-Smirnov test za 1 uzorak",
         "correct": false
-      },
-      {
-        "text": "B: NSV = 450,000 PPP = 2 godine",
-        "correct": true
       },
       {
-        "text": "A: NSV = 500,000 PPP = 32 godine",
+        "text": "d. Kolmogorov-Smirnov test za 1 i Kolmogorov-Smirnov test za 2 uzorka",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Metoda(e) koja se zasniva na konceptu vremenske vrednosti novca je:",
+    "question": "Ukoliko X dolazi iz Normalne raspodele, kakvu će približno raspodelu imati Medijana:",
     "options": [
       {
-        "text": "prosečan period povraćaja",
+        "text": "a. Studentovu raspodelu",
         "correct": false
+      },
+      {
+        "text": "b. Normalnu raspodelu",
+        "correct": true
       },
       {
-        "text": "cena kapitala",
+        "text": "c. Hi-kvadrat raspodelu",
         "correct": false
       },
       {
-        "text": "interna stopa prinosa",
+        "text": "d. Fiserovu raspodelu",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Cauchy-jeva teorema glasi:",
+    "options": [
+      {
+        "text": "a. Aritmetička sredina je veća od geometrijske sredine koja je veća od harmonijske sredine",
         "correct": true
       },
       {
-        "text": "neto sadašnja vrednost",
-        "correct": true
+        "text": "b. Geometrijska sredina je veća od aritmetičke sredine koja je veća od harmonijske sredine",
+        "correct": false
       },
       {
-        "text": "indeks profitabilnosti",
-        "correct": true
+        "text": "c. Harmonijska sredina je veća od geometrijske sredine koja je veća od aritmetičke sredine",
+        "correct": false
       },
       {
-        "text": "diskontovani period povraćaja",
-        "correct": true
+        "text": "d. Aritmetička sredina je veća od harmonijske sredine koja je veća od geometrijske sredine",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Emisija efekata za sopstveni račun:",
+    "question": "Koeficijent determinacije se definiše kao:",
     "options": [
       {
-        "text": "pasivni",
+        "text": "a. količnik objašnjenog i ukupnog varijabiliteta",
         "correct": true
+      },
+      {
+        "text": "b. razlika objašnjenog i ukupnog varijabiliteta",
+        "correct": false
+      },
+      {
+        "text": "c. zbir objašnjenog i ukupnog varijabiliteta",
+        "correct": false
+      },
+      {
+        "text": "d. količnik objašnjenog i neobjašnjenog varijabiliteta",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Nematerijalna imovina čine:",
+    "question": "Za uzorak X₁, …, Xₙ iz Uniformne raspodele U = (0, θ) sa nepoznatim parametrom θ, dovoljna statistika je:",
     "options": [
       {
-        "text": "prava na model",
+        "text": "a. Z = min{X₁², …, Xₙ²}",
         "correct": false
       },
       {
-        "text": "licence, softveri, patenti",
-        "correct": false
+        "text": "b. Z = max{X₁, …, Xₙ}",
+        "correct": true
       },
       {
-        "text": "sredstva koja se ne amortizuju",
+        "text": "c. Z = min{X₁, …, Xₙ}",
         "correct": false
       },
       {
-        "text": "dugoročni finansijski plasmani",
+        "text": "d. Z = max{X₁², …, Xₙ²}",
         "correct": false
       },
       {
-        "text": "emisiona premija (ažio)",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Nove emisije hartija od vrednosti preduzeća obavljaju se na:",
+    "question": "Kolmogorov-Smirnov testovi se zasnivaju na:",
     "options": [
       {
-        "text": "sekundarnom tržišu kapitala",
+        "text": "a. Poređenju izmerenih i očekivanih apsolutnih frekvencija",
         "correct": false
       },
       {
-        "text": "međubankarskom tržištu",
+        "text": "b. Poređenju apsolutnih i relativnih izmerenih frekvencija",
         "correct": false
       },
       {
-        "text": "novčanom tržištu",
-        "correct": false
+        "text": "c. Poređenju izmerenih i očekivanih relativnih kumulativnih frekvencija",
+        "correct": true
       },
       {
-        "text": "primarnom tržištu kapitala",
+        "text": "d. Poređenju apsolutnih i relativnih očekivanih frekvencija",
         "correct": false
       },
       {
-        "text": "deviznom tržištu",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kod operativnog lizinga karakteristično je:",
+    "question": "Kod testa slučajnosti uzorka, varijansa broja koraka K se računa kao:",
     "options": [
       {
-        "text": "sredstvo po isteku lizinga ostaje davaocu lizinga",
+        "text": "a. Var(K) = n(n-2) / 4(n-1)",
         "correct": true
       },
       {
-        "text": "rizik i koristi padaju na primaoca lizinga",
+        "text": "b. Var(K) = n(n-1) / 4(n-2)",
         "correct": false
       },
       {
-        "text": "rok trajanja odgovora je približno jednak veku trajanja sredstva",
+        "text": "c. Var(K) = n(n+1) / 4(n+2)",
         "correct": false
       },
       {
-        "text": "prednost lizinga su trajna dobra",
-        "correct": true
+        "text": "d. Var(K) = n(n+2) / 4(n+1)",
+        "correct": false
       },
       {
-        "text": "računovodstveno se tretira kao rashod",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kod finansijskog lizinga karakteristično je:",
+    "question": "T-test je parametarska alternativa:",
     "options": [
       {
-        "text": "sredstvo po isteku lizinga ostaje davaocu lizinga",
+        "text": "a. Testu koraka za jedan uzorak",
         "correct": false
       },
       {
-        "text": "rizik i koristi padaju na primaoca lizinga",
-        "correct": true
+        "text": "b. Testu saglasnosti",
+        "correct": false
       },
       {
-        "text": "rok trajanja odgovora je približno jednak veku trajanja sredstva",
+        "text": "c. Testu kategorisanih podataka",
         "correct": false
       },
       {
-        "text": "prednost lizinga su trajna dobra",
-        "correct": false
+        "text": "d. Mann-Whitney testu",
+        "correct": true
       },
       {
-        "text": "računovodstveno se tretira kao rashod",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Suština hedžing pristupa je:",
+    "question": "Što je vrednost koeficijenta determinacije bliža vrednosti 0, tada je:",
     "options": [
       {
-        "text": "da kratkoročnim izvorima budu finansirane povremene potrebe za sredstvima",
-        "correct": false
+        "text": "a. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
+        "correct": true
       },
       {
-        "text": "ništa od navedenog",
+        "text": "b. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
         "correct": false
       },
       {
-        "text": "da dugoročnim izvorima budu finansirane povremene potrebe za sredstvima",
+        "text": "c. Udeo neobjašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
         "correct": false
       },
       {
-        "text": "da dugoročnim izvorima budu finansirana osnovna sredstva",
-        "correct": true
+        "text": "d. Udeo neobjašnjenog varijabiliteta u objašnjenom varijabilitetu zavisne promenljive veći",
+        "correct": false
       },
       {
-        "text": "da dugoročnim izvorima budu finansirana trajna obrtna sredstva",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U kratkoročne obaveze preduzeća se ubrajaju:",
+    "question": "Mann-Whitney test se bazira na:",
     "options": [
       {
-        "text": "kratkoročni plasmani",
+        "text": "a. Poređenju vrednosti iz 2 uzorka",
         "correct": false
       },
       {
-        "text": "ažio",
-        "correct": false
+        "text": "b. Poređenju rangova iz 2 uzorka",
+        "correct": true
       },
       {
-        "text": "slobodne rezerve",
+        "text": "c. Poređenju apsolutnih frekvencija iz 2 uzorka",
         "correct": false
       },
       {
-        "text": "emitovani i prodati komercijalni zapisi",
-        "correct": true
+        "text": "d. Poređenju relativnih frekvencija iz 2 uzorka",
+        "correct": false
       },
       {
-        "text": "ukalkulisane obaveze",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Finansijski izveštaj koji se sastavlja za određeni period (najčešće godinu dana) je:",
+    "question": "Kod metode najmanjih kvadrata (Y = ax + b + e) šta predstavlja b?",
     "options": [
       {
-        "text": "bilans stanja",
+        "text": "a. Koeficijent uz X",
         "correct": false
       },
       {
-        "text": "bilans uspeha",
-        "correct": false
+        "text": "b. Odsečak na Y osi",
+        "correct": true
       },
       {
-        "text": "izveštaj o novčanim tokovima",
+        "text": "c. Najmanju varijansu",
         "correct": false
       },
       {
-        "text": "izveštaj o promenama na kapitalu",
+        "text": "d. Grešku modela",
         "correct": false
       },
       {
-        "text": "napomene uz fin. izveštaje",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U kategoriju poslovnih prihoda preduzeca ubrajaju se:",
+    "question": "Jednostrani interval poverenja za nepoznatu varijansu je?",
     "options": [
       {
-        "text": "prihodi od kamata",
+        "text": "a. σ²",
         "correct": false
       },
       {
-        "text": "negativne kursne razlike",
+        "text": "b. nS²",
         "correct": false
       },
       {
-        "text": "prihodi od prodaje proizvoda i usluga",
+        "text": "c. nS²/Hiα",
         "correct": true
       },
       {
-        "text": "dugorocna rezervisanja",
+        "text": "d. S²/n",
         "correct": false
       },
       {
-        "text": "prihodi na osnovu naplate otpisanih potrazivanja",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Ako je planska nabavna vrednost materijala veca od njegove stvarne vrednosti tacno je:",
+    "question": "Kod izraza Y=aX+b+e koliko je matematičko očekivanje od e i E(e)= ?",
     "options": [
       {
-        "text": "rec je o negativnom odstupanju",
+        "text": "a. E(e)=1",
         "correct": false
       },
       {
-        "text": "razlika se evidentira na dugovnoj strain racuna 1009",
-        "correct": false
+        "text": "b. E(e)=0",
+        "correct": true
       },
       {
-        "text": "razlika se evidentira na potraznoj strani racuna 1009",
-        "correct": true
+        "text": "c. E(e)=b",
+        "correct": false
       },
       {
-        "text": "razlika se evidentira na potraznoj strani racuna 100",
+        "text": "d. E(e)=a",
         "correct": false
       },
       {
-        "text": "rec je o pozitivnom odstupanju",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada se visina otpisa osnovnog sredstva povecava iz godine u godinu rec je o?",
+    "question": "Greška prve vrste je? Alfa – Ho je tačna ali je mi prihvatimo",
     "options": [
       {
-        "text": "čini trosak amortizacije",
+        "text": "a. Odbacivanje tačne nulte hipoteze",
         "correct": true
       },
-      {
-        "text": "metod vremenskog otpisivanja obracunata na osnovu progresivnog otpisa",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Bilansna pozicija dugoročnih rezervisanja je element:",
-    "options": [
       {
-        "text": "osnovnih sredstava",
+        "text": "b. Prihvatanje tačne nulte hipoteze",
         "correct": false
       },
       {
-        "text": "obrtnih sredstava",
+        "text": "c. Odbacivanje netačne nulte hipoteze",
         "correct": false
-      },
-      {
-        "text": "sopstvenog kapitala",
-        "correct": true
       },
       {
-        "text": "obaveza",
+        "text": "d. Prihvatanje alternativne hipoteze",
         "correct": false
       },
       {
-        "text": "prihoda",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Ocekivani obim usluga koje osnovno sredstvo moze da pruzi koristi se za utvrdjivanje otpisa kod:",
+    "question": "Moć testa je?",
     "options": [
       {
-        "text": "linearnog otp isa",
+        "text": "a. Verovatnoća da prihvatimo Ho",
         "correct": false
       },
       {
-        "text": "progresivnog otpisa",
-        "correct": false
+        "text": "b. Verovatnoća da odbacimo Ho kada je lažna",
+        "correct": true
       },
       {
-        "text": "funkcionalnog metoda",
-        "correct": true
+        "text": "c. Greška druge vrste",
+        "correct": false
       },
       {
-        "text": "metode aritmeticke digresije",
+        "text": "d. Suma alfa i beta",
         "correct": false
       },
       {
-        "text": "metode geometrijske progresije",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Finansijski izvestaju koji su direktan proizvod dvojnog knjigovodstva:",
+    "question": "Koja se statistika koristi za testiranje hipoteze o varijansi?",
     "options": [
       {
-        "text": "bilans stanja",
-        "correct": true
+        "text": "a. t statistika",
+        "correct": false
       },
       {
-        "text": "dnevnik",
+        "text": "b. Z statistika",
         "correct": false
       },
       {
-        "text": "bilans uspeha",
+        "text": "c. Hi-kvadrat statistika",
         "correct": true
       },
       {
-        "text": "napomene uz fin izvestaje",
+        "text": "d. F statistika",
         "correct": false
       },
       {
-        "text": "glavna knjiga",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Ako vrednost neto obrtnih sredstava raste to nužno znači da:",
+    "question": "Statistika lin. regr. modela za alfa tau(alfa)= i onda ponuđene slične formule:",
     "options": [
       {
-        "text": "Vrednost ORL ne može da opada",
-        "correct": false
+        "text": "a. t statistika (formula sa τ(α))",
+        "correct": true
       },
       {
-        "text": "Neminovno ostaje isti ORL",
+        "text": "b. Z statistika",
         "correct": false
       },
       {
-        "text": "Neminovno opada vrednost ORL",
+        "text": "c. Hi-kvadrat statistika",
         "correct": false
       },
       {
-        "text": "Neminovno raste vrednost ORL",
+        "text": "d. F statistika",
         "correct": false
       },
       {
-        "text": "Vrednost ORL može da raste, opada, I ostane ista",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U sredstva preduzeca ubrajaju se:",
+    "question": "Opšti statistički model se obeležava:",
     "options": [
       {
-        "text": "prodaja proizvoda",
+        "text": "a. F(x)",
         "correct": false
       },
       {
-        "text": "sporna potrazivanja",
+        "text": "b. f(x)",
         "correct": false
       },
       {
-        "text": "menicne obaveze",
-        "correct": false
-      },
-      {
-        "text": "kratkorocni finansijska ulaganja",
+        "text": "c. f(x|θ)",
         "correct": true
       },
       {
-        "text": "primljeni avansi",
+        "text": "d. F(x|θ)",
         "correct": false
       },
       {
-        "text": "kratkoročna potraživanja",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U sredstva preduzeća ubrajaju se:",
+    "question": "Statistika za razliku očekivanja kad je poznata varijansa populacije T = [(x1 - x2)/sigma]*sqrt(n1*n2/(n1+n2)):",
     "options": [
       {
-        "text": "emitovane HOV",
-        "correct": false
+        "text": "a. Z statistika",
+        "correct": true
       },
       {
-        "text": "kratkoročna fin ulaganja",
-        "correct": true
+        "text": "b. t statistika",
+        "correct": false
       },
       {
-        "text": "gudvil",
-        "correct": true
+        "text": "c. Hi-kvadrat statistika",
+        "correct": false
       },
       {
-        "text": "ukalkulisane obaveze",
+        "text": "d. F statistika",
         "correct": false
       },
       {
-        "text": "menične obaveze",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kojom metodom se vrsi obracun troskova materijala po cenama poslednjih nabavki?",
+    "question": "Kod analize varijanse ukupan varijabilitet je jednak:",
     "options": [
       {
-        "text": "fifo",
+        "text": "a. Proizvodu varijansi unutar uzorka i između uzorka",
         "correct": false
       },
       {
-        "text": "lifo",
+        "text": "b. Zbiru varijansi unutar uzorka i između uzorka",
         "correct": true
       },
       {
-        "text": "metod ponderisane prosecne cene",
+        "text": "c. Količniku varijansi unutar uzorka i između uzorka",
         "correct": false
       },
       {
-        "text": "hifo",
+        "text": "d. Kvadratu varijansi unutar uzorka i između uzorka",
         "correct": false
       },
       {
-        "text": "lofo",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Ukoliko preduzece A u predvidjenom roku plati robu preduzecu B I na taj nacin realizuje kasa skonto u iznosu od 10000 to za preduzece A predstavlja:",
+    "question": "Koja statistika se koristi kod testa podobnosti modela:",
     "options": [
       {
-        "text": "ostali I vanredni rashodi",
+        "text": "a. t statistika",
         "correct": false
       },
       {
-        "text": "ostali I vanredni prihod",
+        "text": "b. Z statistika",
         "correct": false
       },
       {
-        "text": "finansijski rashod",
-        "correct": false
+        "text": "c. Hi-kvadrat statistika",
+        "correct": true
       },
       {
-        "text": "prihod od prodaje robe",
+        "text": "d. F statistika",
         "correct": false
       },
       {
-        "text": "finansijski prihod",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Naplata otpisanog potrazivanja od kupaca pripada kategoriji:",
+    "question": "Šta ne spada u kategorije uzoraka:",
     "options": [
       {
-        "text": "finansijskih prihoda",
+        "text": "a. Slučajan",
         "correct": false
       },
       {
-        "text": "poslovnih prihoda",
+        "text": "b. Stratifikovan",
         "correct": false
       },
       {
-        "text": "ostalih i neposlovnih prihoda (to bi bili vanredni prihodi)",
-        "correct": true
+        "text": "c. Uzorak skupina",
+        "correct": false
       },
       {
-        "text": "poslovnih rashoda",
-        "correct": false
+        "text": "d. Neka glupost koja je zapravo bila tačan odgovor (npr. \"uporan uzorak\")",
+        "correct": true
       },
       {
-        "text": "nista od navedenog",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Metoda prema kojoj troskovi otpisa osnovnih sredstava iskljucivo zavise od njihovog fizickog trosenja je:",
+    "question": "Matematičko očekivanje za broj koraka u nizu od n elemenata:",
     "options": [
       {
-        "text": "metoda progresivnog otpisa",
+        "text": "a. n-1",
         "correct": false
       },
       {
-        "text": "funkcionalna metoda",
-        "correct": true
+        "text": "b. n-2",
+        "correct": false
       },
       {
-        "text": "metoda aritmeticke degresije",
-        "correct": false
+        "text": "c. n-3",
+        "correct": true
       },
       {
-        "text": "metoda geometrijske progresije",
+        "text": "d. n+1",
         "correct": false
       },
       {
-        "text": "metoda linearnog otpisa - ovo je jer ne zavisi od vremena.",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Rashodi koji nastaju po osnovu korišćenja kreditnih izvora su:",
+    "question": "Nešto je još bilo kod analize varijanse vezano za one tretmane, neka formula ili slično:",
     "options": [
       {
-        "text": "Poslovni rashodi",
+        "text": "a. Formula za broj stepeni slobode",
         "correct": false
       },
       {
-        "text": "Direktni troškovi",
+        "text": "b. Formula za varijansu tretmana",
         "correct": false
       },
       {
-        "text": "Finansijski rashodi",
+        "text": "c. Formula za srednje kvadrate tretmana",
         "correct": true
       },
       {
-        "text": "Indirektni troškovi",
+        "text": "d. Formula za F statistiku u ANOVA",
         "correct": false
       },
       {
-        "text": "Troškovi nabavke",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada banka korisniku kredita ne stavlja na raspolaganje novčana sredstva, već se indirektno obavezuje za njegov račun, takav kredit se naziva:",
+    "question": "Ocena parametra m sa minimalnom varijancom je:",
     "options": [
       {
-        "text": "rambursni",
-        "correct": false
+        "text": "a. X̄",
+        "correct": true
       },
       {
-        "text": "akceptni",
-        "correct": true
+        "text": "b. H",
+        "correct": false
       },
       {
-        "text": "lombardni",
+        "text": "c. G",
         "correct": false
       },
       {
-        "text": "avalni",
+        "text": "d. Me",
         "correct": false
       },
       {
-        "text": "hipoterkarni",
+        "text": "e. Mo",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Emisiona premija je:",
+    "question": "Ako u Kolmogorov-Smirnov testu za jedan uzorak, vrednost statistike D bude manja od Dα, nulta hipoteza će:",
     "options": [
       {
-        "text": "Deo kapitala akcionarskog društva",
+        "text": "a. biti odbačena",
         "correct": false
       },
       {
-        "text": "Zakonska rezerva preduzeća",
+        "text": "b. biti podvrgnuta dodatnom testiranju korišćenjem Wald-Wolfowitz testa koraka",
         "correct": false
       },
       {
-        "text": "Razlika između više prodajne cene akcija i nominalne vrednosti",
-        "correct": true
+        "text": "c. biti promenjena",
+        "correct": false
       },
       {
-        "text": "Razlika između više prodajne cene akcija i tržišne vrednosti",
+        "text": "d. biti podvrgnuta dodatnom testiranju korišćenjem Kolmogorov-Smirnov testa za dva uzorka",
         "correct": false
       },
       {
-        "text": "Dugoročna obavzea",
-        "correct": false
+        "text": "e. biti prihvaćena",
+        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Dugoročni finansijski plasmani pripadaju poziciji:",
+    "question": "Ako je raspodela obeležja X simetrična, prvi Piersonov koeficijent uzima vrednost:",
     "options": [
       {
-        "text": "Dugoročnih rezervisanja",
+        "text": "a. β₁ < 3",
         "correct": false
       },
       {
-        "text": "Dugoročnih obaveza",
+        "text": "b. β₁ < 0",
         "correct": false
       },
       {
-        "text": "Stalnih sredstava",
+        "text": "c. β₁ = 0",
         "correct": true
       },
       {
-        "text": "Rezervi",
+        "text": "d. β₁ = 3",
         "correct": false
       },
       {
-        "text": "Obrtnih sredstava",
+        "text": "e. β₁ > 3",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U obrtna sredstva se svrstavaju:",
+    "question": "Kod Mann-Whitney testa nulta hipoteza glasi:",
     "options": [
       {
-        "text": "Rezervisanja",
+        "text": "a. Slučajnost uzorka je narušena zbog monotonosti očekivane vrednosti u populaciji",
         "correct": false
       },
       {
-        "text": "Nedovršena proizvodnja",
+        "text": "b. Obe populacije imaju istu raspodelu",
         "correct": true
       },
       {
-        "text": "Menične obaveze",
+        "text": "c. Uzorak je slučajan",
         "correct": false
       },
       {
-        "text": "Kratkoročni finansijski plasmani",
-        "correct": true
+        "text": "d. Uzorak potiče iz populacije sa Normalnom raspodelom",
+        "correct": false
       },
       {
-        "text": "Učešća u drugim privrednim društvima(nisam siguran da li je i ovo)",
+        "text": "e. Slučajnost uzorka je narušena zbog periodičnosti očekivane vrednosti u populaciji",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U kategoriju poslovnih rashoda preduzeća ubrajaju se:",
+    "question": "Koeficijent determinacije uzima vrednosti:",
     "options": [
       {
-        "text": "Troškovi neproizvodnih usluga",
-        "correct": true
+        "text": "a. [-1,1]",
+        "correct": false
       },
       {
-        "text": "Negativne kursne razlike",
+        "text": "b. (-1,0)",
         "correct": false
       },
       {
-        "text": "Rashodi na osnovu plaćenih kazni",
+        "text": "c. (-1,1)",
         "correct": false
       },
       {
-        "text": "Nabavna vrednost prodate robe",
+        "text": "d. [0,1]",
         "correct": true
       },
       {
-        "text": "Rashodi kamata",
+        "text": "e. (0,1)",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada se visina otpisa osnovnog sredstva povećava iz godine u godinu, reč je o:",
+    "question": "Ako u testu normalnosti nulta hipoteza važi, tada važi:",
     "options": [
       {
-        "text": "Metodi linearnog otpisa",
-        "correct": false
+        "text": "a. X podležе Normalnoj raspodeli",
+        "correct": true
       },
       {
-        "text": "Metodi geometrijske progresije",
+        "text": "b. X ne podležе Normalnoj raspodeli",
         "correct": false
       },
       {
-        "text": "Metodi progresivnog otpisa",
-        "correct": true
-      },
-      {
-        "text": "Funkcionalnoj metodi",
+        "text": "c. Zaključak nije moguće doneti zato što u verbalnom opisu nemam informaciju o vrednosti raspodele",
         "correct": false
       },
       {
-        "text": "Metodi aritmetičke degresije",
+        "text": "d. Zaključak nije moguće doneti zato što prethodno nisam uradio/la Mann-Whitney test",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Finansijsko računovodstvo:",
+    "question": "Kod analize varijansi:",
     "options": [
-      {
-        "text": "Pruža finansijske informacije eksternim stejkholderima",
-        "correct": true
-      },
       {
-        "text": "Koristi se isključivo u profitno orijentisanim organizacijama",
+        "text": "a. Ispitujemo uticaj kontinualnog faktora na kontinualno obeležje",
         "correct": false
       },
       {
-        "text": "Kreira izveštaje prema specifičnim zahtevima preduzeća menadžmenta preduzeća",
+        "text": "b. Ispitujemo uticaj kategorijskog faktora na kategorijsko obeležje",
         "correct": false
       },
       {
-        "text": "Orijentisano je ka budućnosti",
+        "text": "c. Ispitujemo uticaj kontinualnog faktora na kategorijsko obeležje",
         "correct": false
       },
       {
-        "text": "Poštuje opšte prihvaćene principe računovodstva",
+        "text": "d. Ispitujemo uticaj kategorijskog faktora na kontinualno obeležje",
         "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U izvore sredstava preduzeća se ubrajaju:",
+    "question": "Ukoliko želimo da uporedimo varijabilitet cene stanova i varijabilitet gramaže nekog artikla, koristićemo:",
     "options": [
       {
-        "text": "Dati avansi",
+        "text": "a. Srednju devijaciju",
         "correct": false
       },
       {
-        "text": "Menične obaveze",
-        "correct": true
+        "text": "b. Varijansu",
+        "correct": false
       },
       {
-        "text": "Kratkoročna finansijska ulaganja",
+        "text": "c. Standardnu devijaciju",
         "correct": false
       },
       {
-        "text": "Dugoročna rezervisanja",
+        "text": "d. Koeficijent varijacije",
         "correct": true
       },
       {
-        "text": "Sporna potraživanja",
+        "text": "e. Ne znam",
         "correct": false
-      },
-      {
-        "text": "Prodaja proizvoda",
-        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Troškovi transporta, poštanskog saobraćaja i komunalnih usluga čine:",
+    "question": "Na slučajan način se bira prvi element, a zatim se iz populacije uzima svaki k-ti element:",
     "options": [
       {
-        "text": "Materijalne troškove",
+        "text": "a. Prost slučajan uzorak",
         "correct": false
       },
       {
-        "text": "Finansijske rashode",
-        "correct": false
+        "text": "b. Sistematski uzorak",
+        "correct": true
       },
       {
-        "text": "Troškovi ličnih dohodaka",
+        "text": "c. Uzorak skupina",
         "correct": false
-      },
-      {
-        "text": "Troškove proizvodnih usluga",
-        "correct": true
       },
       {
-        "text": "Troškove neproizvodnih usluga",
+        "text": "d. Stratifikovani uzorak",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Obrtna sredstva u obliku novca obuhvataju:",
+    "question": "Ako je kod testa koraka za jedan uzorak definisana desnostrana kritična oblast, to znači da alternativna hipoteza glasi:",
     "options": [
       {
-        "text": "Novac na deviznom računu",
-        "correct": true
+        "text": "a. Uzorak je slučajan",
+        "correct": false
+      },
+      {
+        "text": "b. Uzorak nije slučajan",
+        "correct": false
       },
       {
-        "text": "Novac na izdvojenim računima za tekuće potrebe",
+        "text": "c. Slučajnost uzorka je narušena zbog periodičnosti",
         "correct": true
       },
       {
-        "text": "Otvorene akreditive",
+        "text": "d. Slučajnost uzorka je narušena zbog monotonosti",
         "correct": false
       },
       {
-        "text": "Novac u blagajni",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Bruto dobit je:",
+    "question": "Drugi Pirsonov koeficijent se izračunava kao odnos:",
     "options": [
       {
-        "text": "Razlika ukupnih prihoda i rashoda",
-        "correct": true
+        "text": "a. Četvrtog centralnog momenta i standardne devijacije na treći",
+        "correct": false
       },
       {
-        "text": "Poslovni rezultat",
+        "text": "b. Trećeg centralnog momenta i standardne devijacije na kvadrat",
         "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Pozitivnu razliku ukupnih prihoda i ukupnih rashoda nazivamo:",
-    "options": [
+      },
       {
-        "text": "Neto dobit",
+        "text": "c. Četvrtog centralnog momenta i standardne devijacije na četvrti",
         "correct": true
+      },
+      {
+        "text": "d. Trećeg centralnog momenta i standardne devijacije na treći",
+        "correct": false
+      },
+      {
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Računovodstvo u preduzeću treba da obuhvata:",
+    "question": "Moć testa 1 - β ima minimalnu vrednost kada je:",
     "options": [
       {
-        "text": "Knjigovodstvo",
-        "correct": true
-      },
-      {
-        "text": "Rač. planiranje",
-        "correct": true
+        "text": "a. m > m₀",
+        "correct": false
       },
       {
-        "text": "Rač. odlučivanje",
+        "text": "b. Vrednost moći testa ne zavisi od m",
         "correct": false
       },
       {
-        "text": "Rač. kontrola (nadzor)",
-        "correct": true
+        "text": "c. m < m₀",
+        "correct": false
       },
       {
-        "text": "Rač. informacije",
+        "text": "d. m = m₀",
         "correct": true
       },
       {
-        "text": "Rač. analiza",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Usklađivanje originalne vrednosti osnovnih sredstava sa kretanjem cena u veku korišćenja naziva se:",
+    "question": "Pretpostavka da je Var(Y₁) = Var(Y₂) = ... = Var(Yₖ) = σ² važi kod:",
     "options": [
+      {
+        "text": "a. Wald-Wolfowitz testa",
+        "correct": false
+      },
       {
-        "text": "Revalorizacija",
+        "text": "b. ANOVE",
         "correct": true
+      },
+      {
+        "text": "c. Z-testa",
+        "correct": false
+      },
+      {
+        "text": "d. Kolmogorov-Smirnov testa (1 uzorak)",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pod materijalnim pravima se podrazumevaju:",
+    "question": "Ako testiramo nezavisnost 2 kvalitativna obeležja i ukoliko je vrednost statistike 7.1, a kritična vrednost 8.383, zaključak je:",
     "options": [
       {
-        "text": "Patenti",
-        "correct": false
+        "text": "a. obeležja su nezavisna",
+        "correct": true
       },
       {
-        "text": "Licence",
+        "text": "b. obeležja su zavisna",
         "correct": false
       },
       {
-        "text": "Korišćenje proizvodno tehničke dokumentacije",
+        "text": "c. obeležja su pozitivno zavisna",
         "correct": false
       },
       {
-        "text": "Žigovi",
+        "text": "d. nijedno od navedenog",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pozitivna razlika prihoda i rashoda:",
+    "question": "Sa povećanjem veličine uzorka, kada n → ∞, sredina uzorka:",
     "options": [
       {
-        "text": "Neto dobit",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Razlika prihoda i rashoda",
-    "options": [
+        "text": "a. teži 0",
+        "correct": false
+      },
+      {
+        "text": "b. teži ∞",
+        "correct": false
+      },
       {
-        "text": "Bruto dobit",
+        "text": "c. teži m",
         "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pozitivna razlika poslovnih prihoda i poslovnih rashoda",
+    "question": "Za zadati nivo poverenja, dužina intervala poverenja za očekivanu vrednost m je:",
     "options": [
+      {
+        "text": "a. direktno proporcionalna veličini uzorka",
+        "correct": false
+      },
       {
-        "text": "Poslovna dobit",
+        "text": "b. obrnuto proporcionalna veličini uzorka",
         "correct": true
+      },
+      {
+        "text": "c. logaritamska funkcija veličine uzorka",
+        "correct": false
+      },
+      {
+        "text": "d. ništa od navedenog nije tačno",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pomoćne knjigovodstvene evidencije:",
+    "question": "Obični momenti uzorka predstavljaju:",
     "options": [
       {
-        "text": "Evidencija o materijalu",
+        "text": "a. nepristrasne ocene običnih momenata populacije",
         "correct": true
       },
       {
-        "text": "Izveštaj o novčanim tokovima",
+        "text": "b. pozitivno pristrasne ocene običnih momenata populacije",
         "correct": false
       },
       {
-        "text": "Dnevnik",
+        "text": "c. negativno pristrasne ocene običnih momenata populacije",
         "correct": false
-      },
-      {
-        "text": "Skladišna knjiga",
-        "correct": true
       },
       {
-        "text": "Glavna knjiga",
+        "text": "d. nijedno od navedenog",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada pred ima pozitivna neto obrtna sredstva (OBS) to znači da se:",
+    "question": "Ako obeležje X na populaciji ima Normalnu raspodelu, tada su sredina uzorka i varijansa uzorka izvučenog iz ove populacije:",
     "options": [
       {
-        "text": "OBS u celosti finansiraju kratk. Izvorima",
+        "text": "a. Pozitivno zavisne statistike",
         "correct": false
-      },
-      {
-        "text": "OBS delom finansiraju dugoročnim izv",
-        "correct": true
       },
       {
-        "text": "OBS u celosti finansiraju dug izvorima",
+        "text": "b. Negativno zavisne statistike",
         "correct": false
       },
       {
-        "text": "OBS delom finansiraju kratk. Izvorima",
-        "correct": false
+        "text": "c. Nezavisne statistike",
+        "correct": true
       },
       {
-        "text": "Ništa od navedenog",
+        "text": "d. Ne može se odrediti",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Knjigovodstveno obuhvatanje prijema osnovnih sredstava",
+    "question": "Ako je raspodela asimetrična u desnu stranu tada važi da je:",
     "options": [
-      {
-        "text": "Zaduživanje računa osnovnih sredstava",
-        "correct": true
-      },
       {
-        "text": "Zaduživanjem računa sopstveni kapital",
+        "text": "a. x̄ = Me",
         "correct": false
       },
       {
-        "text": "Odobravanjem računa ispravke vrednosti osnovnih sredstava",
+        "text": "b. x̄ < Me",
         "correct": true
       },
       {
-        "text": "Odobravanjem računa sopstveni kapital",
-        "correct": true
+        "text": "c. x̄ > Me",
+        "correct": false
       },
       {
-        "text": "Zaduživanjem računa zaliha",
+        "text": "d. Ne može se utvrditi veza između x̄ i Me",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U metode vremenskog otpisivanje vrednosti osnovih sredstava ubrajaju se:",
+    "question": "Ako su, kod Mann-Whitney testa, uzorci većeg obima, statistika testa ima:",
     "options": [
       {
-        "text": "Metoda progresivnog otpisa",
+        "text": "a. Standardizovanu Normalnu raspodelu",
         "correct": true
       },
       {
-        "text": "Metoda degresivnog otpisa",
-        "correct": true
+        "text": "b. Studentovu raspodelu sa n stepeni slobode",
+        "correct": false
       },
       {
-        "text": "Metoda linearnog otpisa",
-        "correct": true
+        "text": "c. Hi-kvadrat raspodelu sa n-1 stepeni slobode",
+        "correct": false
       },
       {
-        "text": "Metoda aritmetičke degresije",
+        "text": "d. Normalnu raspodelu sa očekivanjem 0 i varijanom σ²",
         "correct": false
       },
       {
-        "text": "Metoda geometrijske degresije",
+        "text": "e. Ne znam",
         "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Menična radnja koja se pokreće u slučaju gubitka menice:",
-    "options": [
-      {
-        "text": "amortizacija menice",
-        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Finansijske prihode preduzeća čine:",
+    "question": "Neka obeležje X ima varijansu S²x, a obeležje Y ima varijansu S²y, i neka između X i Y = aX – b. Tada je srednja vrednost obeležja Y jednaka:",
     "options": [
-      {
-        "text": "Prihodi od redovnih kamata",
-        "correct": true
-      },
       {
-        "text": "Primljene menice od kupaca",
+        "text": "a. my = amx",
         "correct": false
       },
       {
-        "text": "Prihodi od iskorišćenih kasa skonta (od dobavljača)",
+        "text": "b. my = amx – b",
         "correct": true
       },
       {
-        "text": "Pozitivne kursne razlike",
-        "correct": true
+        "text": "c. my = a²mx + b²",
+        "correct": false
       },
       {
-        "text": "Negativne kursne razlike",
+        "text": "d. my = amx + b",
         "correct": false
       },
       {
-        "text": "Sve od prethodno navedenog",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Navedite osnovne ekonomske kategorije:",
+    "question": "Kada želimo da testiramo nultu hipotezu da su dva nezavisna uzorka izvučena iz iste populacije, protiv alternativne hipoteze da se posmatrane populacije razlikuju, koristimo sledeći test:",
     "options": [
       {
-        "text": "Sredstva i obaveze prema izvorima sredstava, prihodi i rashodi",
+        "text": "a. Wald-Wolfowitz test koraka",
         "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Primljeni avansi su pozicija koja pripada:",
-    "options": [
-      {
-        "text": "Kratkoročnim finansijskim plasmanima",
-        "correct": false
       },
       {
-        "text": "Kratkoročnim obavezama",
-        "correct": true
+        "text": "b. Jednofaktorsku analizu varijanse",
+        "correct": false
       },
       {
-        "text": "Kratkoročnim potraživanjima",
+        "text": "c. Dvofaktorsku analizu varijanse",
         "correct": false
       },
       {
-        "text": "Dugoročnim rezervisanjima",
+        "text": "d. Tabelu kontingencije",
         "correct": false
       },
       {
-        "text": "Nematerijalnim sredstvima",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Saldo je:",
+    "question": "Kod testa slučajnosti uzorka, varijansa broja koraka K se računa kao:",
     "options": [
       {
-        "text": "Trenutno stanje pozicije za koju se račun vodi",
+        "text": "a. Var(K) = n(n-2) / 4(n-1)",
         "correct": true
       },
       {
-        "text": "Račun izravnanja",
+        "text": "b. Var(K) = n(n-1) / 4(n-2)",
         "correct": false
       },
       {
-        "text": "Razlika dugovne i potražne strane računa",
-        "correct": true
+        "text": "c. Var(K) = n(n+1) / 4(n+2)",
+        "correct": false
       },
       {
-        "text": "Korektivni račun",
+        "text": "d. Var(K) = n(n+2) / 4(n+1)",
         "correct": false
       },
       {
-        "text": "Pomoćni račun",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Upravljačko računovodstvo:",
+    "question": "T-test je parametarska alternativa:",
     "options": [
+      {
+        "text": "a. Testu koraka za jedan uzorak",
+        "correct": false
+      },
       {
-        "text": "Koristi se isključivo u profitno orijentisanim organizacijama",
+        "text": "b. Testu saglasnosti",
         "correct": false
       },
       {
-        "text": "Poštuje opšte prihvaćenje principe računovodstva",
+        "text": "c. Testu kategorizovanih podataka",
         "correct": false
       },
       {
-        "text": "Orijentisano je ka budućnosti",
+        "text": "d. Man-Vitni testu",
         "correct": true
       },
       {
-        "text": "Pruža finansijske informacije eksternim stejkholderima",
+        "text": "e. Ne znam",
         "correct": false
-      },
+      }
+    ]
+  },
+  {
+    "question": "Što je vrednost koeficijenta determinacije bliža vrednosti 0, tada je:",
+    "options": [
       {
-        "text": "Kreira izveštaje prema specifičnim zahtevima menadžmenta preduzeća",
+        "text": "a. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
         "correct": true
       },
       {
-        "text": "Sadržina izveštaja je neformalizovana",
-        "correct": true
+        "text": "b. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
+        "correct": false
       },
       {
-        "text": "Obuhvata obavezni set finansijskih izveštaja",
+        "text": "c. Udeo neobjašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
         "correct": false
       },
       {
-        "text": "Pruža informacije neophodne menadžment grupi",
-        "correct": true
+        "text": "d. Udeo neobjašnjenog varijabiliteta u objašnjenom varijabilitetu zavisne promenljive veći",
+        "correct": false
       },
       {
-        "text": "sadržina izveštaja je jednoobrazna",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Prevođenje strategijskih planova u akcione planove preduzeća rezultat je:",
+    "question": "Za uzorak X₁, ..., Xₙ iz Uniformne raspodele U = (0, θ) sa nepoznatim parametrom θ, dovoljna statistika je:",
     "options": [
       {
-        "text": "budžetiranja",
-        "correct": true
+        "text": "a. Z = min{X₁², ..., Xₙ²}",
+        "correct": false
       },
       {
-        "text": "operativnog planiranja",
-        "correct": false
+        "text": "b. Z = max{X₁, ..., Xₙ}",
+        "correct": true
       },
       {
-        "text": "finansijkog planiranja",
+        "text": "c. Z = min{X₁, ..., Xₙ}",
         "correct": false
       },
       {
-        "text": "finansijskog predviđenja",
+        "text": "d. Z = max{X₁², ..., Xₙ²}",
         "correct": false
       },
       {
-        "text": "inovativnog planiranja",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U metode vremenskog otpisivanja vrednosti osnovnih sredstava ubrajaju se:",
+    "question": "Kolmogorov-Smirnov testovi se zasnivaju na:",
     "options": [
       {
-        "text": "Metoda progresivnog otpisa",
+        "text": "a. Poređenju izmerenih i očekivanih apsolutnih frekvencija",
         "correct": false
       },
       {
-        "text": "Funkcionalna metoda",
+        "text": "b. Poređenju apsolutnih i relativnih izmerenih frekvencija",
         "correct": false
       },
       {
-        "text": "Metoda aritmetičke degresije",
-        "correct": false
+        "text": "c. Poređenju izmerenih i očekivanih relativnih kumulativnih frekvencija",
+        "correct": true
       },
       {
-        "text": "Metoda geometrijske progresije (treba degresije)",
+        "text": "d. Poređenju apsolutnih i relativnih očekivanih frekvencija",
         "correct": false
       },
       {
-        "text": "Metoda ponderisane prosečne cene",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Odrediti koje od navedenih stalnih materijalnih sredstava podleže obračunu amortizacije:",
+    "question": "Ocena parametra m sa minimalnom varijancom je:",
     "options": [
+      {
+        "text": "a. X̄",
+        "correct": true
+      },
       {
-        "text": "Zemljište",
+        "text": "b. H",
         "correct": false
       },
       {
-        "text": "Avansi za nekretnine, postrojenja i opremu",
+        "text": "c. G",
         "correct": false
       },
       {
-        "text": "Nekretnine, postrojenja i oprema u PRIPREMi",
+        "text": "d. Me",
         "correct": false
       },
       {
-        "text": "Građevinski objekti",
-        "correct": true
+        "text": "e. Mo",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Zaokružiti tačnu tvrdnju:",
+    "question": "Ako u Kolmogorov-Smirnov testu za jedan uzorak, vrednost statistike D bude manja od Dα, nulta hipoteza će:",
     "options": [
       {
-        "text": "Kapital predstavlja zbir sredstava i obaveza",
+        "text": "a. biti odbačena",
         "correct": false
       },
       {
-        "text": "Kapital predstavlja ostatak sredstava pravnog lica nakon odbitka svih njegovih obaveza",
-        "correct": true
+        "text": "b. biti podvrgnuta dodatnom testiranju korišćenjem Wald-Wolfowitz testa koraka",
+        "correct": false
       },
       {
-        "text": "Kapital predstavlja tuđi izvor sredstava",
+        "text": "c. biti promenjena",
         "correct": false
       },
       {
-        "text": "Kapital predstavlja razliku prihoda i rashoda",
+        "text": "d. biti podvrgnuta dodatnom testiranju korišćenjem Kolmogorov-Smirnov testa za dva uzorka",
         "correct": false
+      },
+      {
+        "text": "e. biti prihvaćena",
+        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Koje od navedenih sredstava ne spada u obrtna sredstva:",
+    "question": "Dužina intervala poverenja zavisi od nivoa poverenja i to tako da:",
     "options": [
       {
-        "text": "Kratkoročna ulaganja",
+        "text": "a. sa povećanjem nivoa poverenja, smanjuje se dužina intervala poverenja, što je poželjno",
         "correct": false
       },
       {
-        "text": "Unapred plaćeni troškovi",
+        "text": "b. sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je nepoželjno",
         "correct": true
       },
       {
-        "text": "Obračunati a neplaćeni troškovi",
-        "correct": true
+        "text": "c. sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je poželjno",
+        "correct": false
+      },
+      {
+        "text": "d. sa povećanjem nivoa poverenja, ne menja se dužina intervala poverenja",
+        "correct": false
       },
       {
-        "text": "Novac i novčani ekvivalenti",
+        "text": "e. ništa od navedenog",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Metode utvrđivanja periodičnog rezultata su (bilansa uspeha):",
+    "question": "Ako je raspodela obeležja X simetrična, prvi Piersonov koeficijent uzima vrednost:",
     "options": [
-      {
-        "text": "Metoda ukupnih troškova",
-        "correct": true
-      },
       {
-        "text": "Revalorizaciona metoda",
+        "text": "a. β₁ < 3",
         "correct": false
       },
       {
-        "text": "Funkcionalna metoda",
+        "text": "b. β₁ < 0",
         "correct": false
       },
       {
-        "text": "Metoda prodatih učinaka",
+        "text": "c. β₁ = 0",
         "correct": true
       },
       {
-        "text": "Metoda obračunatih zaliha",
+        "text": "d. β₁ = 3",
         "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Devizni kurs kojim država utiče na međunarodne ekonomske i finansijske transakcije?",
-    "options": [
+      },
       {
-        "text": "Višestruki",
-        "correct": true
+        "text": "e. β₁ > 3",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Početni finansijski ciljevi su:",
+    "question": "Kod Man-Vitni testa nulta hipoteza glasi:",
     "options": [
       {
-        "text": "solventnost",
+        "text": "a. Slučajnost uzorka je narušena zbog monotonosti očekivane vrednosti u populaciji",
         "correct": false
       },
       {
-        "text": "likvidnost",
+        "text": "b. Obe populacije imaju istu raspodelu",
         "correct": true
       },
       {
-        "text": "optimalna struktura sredstava",
-        "correct": true
+        "text": "c. Uzorak je slučajan",
+        "correct": false
       },
       {
-        "text": "brz obrt sredstava",
+        "text": "d. Uzorak potiče iz populacije sa Normalnom raspodelom",
         "correct": false
       },
       {
-        "text": "maksimizacija profitabilnosti",
+        "text": "e. Slučajnost uzorka je narušena zbog periodičnosti očekivane vrednosti u populaciji",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Zaokružiti neutralne bankarske poslove:",
+    "question": "Prosti linearni regresioni model je model sa:",
     "options": [
       {
-        "text": "eskontni poslovi",
-        "correct": false
+        "text": "a. dve promenljive, jednom zavisnom i jednom kontrolisanom",
+        "correct": true
       },
       {
-        "text": "izdavanje kreditnih pisama",
-        "correct": true
+        "text": "b. dve kontrolisane promenljive koje imaju normalnu raspodelu",
+        "correct": false
       },
       {
-        "text": "otvaranja akreditiva",
-        "correct": true
+        "text": "c. tri promenljive, jednom zavisnom i dve kontrolisane",
+        "correct": false
       },
       {
-        "text": "inkaso poslovi",
-        "correct": true
+        "text": "d. dve zavisne promenljive koje imaju normalnu raspodelu",
+        "correct": false
       },
       {
-        "text": "emitovanje obveznica // ipak je pasivan",
+        "text": "e. dve kontrolisane promenljive",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Krajnji finansijski ciljevi su:",
+    "question": "Koeficijent determinacije uzima vrednosti:",
     "options": [
       {
-        "text": "solvetnost",
+        "text": "a. [-1, 1]",
         "correct": false
       },
       {
-        "text": "brz obrt sredstava",
+        "text": "b. (-1, 0)",
         "correct": false
       },
       {
-        "text": "minimizacija troškova",
+        "text": "c. (-1, 1]",
         "correct": false
       },
       {
-        "text": "finansijska snaga",
+        "text": "d. [0, 1]",
         "correct": true
       },
       {
-        "text": "maksimizacija profitabilnosti",
-        "correct": true
+        "text": "e. (0, 1]",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Optimalna struktura kapitala je:",
+    "question": "Nulta hipoteza kod testa koraka za jedan uzorak glasi:",
     "options": [
       {
-        "text": "miks kapitala preduzeća i duga",
+        "text": "a. Uzorak X₁, X₂, ..., Xₙ nije slučajan",
         "correct": false
       },
       {
-        "text": "struktura koja obezbeđuje najveću likvidnost",
+        "text": "b. Slučajnost u uzorku X₁, X₂, ..., Xₙ je narušena zbog periodičnih promena očekivane vrednosti u populaciji",
         "correct": false
       },
       {
-        "text": "struktura koja maksimizira cenu akcije",
-        "correct": true
+        "text": "c. Slučajnost u uzorku X₁, X₂, ..., Xₙ je narušena zbog monotonosti očekivane vrednosti u populaciji",
+        "correct": false
       },
       {
-        "text": "optimalan balans između rizika i prinosa",
+        "text": "d. Uzorak X₁, X₂, ..., Xₙ je slučajan",
         "correct": true
       },
       {
-        "text": "odnos 1:1 između sopstvenog i tuđeg kapitala",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Stanje i dinamika likvidnost najbolje se prati i analizira preko:",
+    "question": "Koji od sledećih testova ne može da se koristi kao neparametarska alternativa t-testu za dva uzorka:",
     "options": [
       {
-        "text": "FFL",
+        "text": "a. Kolmogorov-Smirnov test za dva uzorka",
         "correct": false
       },
       {
-        "text": "FPL",
-        "correct": false
+        "text": "b. Test kategorizovanih podataka",
+        "correct": true
       },
       {
-        "text": "tekućeg racia likvidnosti",
-        "correct": true
+        "text": "c. Mann-Whitney test",
+        "correct": false
       },
       {
-        "text": "marže sigurnosti",
+        "text": "d. Wald-Wolfowitz test",
         "correct": false
       },
       {
-        "text": "BRL",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Vertikalna pravila finansiranja odnose se na pokazatelje:",
+    "question": "Koeficijent determinacije u linearnom regresionom modelu predstavlja:",
     "options": [
       {
-        "text": "ORL",
+        "text": "a. Količnik neobjašnjenog i ukupnog varijabiliteta",
         "correct": false
       },
       {
-        "text": "koeficijent finansijske stabilnosti",
+        "text": "b. Količnik koeficijenta korelacije",
         "correct": false
       },
       {
-        "text": "stepen samofinansiranja",
-        "correct": true
+        "text": "c. Količnik objašnjenog i neobjašnjenog varijabiliteta",
+        "correct": false
       },
       {
-        "text": "marža sigurnosti",
+        "text": "d. Količnik objašnjenog i ukupnog varijabiliteta",
         "correct": true
       },
       {
-        "text": "stepen pokrića",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Ugovor kojim kupac ima pravo, ali ne i obavezu da kupi određeno sredstvo na neki datum u budućnosti naziva se:",
+    "question": "Želimo da proverimo da li se muškarci i žene razlikuju u pogledu koliko para troše muškarci i 18 žena i prikupili egzaktne podatke o potrošnji (...). Testiranje normaliteta je sprovedeno Smirnov testom (D = 0.08, D₀ = 0.059) i sledeći korak je:",
     "options": [
       {
-        "text": "opcija",
+        "text": "a. T-test",
         "correct": true
       },
       {
-        "text": "svop",
+        "text": "b. ANOVA",
         "correct": false
       },
       {
-        "text": "obveznica",
+        "text": "c. Wald-Wolfowitz test",
         "correct": false
       },
       {
-        "text": "fjučers",
+        "text": "d. Test koraka za jedan uzorak",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Finansijski izveštaj koji se sastavlja za određeni period (najčešće godinu dana) je:",
+    "question": "Kod analize varijansi:",
     "options": [
       {
-        "text": "bilans stanja",
-        "correct": true
-      },
-      {
-        "text": "bilans uspeha",
-        "correct": true
+        "text": "a. Ispitujemo uticaj kontinualnog faktora na kontinualno obeležje",
+        "correct": false
       },
       {
-        "text": "izveštaj o novčanim tokovima",
-        "correct": true
+        "text": "b. Ispitujemo uticaj kategorijskog faktora na kategorijsko obeležje",
+        "correct": false
       },
       {
-        "text": "izveštaj o promenama na kapitalu",
+        "text": "c. Ispitujemo uticaj kontinualnog faktora na kategorijsko obeležje",
         "correct": false
       },
       {
-        "text": "napomene uz fin. izveštaje",
-        "correct": false
+        "text": "d. Ispitujemo uticaj kategorijskog faktora na kontinualno obeležje",
+        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Ukoliko banka vrši emisiju efekata za sopstveni račun, to za nju predstavlja:",
+    "question": "Ukoliko želimo da uporedimo varijabilitet cene stanova i varijabilitet gramaže nekog artikla, koristimo:",
     "options": [
       {
-        "text": "aktivni posao",
+        "text": "a. Srednju devijaciju",
         "correct": false
       },
       {
-        "text": "sopstveni posao",
+        "text": "b. Varijansu",
         "correct": false
       },
       {
-        "text": "pasivni posao",
-        "correct": true
+        "text": "c. Standardnu devijaciju",
+        "correct": false
       },
       {
-        "text": "neutralni posao",
-        "correct": false
+        "text": "d. Koeficijent varijacije",
+        "correct": true
       },
       {
-        "text": "eskontni posao",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kredit koji se odobrava po tekućem računu između dva preduzeća koja imaju ustaljeni poslovni odnos, naziva se:",
+    "question": "Na slučajan način se bira prvi element, a zatim se iz populacije uzima svaki k-ti element:",
     "options": [
       {
-        "text": "avalni kredit",
+        "text": "a. Prost slučajan uzorak",
         "correct": false
       },
       {
-        "text": "lombardni kredit",
-        "correct": false
+        "text": "b. Sistematski uzorak",
+        "correct": true
       },
       {
-        "text": "eskontni",
+        "text": "c. Uzorak skupina",
         "correct": false
-      },
-      {
-        "text": "konto-korentni",
-        "correct": true
       },
       {
-        "text": "hipotekarni",
+        "text": "d. Stratifikovani uzorak",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Indirektna metoda sastavljanja izveštaja o novčanim tokovima:",
+    "question": "Bazični indeksi:",
     "options": [
       {
-        "text": "Pristup odozdo nagore",
+        "text": "a. služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na jedan trenutak merenja sa kojim želimo da poredimo nastale promene",
         "correct": true
       },
       {
-        "text": "Pogodna za interne potrebe pred",
+        "text": "b. su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u prethodnom trenutku merenja t-1",
         "correct": false
       },
       {
-        "text": "Kompleksnija od direktne",
+        "text": "c. su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u narednom trenutku merenja t+1",
         "correct": false
       },
       {
-        "text": "Prati bruto tokove gotovine",
+        "text": "d. služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na niz trenutaka merenja sa kojima želimo da poredimo nastale promene",
         "correct": false
       },
       {
-        "text": "Jednostavnija od direktne",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Prenošenje prava po osnovu menice se vrši radnjom koja se naziva:",
+    "question": "Kod prostog linearnog regresionog modela rezidualni zbir kvadrata odstupanja dat je izrazom:",
     "options": [
       {
-        "text": "akceptiranje menice",
-        "correct": false
+        "text": "a. Σei² = Σ[Yi – (b0 + b1Xi)]²",
+        "correct": true
       },
       {
-        "text": "isplata menice",
+        "text": "b. Σei = Σ[Yi – (b0 + b1Xi)]²",
         "correct": false
       },
       {
-        "text": "indosiranje menice",
-        "correct": true
+        "text": "c. Σei² = Σ[Yi – (b0 + b1Xi)]",
+        "correct": false
       },
       {
-        "text": "avaliranje menice",
+        "text": "d. Σei² = ΣYi²",
         "correct": false
       },
       {
-        "text": "protest",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Direktna i indirektna metoda primenjuju se prilikom sačinavanja sledećeg finansijskog izveštaja:",
+    "question": "Koja od dole navedenih mera pokazuje najveću frekvenciju obeležja?",
     "options": [
       {
-        "text": "napomene uz fin. izveštaje",
+        "text": "a. Me",
         "correct": false
       },
       {
-        "text": "bilansa stanja",
-        "correct": false
+        "text": "b. Mo",
+        "correct": true
       },
       {
-        "text": "izveštaja o promenama na kapitalu",
+        "text": "c. X̄",
         "correct": false
       },
       {
-        "text": "izveštaja o novčanim tokovima",
-        "correct": true
+        "text": "d. σ",
+        "correct": false
       },
       {
-        "text": "bilansa uspeha",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Tekuća finansijska politika obuhvata:",
+    "question": "Koeficijent asimetrije je dat izrazom:",
     "options": [
       {
-        "text": "politiku maksimiziranja profitabilnosti",
+        "text": "a. Ka = 3(Me – x̄) / S",
         "correct": false
       },
       {
-        "text": "politiku upravljanja finansijama",
+        "text": "b. μ2 = (1/N) Σ(Xi – x̄)²",
         "correct": false
       },
       {
-        "text": "politiku pravila finansiranja",
+        "text": "c. β1 = μ3 / S⁴",
         "correct": false
       },
       {
-        "text": "politiku obrta kapitala",
+        "text": "d. Ka = 3(x̄ – Me) / S",
         "correct": true
       },
       {
-        "text": "politiku likvidnosti",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Prema načinu određivanja poverioce, hartija od vrednosti može da glasi:",
+    "question": "Šta od navedenog ne predstavlja ocenu:",
     "options": [
       {
-        "text": "po naredbi",
-        "correct": true
+        "text": "a. X",
+        "correct": false
       },
       {
-        "text": "na ime",
-        "correct": true
+        "text": "b. P",
+        "correct": false
       },
       {
-        "text": "na imaoca",
-        "correct": false
+        "text": "c. β",
+        "correct": true
       },
       {
-        "text": "na dužnika",
+        "text": "d. r",
         "correct": false
       },
       {
-        "text": "na donosioca",
+        "text": "e. S²",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Stopa prinosa na sopstvena sredstva se dobija iz matematičkog odnosa:",
+    "question": "Kod analize varijanse, zaključak o prihvatanju ili odbacivanju nulte hipoteze se donosi na bazi statistike u kojoj se posmatra količnik:",
     "options": [
       {
-        "text": "poslovne dobiti i sopstvenog kapitala",
+        "text": "a. varijabiliteta između grupa i ukupnog varijabiliteta",
         "correct": false
       },
       {
-        "text": "neto dobiti i sopstvenog kapitala",
-        "correct": true
+        "text": "b. varijabiliteta unutar i varijabiliteta između grupa",
+        "correct": false
       },
       {
-        "text": "neto dobiti i poslovnih sredstava",
+        "text": "c. ukupnog varijabiliteta i varijabiliteta unutar grupa",
         "correct": false
       },
       {
-        "text": "ništa od navedenog",
-        "correct": false
+        "text": "d. varijabiliteta između i varijabiliteta unutar grupa",
+        "correct": true
       },
       {
-        "text": "poslovne dobiti i poslovnih sredstava",
+        "text": "e. ukupnog varijabiliteta i varijabiliteta između grupa",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Prema mestu plaćanja, akreditivi mogu biti:",
+    "question": "Ako testiramo nezavisnost 2 kvalitativna obeležja i ukoliko je vrednost statistike 7.1, a kritična vrednost 8.383, zaključak je:",
     "options": [
-      {
-        "text": "opozivi i neopozivi",
-        "correct": false
-      },
       {
-        "text": "vista i oročeni",
+        "text": "a. obeležja su nezavisna",
         "correct": true
       },
       {
-        "text": "prenosivi i neprenosivi",
+        "text": "b. obeležja su zavisna",
         "correct": false
       },
       {
-        "text": "nostro i loro",
+        "text": "c. obeležja su pozitivno zavisna",
         "correct": false
       },
       {
-        "text": "potvrđeni i nepotvrđeni",
+        "text": "d. nijedno od navedenog",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Povećano zaduživanje prema “DuPont” šemi profitabilnosti:",
+    "question": "Što je vrednost koeficijenta determinacije bliža vrednosti 1, tada je:",
     "options": [
-      {
-        "text": "povećanje profitabilnosti",
-        "correct": true
-      },
       {
-        "text": "smanjuje profitabilnost",
+        "text": "a. Udeo neobjašnjenog varijabiliteta u objašnjenom varijabilitetu zavisne promenljive manji",
         "correct": false
       },
       {
-        "text": "povećava marginalnu dobit",
+        "text": "b. Udeo neobjašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
         "correct": false
       },
       {
-        "text": "povećava koeficijent obrta",
+        "text": "c. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
         "correct": false
       },
       {
-        "text": "povećava multiplikator sopstvenih sredstava",
+        "text": "d. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
         "correct": true
+      },
+      {
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pravilo za odnos obrtnih sredstava i tekućih obaveza “2:1” predstavlja:",
+    "question": "Kod Normalne raspodele sa nepoznatom očekivanom vrednošću m, odnos Var( x̄ ) / Var(X) iznosi:",
     "options": [
       {
-        "text": "eksternu normu za poređenje",
+        "text": "a. π/3",
         "correct": false
       },
       {
-        "text": "subjektivnu normu za poređenje",
+        "text": "b. 2/π",
         "correct": false
       },
       {
-        "text": "apokrifnu normu za poređenje",
+        "text": "c. π/2",
         "correct": true
       },
       {
-        "text": "objektivnu normu za poređenje",
+        "text": "d. 1",
         "correct": false
       },
       {
-        "text": "internu normu za poređenje",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U kontnom okviru četvorocifreni brojevi predstavljaju:",
+    "question": "U mere centralne tendencije ne spada:",
     "options": [
       {
-        "text": "klase",
+        "text": "a. Medijana",
         "correct": false
       },
       {
-        "text": "analitičke račune",
-        "correct": true
+        "text": "b. Aritmetička sredina",
+        "correct": false
       },
       {
-        "text": "sintentičke račune",
+        "text": "c. Geometrijska sredina",
         "correct": false
       },
       {
-        "text": "mešovite račune",
-        "correct": false
+        "text": "d. Koeficijent korelacije",
+        "correct": true
       },
       {
-        "text": "grupe",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U kontnom okviru trocifreni brojevi predstavljaju:",
+    "question": "Greška prve vrste je greška koju pravimo ako:",
     "options": [
       {
-        "text": "klase",
+        "text": "a. odbacimo hipotezu H0, a ona nije tačna",
         "correct": false
       },
       {
-        "text": "analitičke račune",
+        "text": "b. prihvatimo hipotezu H0, a ona nije tačna",
         "correct": false
-      },
-      {
-        "text": "sintentičke račune",
-        "correct": true
       },
       {
-        "text": "mešovite račune",
+        "text": "c. prihvatimo hipotezu H0, a ona je tačna",
         "correct": false
       },
       {
-        "text": "grupe",
-        "correct": false
+        "text": "d. odbacimo hipotezu H0, a ona je tačna",
+        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U kontnom okviru dvocifreni brojevi predstavljaju:",
+    "question": "Ako posmatramo Normalnu raspodelu sa nepoznatom očekivanom vrednošću m, onda važi:",
     "options": [
       {
-        "text": "klase",
-        "correct": false
+        "text": "a. E(x̄ – m)² < E(M̂e – m)²",
+        "correct": true
       },
       {
-        "text": "analitičke račune",
+        "text": "b. E(x̄ – m)² > E(M̂e – m)²",
         "correct": false
       },
       {
-        "text": "sintentičke račune",
+        "text": "c. E(x̄ – m)² = E(M̂e – m)²",
         "correct": false
       },
       {
-        "text": "mešovite račune",
+        "text": "d. Ništa od navedenog nije tačno",
         "correct": false
-      },
-      {
-        "text": "grupe",
-        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U kontnom okviru jednocifreni brojevi predstavljaju:",
+    "question": "Ako su b0 i b1 ocene regresionih parametara β0 i β1, važi:",
     "options": [
       {
-        "text": "klase",
-        "correct": true
-      },
-      {
-        "text": "analitičke račune",
+        "text": "a. E(b1) = 0",
         "correct": false
       },
       {
-        "text": "sintentičke račune",
+        "text": "b. E(b1) = m",
         "correct": false
       },
       {
-        "text": "mešovite račune",
+        "text": "c. E(b1) = β0",
         "correct": false
       },
       {
-        "text": "grupe",
-        "correct": false
+        "text": "d. E(b1) = β1",
+        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada se devizni kurs vezuje za vrednost strane valute, ali u rasponu većem od 2,25%, takav kurs se naziva:",
+    "question": "Homoskedastičnost znači da je:",
     "options": [
       {
-        "text": "fiksni",
+        "text": "a. varijansa od ε uvek pozitivna",
         "correct": false
       },
       {
-        "text": "ograničeni",
+        "text": "b. varijansa od ε uvek jednaka nuli",
         "correct": false
       },
       {
-        "text": "fluktuirajući",
+        "text": "c. varijansa od ε uvek jednaka jedinici",
         "correct": false
       },
       {
-        "text": "fleksibilni",
+        "text": "d. varijansa od ε konstantna",
         "correct": true
       },
       {
-        "text": "višestruki",
+        "text": "e. varijansa od ε promenljiva",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Korišćenje diskontovanja kao tehnike je karakteristično za:",
+    "question": "U mere centralne tendencije ne spada:",
     "options": [
-      {
-        "text": "interna stopa prinosa",
-        "correct": false
-      },
       {
-        "text": "cena kapitala",
+        "text": "a. medijana",
         "correct": false
       },
       {
-        "text": "prosečan period povraćaja",
+        "text": "b. aritmetička sredina",
         "correct": false
       },
       {
-        "text": "indeks profitabilnosti",
+        "text": "c. kvartilna devijacija",
         "correct": true
       },
       {
-        "text": "neto sadašnja vrednosti",
-        "correct": true
+        "text": "d. modus",
+        "correct": false
       },
       {
-        "text": "diskontovani period povracaja",
-        "correct": true
+        "text": "e. geometrijska sredina",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Činjenicu da je hipoteka pravo koje postoji jedino ako postoji i potraživanje koje se njome obezbeđuje nazivamo:",
+    "question": "Zbir odstupanja vrednosti obeležja X na posmatranom skupu od njihove aritmetičke sredine, Σ(Xi – X̄), je jednako:",
     "options": [
       {
-        "text": "pravo obezbeđenja",
+        "text": "a. em",
         "correct": false
       },
       {
-        "text": "akcesorno pravo",
+        "text": "b. 5",
         "correct": false
       },
       {
-        "text": "nedeljivo pravo",
+        "text": "c. 0",
         "correct": true
       },
       {
-        "text": "stvarno pravo",
+        "text": "d. S²",
         "correct": false
       },
       {
-        "text": "ekstezivno pravo",
+        "text": "e. em/n",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada menadžment nastoji da maksimizira poslovne rezultate korišćenjem postojećih ili pribavljenih izvore, takvo planiranje je:",
+    "question": "Kada uzorak potiče iz populacije sa dvodimenzionalnom Normalnom raspodelom, pretpostavka o nezavisnosti obeležja ekvivalentna je pretpostavci:",
     "options": [
       {
-        "text": "operativno",
+        "text": "a. H0 (ρ ≥ 0)",
         "correct": false
       },
       {
-        "text": "zadovoljavajuće",
+        "text": "b. H0 (ρ ≠ 0)",
         "correct": false
       },
       {
-        "text": "osnovno",
+        "text": "c. H0 (ρ ≠ 1)",
         "correct": false
       },
       {
-        "text": "inovativno",
+        "text": "d. H0 (ρ = 1)",
         "correct": false
       },
       {
-        "text": "optimalno",
+        "text": "e. H0 (ρ = 0)",
         "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Diskontovani period povraćaja:",
+    "question": "Pretpostavka da je Var(Y₁) = Var(Y₂) = ... = Var(Yₖ) = σ² važi kod:",
     "options": [
       {
-        "text": "zahteva poznat trošak kapitala",
-        "correct": true
-      },
-      {
-        "text": "predstavlja metod koji najbolje rangira investicije",
+        "text": "a. Wald-Wolfowitz testa",
         "correct": false
       },
       {
-        "text": "pruža informaciju o povećaju vrednosti preduzeća",
-        "correct": false
+        "text": "b. ANOVE",
+        "correct": true
       },
       {
-        "text": "ignoriše novčani tok nakon perioda povraćaja",
-        "correct": true
+        "text": "c. Z-testa",
+        "correct": false
       },
       {
-        "text": "ne uzima u obzir vremensku vrednost novca",
+        "text": "d. Kolmogorov-Smirnov testa (1 uzorak)",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada menadžment nastoji da minimizira troškove pri datom nivou prihoda, takvo planiranje je:",
+    "question": "Očekivana vrednost sredine uzorka je:",
     "options": [
       {
-        "text": "operativno",
+        "text": "a. E(x̄) = (n-1)/n · σ²",
         "correct": false
       },
       {
-        "text": "zadovoljavajuće",
-        "correct": false
+        "text": "b. E(x̄) = m",
+        "correct": true
       },
       {
-        "text": "osnovno",
+        "text": "c. E(x̄) = m/n",
         "correct": false
       },
       {
-        "text": "inovativno",
+        "text": "d. E(x̄) = σ²/n",
         "correct": false
       },
       {
-        "text": "optimalno",
-        "correct": true
+        "text": "e. E(x̄) = (xi-m / n) √n",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Računi uspeha su:",
+    "question": "Centralna granična teorema glasi: Ako je očekivana vrednost populacije m, a varijansa σ², kad n neograničeno raste, raspodela sredine uzorka obima n teži:",
     "options": [
       {
-        "text": "odlivi",
+        "text": "a. Studentovoj raspodeli sa n stepeni slobode",
         "correct": false
       },
       {
-        "text": "računi ispravki vrednosti",
+        "text": "b. Normalnoj raspodeli sa očekivanjem m i varijansom σ²/(n-1)",
         "correct": false
       },
       {
-        "text": "računi prihoda",
-        "correct": true
+        "text": "c. Normalnoj raspodeli sa očekivanjem m i varijansom σ²",
+        "correct": false
       },
       {
-        "text": "prilivi",
-        "correct": false
+        "text": "d. Normalnoj raspodeli sa očekivanjem m i varijansom σ²/n",
+        "correct": true
       },
       {
-        "text": "aktivni računi",
+        "text": "e. Studentovoj raspodeli sa n-1 stepeni slobode",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kojoj grupi bilansnih promena pripadaju promene koje izazivaju povećanje aktive i pasive za isti iznos?",
+    "question": "Lančani indeksi:",
     "options": [
       {
-        "text": "drugoj grupi",
+        "text": "a. služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na jedan trenutak merenja sa kojim želimo da poredimo nastale promene",
         "correct": false
       },
       {
-        "text": "trećoj grupi",
+        "text": "b. služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na niz trenutaka merenja sa kojima želimo da poredimo nastale promene",
         "correct": false
       },
       {
-        "text": "četvrtoj grupi",
+        "text": "c. su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u narednom trenutku merenja t+1",
         "correct": false
       },
       {
-        "text": "nijednoj od navedenih",
-        "correct": false
+        "text": "d. su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u prethodnom trenutku merenja t-1",
+        "correct": true
       },
       {
-        "text": "prvoj grupi",
-        "correct": true
+        "text": "e. ništa od navedenog",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kojoj grupi bilansnih promena pripadaju promene koje izazivaju smanjivanje aktive i pasive za isti iznos?",
+    "question": "Ako je tačna nulta hipoteza H0 (m = m0), uzorak dovoljno velik i ako je poznata varijansa populacije, statistika t = (x̄ – m0) √n / σ ima raspodelu:",
     "options": [
-      {
-        "text": "drugoj grupi",
-        "correct": true
-      },
       {
-        "text": "trećoj grupi",
+        "text": "a. Normalnu raspodelu sa očekivanjem 1 i varijansom 0",
         "correct": false
       },
       {
-        "text": "četvrtoj grupi",
+        "text": "b. Normalnu raspodelu sa očekivanjem 0 i varijansom σ²",
         "correct": false
       },
       {
-        "text": "nijednoj od navedenih",
+        "text": "c. Studentovu raspodelu sa n-1 stepeni slobode",
         "correct": false
       },
       {
-        "text": "prvoj grupi",
+        "text": "d. Studentovu raspodelu sa n stepeni slobode",
         "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Kojoj grupi bilansnih promena pripadaju promene koje izazivaju promene u strukturi aktive:",
-    "options": [
-      {
-        "text": "trećoj grupi",
-        "correct": true
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Kojoj grupi bilansnih promena pripadaju promene koje izazivaju promene u strukturi pasive:",
-    "options": [
+      },
       {
-        "text": "četvrtoj grupi",
+        "text": "e. Normalnu raspodelu sa očekivanjem 0 i varijansom 1",
         "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Derivativne hartije od vrednosti su:",
+    "question": "Neka je X1, X2, ..., Xn1 uzorak iz populacije sa Normalnom raspodelom i parametrima m1 i σ1², a X'1, X'2, ..., X'n2 uzorak iz populacije sa parametrima m2 i σ2². Statistika x̄1 – x̄2 će imati Normalnu raspodelu sa parametrima:",
     "options": [
       {
-        "text": "blagajnički zapisi",
+        "text": "a. E(x̄1 – x̄2) = m1 m2, Var(x̄1 – x̄2) = σ1²/n1 · σ2²/n2",
         "correct": false
       },
       {
-        "text": "certifikat o depozitu",
+        "text": "b. E(x̄1 – x̄2) = m1 – m2, Var(x̄1 – x̄2) = σ1²/n1 · σ2²/n2",
         "correct": false
-      },
-      {
-        "text": "opcije",
-        "correct": true
       },
       {
-        "text": "svopovi",
-        "correct": true
+        "text": "c. E(x̄1 – x̄2) = m1 m2, Var(x̄1 – x̄2) = σ1²/n1 + σ2²/n2",
+        "correct": false
       },
       {
-        "text": "komercijalni zapisi",
+        "text": "d. E(x̄1 – x̄2) = m1 – m1, Var(x̄1 – x̄2) = σ1²/n1 – σ2²/n2",
         "correct": false
       },
       {
-        "text": "fjucersi i forvard ugovori",
+        "text": "e. E(x̄1 – x̄2) = m1 – m2, Var(x̄1 – x̄2) = σ1²/n1 + σ2²/n2",
         "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Zalihe su:",
+    "question": "Kod normalne raspodele, estimator s² = (1/n) Σ (Xi – X̄)² je:",
     "options": [
       {
-        "text": "materijal u obradi i doradi",
+        "text": "a. nepristrasna ocena varijanse populacije",
         "correct": true
       },
       {
-        "text": "šume i osnovno stado",
+        "text": "b. pozitivno pristrasna ocena varijanse populacije",
         "correct": false
       },
       {
-        "text": "gotovinski ekvivalenti",
+        "text": "c. negativno pristrasna ocena varijanse populacije",
         "correct": false
-      },
-      {
-        "text": "nedovršena proizvodnja",
-        "correct": true
       },
       {
-        "text": "obrtna sredstva (imovina)",
+        "text": "d. nijedno od navedenog",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Racio koji objašnjava pokrivenost svake novčane jedinice kratkoročnih obaveza određenim iznosom likvidnih sredstava se naziva:",
+    "question": "Sa povećanjem veličine uzorka, kada n → ∞, sredina uzorka:",
     "options": [
-      {
-        "text": "rigorozni racio likvidnosti (brzi)",
-        "correct": true
-      },
       {
-        "text": "opšti racio likvidnosti",
+        "text": "a. teži 0",
         "correct": false
       },
       {
-        "text": "racio defanzivnog intervala",
+        "text": "b. teži –∞",
         "correct": false
       },
       {
-        "text": "neto obrtna sredstva",
+        "text": "c. ne menja se",
         "correct": false
       },
       {
-        "text": "racio usklađenosti novčanih tokova",
-        "correct": false
+        "text": "d. teži m",
+        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Faktori razvoja finansijskog tržišta su:",
+    "question": "Za isti nivo poverenja, tačna je sledeća tvrdnja:",
     "options": [
       {
-        "text": "fiskalna politika",
+        "text": "a. Interval poverenja za obim uzorka n biće uži od intervala poverenja za obim uzorka n+k",
         "correct": false
       },
       {
-        "text": "novac",
-        "correct": true
+        "text": "b. Ne mogu se porediti dužine intervala poverenja za obim uzorka n i obim uzorka n+k",
+        "correct": false
       },
       {
-        "text": "koncentracija kapitala",
+        "text": "c. Interval poverenja za obim uzorka n biće širi od intervala poverenja za obim uzorka n+k",
         "correct": true
       },
       {
-        "text": "centralizacija kapitala",
+        "text": "d. Interval poverenja za obim uzorka n biće jednake dužine kao i interval poverenja za obim uzorka n+k",
         "correct": false
       },
       {
-        "text": "inflacija",
-        "correct": true
-      },
-      {
-        "text": "monetarna politika",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Prema modelu organizacije finansijske funkcije, u poslove finansijskog upravljanja ubrajaju se:",
+    "question": "Kod Normalne raspodele sa nepoznatom očekivanom vrednošću m, odnos Var(Me) / Var(X̄):",
     "options": [
       {
-        "text": "finansijska analiza",
+        "text": "a. π/2",
         "correct": true
       },
       {
-        "text": "finansijsko poslovanje",
+        "text": "b. 1",
         "correct": false
       },
       {
-        "text": "finansijski informacioni sistem",
+        "text": "c. 2/π",
         "correct": false
       },
       {
-        "text": "finansijko planiranje",
-        "correct": true
+        "text": "d. π/3",
+        "correct": false
       },
       {
-        "text": "finansijska kontrola",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Aktivni računi:",
+    "question": "Ukoliko testiramo hipotezu da obeležje X podleže Normalnoj raspodeli korišćenjem testa Kolmogorov-Smirnov, a vrednost statistike D = 0, možemo zaključiti da:",
     "options": [
       {
-        "text": "povećanja se beleže na potražnoj strani",
-        "correct": false
+        "text": "a. X podleže Normalnoj raspodeli",
+        "correct": true
       },
       {
-        "text": "imaju početno stanje na potražnoj strani",
+        "text": "b. X ne podleže Normalnoj raspodeli",
         "correct": false
-      },
-      {
-        "text": "povećanja se beleže na dugovnoj strani",
-        "correct": true
       },
       {
-        "text": "su računi uspeha",
+        "text": "c. Zaključak nije moguće doneti zato što u verbalnom opisu nemam informaciju kolika je kritična vrednost raspodele",
         "correct": false
       },
       {
-        "text": "saldo izravnanja se beleži na potražnoj strani",
-        "correct": true
+        "text": "d. Zaključak nije moguće doneti zato što prethodno nisam uradio/la Mann-Whitney U test",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pod obrtnih sredstavima (imovinom) se podrazumevaju:",
+    "question": "Želimo da proverimo da li se muškarci i žene razlikuju u pogledu koliko para potroše u šopingu. Uzeli smo 18 žena i prikupili egzaktne podatke o potrošnji. Testiranje normaliteta je sprovedeno kroz Kolmogorov-Smirnov test (D=0.08, D0=0.059) i sledeći korak u analizi je:",
     "options": [
       {
-        "text": "akcije",
+        "text": "a. ANOVA",
         "correct": false
       },
       {
-        "text": "sredstva koja se amortizuju",
-        "correct": false
+        "text": "b. t-test",
+        "correct": true
       },
       {
-        "text": "kratkoročni kapital",
+        "text": "c. Wald-Wolfowitz test",
         "correct": false
-      },
-      {
-        "text": "sredstva koja se jednokratnom upotrebom troše u poslovnom procesu",
-        "correct": true
       },
       {
-        "text": "softveru, patenti i licence",
+        "text": "d. Test koraka za jedan uzorak",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pasivni bankarski poslovi su:",
+    "question": "U prostom linearnom regresionom modelu, parametri dobijeni primenom metode najmanjih kvadrata, uz pretpostavke modela, imaju:",
     "options": [
       {
-        "text": "otvaranje akreditiva",
+        "text": "a. Studentovu raspodelu",
         "correct": false
-      },
-      {
-        "text": "međubankarski zajmovi",
-        "correct": true
       },
       {
-        "text": "inkaso poslovi",
+        "text": "b. Hi-kvadrat raspodelu",
         "correct": false
       },
       {
-        "text": "relombard",
+        "text": "c. Normalnu raspodelu",
         "correct": true
       },
       {
-        "text": "devizni poslovi",
+        "text": "d. Puasonovu raspodelu",
         "correct": false
-      },
-      {
-        "text": "depozitni poslovi",
-        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Poređenje zasnovano na “benčmarkingu” predstavlja:",
+    "question": "U prostom linearnom regresionom modelu, slučajna promenljiva ε podleže:",
     "options": [
       {
-        "text": "subjektivnu normu za poređenje",
+        "text": "a. F raspodeli",
         "correct": false
       },
       {
-        "text": "objektivnu normu za poređenje",
+        "text": "b. Hi-kvadrat raspodeli",
         "correct": false
       },
       {
-        "text": "internu normu za poređenje",
+        "text": "c. t raspodeli",
         "correct": false
       },
       {
-        "text": "eksternu normu za poređenje",
+        "text": "d. N(0, σ²)",
         "correct": true
-      },
-      {
-        "text": "apokrifnu normu za poređenje",
-        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Politika pravila finansiranja, pravila finansijskog poslovanja i upravljanja finansijama čine:",
+    "question": "Hi-kvadrat test posmatra razlike između izmerenih i očekivanih:",
     "options": [
-      {
-        "text": "osnovnu finansijsku politiku",
-        "correct": true
-      },
       {
-        "text": "politiku upravljanja kapitalom",
+        "text": "a. relativnih frekvencija",
         "correct": false
       },
       {
-        "text": "ništa od navedenog",
-        "correct": false
+        "text": "b. apsolutnih frekvencija",
+        "correct": true
       },
       {
-        "text": "razvojnu politiku",
+        "text": "c. intervala",
         "correct": false
       },
       {
-        "text": "investicionu politiku",
+        "text": "d. ništa od navedenog",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Knjigovodstvo je:",
+    "question": "Srednja kvadratna greška ocene parametra je:",
     "options": [
       {
-        "text": "deo upravljačkog računovodstva",
+        "text": "a. varijansa razlike između ocene parametra i prave vrednosti parametra",
         "correct": false
       },
       {
-        "text": "glavni deo računovodstva",
+        "text": "b. očekivana vrednost kvadrata razlike između ocene parametra i prave vrednosti parametra",
         "correct": true
       },
       {
-        "text": "sinonim s računovodstvom",
+        "text": "c. očekivana vrednost razlike između ocene parametra i prave vrednosti parametra",
         "correct": false
       },
       {
-        "text": "širi pojam od računovodstva",
+        "text": "d. varijansa kvadrata razlike između ocene parametra i prave vrednosti parametra",
         "correct": false
       },
       {
-        "text": "NIJE strogo formalna evidencija",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada je vrednost faktora poslovnog leveridža 2,5, a očekivani rast prihoda od prodaje 10%, to znači da će se za 25% povećati:",
+    "question": "Testom saglasnosti se može zaključiti da li:",
     "options": [
       {
-        "text": "bruto dobit",
-        "correct": false
+        "text": "a. Obeležje na populaciji ima datu raspodelu",
+        "correct": true
       },
       {
-        "text": "neto dobit",
+        "text": "b. Su dva uzorka iz iste populacije",
         "correct": false
       },
       {
-        "text": "dobit pre operezivanja",
+        "text": "c. Su vrednosti matematičkih očekivanja jednake",
         "correct": false
       },
       {
-        "text": "marginalna dobit",
+        "text": "d. Su vrednosti varijansi jednake",
         "correct": false
       },
       {
-        "text": "poslovna dobit",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Međusobno prebijanje potraživanja i dugovanja u međunarodnom platnom prometu obavlja se putem:",
+    "question": "Ako je, kod Wald-Wolfowitz testa koraka, tačna nulta hipoteza da su elementi dva uzorka iz iste populacije, statistika   τ = (K - E(K)) / √Var(K) ima približno:",
     "options": [
       {
-        "text": "svopova",
+        "text": "a. Studentovu raspodelu sa n-1 stepeni slobode",
         "correct": false
       },
       {
-        "text": "otvaranje akreditiva",
-        "correct": true
+        "text": "b. Hi-kvadrat raspodelu sa n-1 stepeni slobode",
+        "correct": false
       },
       {
-        "text": "rambusiranja",
-        "correct": false
+        "text": "c. Normalnu raspodelu sa očekivanjem 0 i varijansom 1",
+        "correct": true
       },
       {
-        "text": "kliringa",
+        "text": "d. Studentovu raspodelu sa n-k-1 stepeni slobode",
         "correct": false
       },
       {
-        "text": "fjučersa",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pasivni računi:",
+    "question": "U mere centralne tendencije ne spada:",
     "options": [
       {
-        "text": "su računi uspeha",
-        "correct": false
+        "text": "a. Koeficijent korelacije",
+        "correct": true
       },
       {
-        "text": "su računi stanja",
-        "correct": true
+        "text": "b. Aritmetička sredina",
+        "correct": false
       },
       {
-        "text": "saldo za izravnanje se beleži na dugovnoj strani",
-        "correct": true
+        "text": "c. Geometrijska sredina",
+        "correct": false
       },
       {
-        "text": "imaju početno stanje na dugovnoj strani",
+        "text": "d. Medijana",
         "correct": false
       },
       {
-        "text": "povećanja se beleže na dugovnoj strani",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Prema svrsi sastavljanja finansijski planovi mogu biti:",
+    "question": "Kod jednofaktorske analize varijanse, varijabilitet između uzoraka se računa kao:",
     "options": [
       {
-        "text": "planovi sredstava i njihovih izvora",
-        "correct": true
+        "text": "a. T₁² = ∑ nᵢ(ȳᵢ - ȳ)",
+        "correct": false
       },
       {
-        "text": "planovi prihoda i rashoda",
-        "correct": true
+        "text": "b. T₁² = ∑ nᵢ(yᵢ - ȳ)²",
+        "correct": false
       },
       {
-        "text": "planovi priliva i odliva",
+        "text": "c. T₁² = ∑ nᵢ(ȳᵢ - ȳ)²",
         "correct": true
       },
       {
-        "text": "prospektivni i perspektivni planovi",
+        "text": "d. T₁² = ∑ nᵢ(yᵢ - ȳ)",
         "correct": false
       },
       {
-        "text": "osnovni i operativni planovi",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Koje od sledećih hartija od vrednosti mogu izdavati isključivo banke:",
+    "question": "U prostom linearnom regresionom modelu, slučajna promenljiva ε podleže:",
     "options": [
       {
-        "text": "blagajnički zapisi",
-        "correct": true
+        "text": "a. χ²₍₍ᵣ₋₁₎·₍ₛ₋₁₎₎",
+        "correct": false
       },
       {
-        "text": "komercijalni zapisi",
+        "text": "b. t₍ₙ₋₂₎",
         "correct": false
       },
       {
-        "text": "obveznice",
+        "text": "c. F₍ₖ₋₁,ₙ₋ₖ₎",
         "correct": false
       },
       {
-        "text": "certifikat o depozitu",
+        "text": "d. N(0, σ²)",
         "correct": true
-      },
-      {
-        "text": "opcije",
-        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Za revolving kredit je karakteristično da se:",
+    "question": "Što je vrednost koeficijenta determinacije bliža broju 1, udeo objašnjenog u ukupnom varijabilitetu promenljive je:",
     "options": [
-      {
-        "text": "ništa od navedenog nije tačno",
-        "correct": true
-      },
       {
-        "text": "banka ne obavezuje prema klijentu da će mu sredstva biti",
+        "text": "a. manji",
         "correct": false
       },
       {
-        "text": "aranžman pravi na duži period",
-        "correct": false
-      },
+        "text": "b. veći",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Pokazatelj kvaliteta regresionog modela je koeficijent determinacije.",
+    "options": [
       {
-        "text": "na neiskorišćeni deo plaća kamata",
-        "correct": false
+        "text": "a. Tačno",
+        "correct": true
       },
       {
-        "text": "najčešće koristi varijabilna kamatna stopa",
+        "text": "b. Netačno",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "U trgovačkom izrazu 5/10 neto 30, broj 10 označava:",
+    "question": "U linearnom regresionom modelu, kao ocene slučajnih odstupanja εᵢ koriste se:",
     "options": [
-      {
-        "text": "veličinu kasa skonta",
-        "correct": false
-      },
       {
-        "text": "diskontni period",
+        "text": "a. reziduali eᵢ",
         "correct": true
       },
       {
-        "text": "rok za korišćenje popusta",
-        "correct": true
+        "text": "b. faktori Tᵢ",
+        "correct": false
       },
       {
-        "text": "rok za otplatu ukupnog duga",
+        "text": "c. očekivane vrednosti Studentove raspodele sa n-2 stepeni slobode",
         "correct": false
       },
       {
-        "text": "kreditni period",
+        "text": "d. sume kvadrata horizontalnih odstupanja",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Ugovor kojim se vrši prodaja aktive po fiksnoj ceni za aktivu čija je cena varijabilna:",
+    "question": "Kod analize varijanse:",
     "options": [
       {
-        "text": "forvard",
+        "text": "a. Ispitujemo uticaj kontinualnog faktora na kontinualno obeležje",
         "correct": false
-      },
-      {
-        "text": "fjučers",
-        "correct": true
       },
       {
-        "text": "svop",
+        "text": "b. Ispitujemo uticaj kategorijskog faktora na kategorijsko obeležje",
         "correct": false
       },
       {
-        "text": "opcija",
+        "text": "c. Ispitujemo uticaj kontinualnog faktora na kategorijsko obeležje",
         "correct": false
       },
-      {
-        "text": "obveznica",
-        "correct": false
-      }
-    ],
-    "explanation": ""
-  },
-  {
-    "question": "Ako se deo trajnih obrtnih sredstava finansira kratkoročnim izvorima to je:",
-    "options": [
       {
-        "text": "agresivna finansijska politika",
+        "text": "d. Ispitujemo uticaj kategorijskog faktora na kontinualno obeležje",
         "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kategorija zaliha C u ABC modelu su:",
+    "question": "Ukoliko želimo da uporedimo varijabilitet cene stanova i varijabilitet gramaže, treba koristiti:",
     "options": [
       {
-        "text": "zalihe sa najmanjom jediničnom vrednošću",
-        "correct": true
+        "text": "a. Srednju devijaciju",
+        "correct": false
       },
       {
-        "text": "zalihe koje se moraju strogo kontrolisati",
+        "text": "b. Varijansu",
         "correct": false
       },
       {
-        "text": "zalihe sa najmanjim obrtom",
+        "text": "c. Standardnu devijaciju",
         "correct": false
       },
       {
-        "text": "zalihe sa najvećom jedinačnom vrednošću",
-        "correct": false
+        "text": "d. Koeficijent varijacije",
+        "correct": true
       },
       {
-        "text": "zalihe sa najvećim obrtom",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Racio koji pokazuje koliko je učešće dividende u ukupnom ostvarenom",
+    "question": "Na slučajan način se bira prvi element, a zatim se iz populacije uzima svaki k-ti, uzorak nazivamo:",
     "options": [
+      {
+        "text": "a. prost slučajan uzorak",
+        "correct": false
+      },
+      {
+        "text": "b. uzorak skupina",
+        "correct": false
+      },
       {
-        "text": "racio isplate dividendi",
+        "text": "c. sistematski uzorak",
         "correct": true
       },
       {
-        "text": "zarada po akciji",
+        "text": "d. stratifikovani uzorak",
         "correct": false
       },
       {
-        "text": "prinos u vidu dividende",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pod terminom “fjučers” podrazumeva se:",
+    "question": "Neprekidno (kontinualno) obeležje možemo podeliti na interval verodostojnosti?",
     "options": [
       {
-        "text": "pravo, ali ne i obaveza da se kupi određena aktiva u budućnosti",
+        "text": "a. Košijeve teoreme",
         "correct": false
       },
       {
-        "text": "izvedena hartija od vrednosti",
+        "text": "b. Sturgesovog pravila",
         "correct": true
       },
       {
-        "text": "terminski ugovor",
-        "correct": true
+        "text": "c. Metode maksimalne verodostojnosti",
+        "correct": false
       },
       {
-        "text": "promptni ugovor",
+        "text": "d. Metode najmanjih kvadrata",
         "correct": false
       },
       {
-        "text": "obavezu da se kupi određena aktiva u budućnosti",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Racio koji pokazuje odnos likvidnih sredstava i kratkoročnih obaveza:",
+    "question": "Zbir odstupanja vrednosti obeležja X na posmatranom skupu od njihove aritmetičke sredine, ∑(Xi - X̄), je jednako:",
     "options": [
       {
-        "text": "ima optimalnu teorijsku vrednost 2:1",
+        "text": "a. S²",
         "correct": false
       },
       {
-        "text": "ima optimalnu teorijsku vrednost 1:1",
+        "text": "b. 0",
         "correct": true
       },
       {
-        "text": "naziva se neto obrtna sredstva",
+        "text": "c. S",
         "correct": false
       },
       {
-        "text": "naziva se opšti racio likvidnosti",
+        "text": "d. em",
         "correct": false
       },
       {
-        "text": "naziva se rigorozni racio likvidnosti",
-        "correct": true
+        "text": "e. Ne znam",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Posebna vrsta akceptnog kredita za plaćanje prekomorskog uv…",
+    "question": "Moć testa 1 - β ima minimalnu vrednost kada je:",
     "options": [
       {
-        "text": "rambursni kredit",
-        "correct": true
+        "text": "a. m > m₀",
+        "correct": false
+      },
+      {
+        "text": "b. Vrednost moći testa ne zavisi od m",
+        "correct": false
       },
       {
-        "text": "eskotni kredit",
+        "text": "c. m < m₀",
         "correct": false
+      },
+      {
+        "text": "d. m = m₀",
+        "correct": true
       },
       {
-        "text": "lombardni kredit",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada je ORL 2:1, to znači da je vrednost neto obrtnih sredstava:",
+    "question": "Interval poverenja za m, kada je varijansa populacije σ² nije poznata, glasi:",
     "options": [
       {
-        "text": "nemoguće je izvući bilo kakav zaključak",
+        "text": "a. (x̄ - t₀ * (s / √(n+1)) ; x̄ + t₀ * (s / √(n+1)))",
         "correct": false
       },
       {
-        "text": "između nula i jedan",
+        "text": "b. (x̄ - t₀ * (s² / √(n+1)) ; x̄ + t₀ * (s² / √(n+1)))",
         "correct": false
       },
       {
-        "text": "veća od jedan\tNOBS = Obrtna sredstva – Ko, NOBS = 200k-100k = 100k, a ORL = Obrtna/Ko (2:1)",
-        "correct": true
+        "text": "c. (x̄ - t₀ * (s / √(n-2)) ; x̄ + t₀ * (s / √(n-2)))",
+        "correct": false
       },
       {
-        "text": "jednaka 1",
-        "correct": false
+        "text": "d. (x̄ - t₀ * (s / √(n-1)) ; x̄ + t₀ * (s / √(n-1)))",
+        "correct": true
       },
       {
-        "text": "manja od 1",
+        "text": "e. (x̄ - t₀ * (s² / √(n-1)) ; x̄ + t₀ * (s² / √(n-1)))",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Banka čiji je primarni posao prikupljanje kapitala i plasman HOV, kao i pružanje brokersko-dilerskih usluga se nazivaju:",
+    "question": "Test Kolmogorov-Smirnov za jedan uzorak spada u kategoriju:",
     "options": [
       {
-        "text": "komercijane banke",
+        "text": "a. testova nezavisnosti",
         "correct": false
       },
       {
-        "text": "univerzalne banke",
-        "correct": false
-      },
-      {
-        "text": "investicione banke",
+        "text": "b. testova saglasnosti",
         "correct": true
       },
       {
-        "text": "centralne banke",
+        "text": "c. testova kategorizovanih podataka",
         "correct": false
       },
       {
-        "text": "ništa od navedenog",
+        "text": "d. testova slučajnosti uzorka",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Odnos poslovne dobiti i dobiti pre oporezivanja:",
+    "question": "Ocene b₀ i b₁, dobijene metodom najmanjih kvadrata, predstavljaju najbolje nepristrasne linearne ocene regresionih parametara β₀ i β₁ u sledećem smislu:",
     "options": [
       {
-        "text": "FFL",
+        "text": "a. varijanse bilo kojih drugih nepristrasnih linearnih ocena, biće veće od varijansi ovih ocena",
         "correct": true
       },
       {
-        "text": "ekonomske dodate vrednosti",
+        "text": "b. varijanse bilo kojih drugih nepristrasnih linearnih ocena biće jednake 0",
         "correct": false
       },
       {
-        "text": "stope prinosa na poslovna sredstva",
+        "text": "c. varijanse bilo kojih drugih nepristrasnih linearnih ocena, biće iste kao varijanse ovih ocena",
         "correct": false
       },
       {
-        "text": "racio pokrića duga",
+        "text": "d. varijanse bilo kojih drugih nepristrasnih linearnih ocena, biće manje od varijansi ovih ocena",
         "correct": false
       },
       {
-        "text": "ništa od navedenog",
+        "text": "e. ništa od navedenog",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada pravo konverzije deviza postoji i za strane i za domaće rezidente, takvu konvertabilnost nazivamo:",
+    "question": "Na slučajan način se bira prvi element, a zatim se iz populacije uzima svaki k-ti element (svaki peti, deseti i sl.). Takav uzorak nazivamo:",
     "options": [
       {
-        "text": "eksternom",
+        "text": "a. uzorak skupina",
         "correct": false
       },
       {
-        "text": "internom",
-        "correct": false
+        "text": "b. sistematski uzorak",
+        "correct": true
       },
       {
-        "text": "organičenom",
+        "text": "c. prost slučajan uzorak",
         "correct": false
       },
       {
-        "text": "neograničenom",
+        "text": "d. stratifikovani uzorak",
         "correct": false
       },
       {
-        "text": "opštom",
-        "correct": true
+        "text": "e. ništa od navedenog",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Zaokružiti ciljeve menadžmenta vezane za upravljanje aktivnošću - obrtom sredstava",
+    "question": "Za uzorak X₁, …, Xₙ iz Binomne raspodele sa nepoznatim parametrom p, dovoljna statistika je:",
     "options": [
       {
-        "text": "koef obrta dobavljača treba da bude što viši",
+        "text": "a. Z = Σⁿᵢ₌₁ (Xᵢ / σᵢ²)",
         "correct": false
       },
       {
-        "text": "koef obrta kupaca treba da bude što viši",
-        "correct": true
+        "text": "b. Z = Σⁿᵢ₌₁ (Xᵢ² / σᵢ²)",
+        "correct": false
       },
       {
-        "text": "prosečan period obrta zaliha treba da bude što duži",
+        "text": "c. Z = Σⁿᵢ₌₁ (Xᵢ / σᵢ)",
         "correct": false
       },
       {
-        "text": "prosečan period naplate treba da bude što kraći",
-        "correct": false
+        "text": "d. Z = Σⁿᵢ₌₁ Xᵢ",
+        "correct": true
       },
       {
-        "text": "ništa od navedenog",
+        "text": "e. Z = Σⁿᵢ₌₁ Xᵢ²",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada pravo konverzije deviza postoji samo za strane rezidente, takvu konvertabilnost nazivamo:",
+    "question": "U statističkoj praksi se koriste sledeće kategorije relativnih brojeva:",
     "options": [
       {
-        "text": "opštom",
+        "text": "a. zakoni verovatnoća, relativni pokazatelji i indeksi",
         "correct": false
       },
       {
-        "text": "neograničenom",
+        "text": "b. proporcije, zakoni verovatnoća i indeksi",
         "correct": false
       },
       {
-        "text": "eksternom (spoljna)",
+        "text": "c. proporcije, relativni pokazatelji i indeksi",
         "correct": true
       },
       {
-        "text": "organičenom",
+        "text": "d. proporcije, relativni pokazatelji i zakoni verovatnoća",
         "correct": false
       },
       {
-        "text": "internom",
+        "text": "e. ništa od navedenog",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada pravo konverzije deviza postoji samo za domaće rezidente, takvu konvertabilnost nazivamo:",
+    "question": "Medijana je:",
     "options": [
       {
-        "text": "opštom",
+        "text": "a. Srednje kvadratno odstupanje promenljive od njene očekivane vrednosti ili sredine",
         "correct": false
       },
       {
-        "text": "neograničenom",
+        "text": "b. Zbir svih vrednosti obeležja podeljen brojem elemenata",
         "correct": false
       },
       {
-        "text": "eksternom",
+        "text": "c. Recipročna vrednost aritmetičke sredine recipročnih vrednosti obeležja",
         "correct": false
       },
       {
-        "text": "organičenom",
+        "text": "d. Vrednost obeležja koja ima najveću frekvenciju u skupu elemenata ili u funkciji gustine",
         "correct": false
       },
       {
-        "text": "internom",
+        "text": "e. Vrednost obeležja koja deli statistički skup na dva jednaka dela",
         "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Politike likvidnosti, finansijske stabilnosti i obrta kapitala čine:",
+    "question": "Ako kod modela jednofaktorske analize varijanse slučajna promenljiva ui predstavlja efekte nenumeričkih faktora, ona tada ima sledeću raspodelu:",
     "options": [
       {
-        "text": "investicionu politiku",
+        "text": "a. Ei : F1,n-1",
         "correct": false
       },
       {
-        "text": "ništa od navedenog",
-        "correct": false
+        "text": "b. Ei : N(0,σ²)",
+        "correct": true
       },
       {
-        "text": "osnovnu finansijsku politiku",
-        "correct": true
+        "text": "c. Ei : N(m,σ²)",
+        "correct": false
       },
       {
-        "text": "tekuću finansijku politiku",
-        "correct": true
+        "text": "d. Ei : t1,n-1",
+        "correct": false
       },
       {
-        "text": "politiku upravljanja kapitalom",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Razvojna finansijska politika obuhvata:",
+    "question": "Greška drugog tipa je greška koju pravimo ako:",
     "options": [
       {
-        "text": "politiku maksimiziranja profitabilnosti",
+        "text": "a. prihvatimo hipotezu H0, a ona je tačna",
         "correct": false
       },
       {
-        "text": "politiku finansijske snage",
+        "text": "b. odbacimo hipotezu H0, a ona nije tačna",
         "correct": false
       },
       {
-        "text": "politiku upravljanja finansijama",
-        "correct": false
+        "text": "c. prihvatimo hipotezu H0, a ona je lažna",
+        "correct": true
       },
       {
-        "text": "politiku finansijske stabilnosti",
+        "text": "d. odbacimo hipotezu H0, a ona nije tačna",
         "correct": false
       },
       {
-        "text": "politiku upravljanja kapitalom",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Zaokružite elemente strukture sistema upravljanja finansijama:",
+    "question": "Cauchy-jeva teorema glasi:",
     "options": [
       {
-        "text": "utvrđivanje potreba za finansijkim sredstavima",
+        "text": "a. G < H < X̄",
         "correct": false
       },
       {
-        "text": "pribavljanje finansijkih sredstava",
-        "correct": false
+        "text": "b. H < G < X̄",
+        "correct": true
       },
       {
-        "text": "obezbeđenje likvidnosti",
+        "text": "c. X̄ < G < H",
         "correct": false
       },
       {
-        "text": "finansijska politika",
+        "text": "d. X̄ < H < G",
         "correct": false
       },
       {
-        "text": "finansijsko odlučivanje",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada HOV glasi “po naredbi” to znači da se:",
+    "question": "Kod testiranja hipoteze o varijansi, najčešće donosioca odluke interesuje da li je:",
     "options": [
       {
-        "text": "forvard",
+        "text": "a. varijansa manja od neke unapred određene vrednosti",
         "correct": false
       },
       {
-        "text": "prenosi postupkom avaliranja",
+        "text": "b. varijansa različita od neke unapred određene vrednosti",
         "correct": false
       },
       {
-        "text": "prenosi postupkom indosiranja",
+        "text": "c. varijansa veća od neke unapred određene vrednosti",
         "correct": true
       },
       {
-        "text": "prenosi postupkom predaje",
+        "text": "d. varijansa jednaka nekoj određenoj vrednosti",
         "correct": false
       },
       {
-        "text": "prenosi postupkom cesije",
+        "text": "e. Ne znam",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada HOV glasi “na donosioca” prenosi se radnjom koja se naziva:",
+    "question": "Ako je D > D0, nulta hipoteza se odbacuje:",
     "options": [
       {
-        "text": "forvard",
+        "text": "a. X podleže normalnoj raspodeli",
         "correct": false
       },
       {
-        "text": "prenosi postupkom avaliranja",
-        "correct": false
+        "text": "b. X ne podleže normalnoj raspodeli",
+        "correct": true
       },
       {
-        "text": "prenosi postupkom indosiranja",
+        "text": "c. Zaključak ne možemo doneti jer nemamo informaciju koliki je rizik greške",
         "correct": false
-      },
-      {
-        "text": "prenosi postupkom predaje",
-        "correct": true
       },
       {
-        "text": "prenosi postupkom cesije",
+        "text": "d. Zato što nije urađen Mann-Whitney test",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada HOV glasi “na ime”, prenosi se radnjom koja se naziva:",
+    "question": "Rezultat n nezavisnih ponavljanja eksperimenta biće skup slučajnih promenljivih X1, X2, …, Xn koje su međusobno nezavisne i sve imaju istu raspodelu kao i slučajna promenljiva X. (X1, X2, …, Xn) predstavlja:",
     "options": [
       {
-        "text": "akceptiranje",
-        "correct": false
+        "text": "a. prost slučajan uzorak",
+        "correct": true
       },
       {
-        "text": "predaja",
+        "text": "b. sistematski uzorak",
         "correct": false
       },
       {
-        "text": "indosiranje",
+        "text": "c. stratifikovani uzorak",
         "correct": false
       },
       {
-        "text": "cesija",
-        "correct": true
-      },
-      {
-        "text": "avaliranje",
+        "text": "d. uzorak skupina",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Odnos diskontovanih tokova novca i početnog troška se naziva:",
+    "question": "Ako posmatramo normalnu raspodelu sa nepoznatom očekivanom vrednošću m, onda važi:",
     "options": [
       {
-        "text": "indeks profitabilnosti",
+        "text": "a. E(X̄ - m)² < E(M̂e - m)²",
         "correct": true
       },
       {
-        "text": "neto sadašnja vrednost",
+        "text": "b. E(X̄ - m)² > E(M̂e - m)²",
         "correct": false
       },
       {
-        "text": "interna stopa prinosa",
+        "text": "c. E(X̄ - m)² = E(M̂e - m)²",
         "correct": false
       },
       {
-        "text": "prosečan period povraćaja",
+        "text": "d. Ništa od navedenog nije tačno",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada se bilansne vrednosti analiziraju tokom niza obračunskih perioda, pri čemu se jedan period uzima za bazni",
+    "question": "Koje od navedenih tvrdjenja nije tačno u linearnom regresionom modelu Yi = β0 + β1Xi + εi:",
     "options": [
       {
-        "text": "analiza prošlih performansi",
+        "text": "a. Standardna greška regresionog modela predstavlja koren nepristrasne ocene varijanse promenljive εi",
         "correct": false
-      },
-      {
-        "text": "horizontalna analiza",
-        "correct": true
       },
       {
-        "text": "vertikalna analiza",
+        "text": "b. Ako slučajna promenljiva Y ima normalnu raspodelu, statistike b0 i b1 takođe imaju normalnu raspodelu",
         "correct": false
       },
       {
-        "text": "racio analiza",
+        "text": "c. Za dovoljno veliki uzorak, na osnovu CGT, statistike b0 i b1 će imati približno normalnu raspodelu (bez obzira na raspodelu obeležja)",
         "correct": false
       },
       {
-        "text": "analiza budućih performansi",
-        "correct": false
+        "text": "d. Koeficijent α predstavlja prosečnu promenu nezavisne promenljive kada se zavisna promenljiva poveća za jedinicu",
+        "correct": true
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Pro forma račun prihoda i pro forma bilans stanja rezultat je:",
+    "question": "Kod analize varijanse, ukoliko posmatrani faktor ne utiče na obeležje:",
     "options": [
       {
-        "text": "profitnog planiranja",
+        "text": "a. srednje vrednosti će biti jednake",
         "correct": true
       },
       {
-        "text": "kratrokočnog finansijskog planiranja",
+        "text": "b. srednje vrednosti će se razlikovati",
         "correct": false
       },
       {
-        "text": "dugoročnog fin. planiranja",
+        "text": "c. srednje vrednosti će obavezno rasti",
         "correct": false
       },
       {
-        "text": "inovativnim planiranjem",
+        "text": "d. srednje vrednosti nemaju veze sa uticajem faktora",
         "correct": false
-      },
-      {
-        "text": "optimalnim planiranjem",
-        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Prema ročnosti sredstava fin trž:",
+    "question": "Koje od navedenih tvrdjenja nije tačno?",
     "options": [
       {
-        "text": "tržišta kapitala",
+        "text": "a. U modelu jednofaktorske analize varijanse, posmatrani faktor pripada kontinuiranom tipu podataka",
         "correct": true
       },
       {
-        "text": "tržišta novca",
-        "correct": true
+        "text": "b. Ocene efekata tretmana su razlike između prosečnih vrednosti uzoraka koji odgovaraju pojedinim tretmanima i prosečne vrednosti svih uzoraka, i to su linearne i nepristrasne ocene sa svim osobinama ocena najmanjih kvadrata",
+        "correct": false
+      },
+      {
+        "text": "c. Model jednofaktorske analize varijanse se može smatrati proširenjem t-testa za jednakost matematičkih očekivanja na više od dva uzorka",
+        "correct": false
+      },
+      {
+        "text": "d. U modelu jednofaktorske analize varijanse, kritična oblast je desnostrana",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada se izračunava udeo jedne bilansne pozicije u njenoj sintetičkoj kategoriji, takva analiza se naziva:",
+    "question": "Kod analize varijanse, reziduali predstavljaju:",
     "options": [
       {
-        "text": "horizontalna analiza",
-        "correct": false
+        "text": "a. efekte uticaja svih nemerljivih faktora",
+        "correct": true
       },
       {
-        "text": "racio analiza",
+        "text": "b. efekte uticaja svih merljivih faktora",
         "correct": false
       },
       {
-        "text": "analiza budućih performansi",
+        "text": "c. efekte uticaja tretmana",
         "correct": false
-      },
-      {
-        "text": "vertikalna analiza",
-        "correct": true
       },
       {
-        "text": "analiza prošlih performansi",
+        "text": "d. efekte uticaja prosečne vrednosti na celom skupu",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Kada se plaćanje između trasanta i remitenta po čeku vrši bez upotrebe gotovog novca, tada kažemo da je to:",
+    "question": "Koeficijent determinacije može uzeti vrednosti:",
     "options": [
       {
-        "text": "ček koji glasi po naredbi",
+        "text": "a. [-1, 1]",
         "correct": false
       },
       {
-        "text": "alternativni ček",
+        "text": "b. (-1, 0]",
         "correct": false
       },
       {
-        "text": "gotovinski ček",
+        "text": "c. (0, 1)",
         "correct": false
       },
       {
-        "text": "virmanski (obračunski) ček",
+        "text": "d. [0, 1]",
         "correct": true
-      },
-      {
-        "text": "ček koji glasi na donosioca",
-        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Horizontalna pravila finansiranja odnose se na:",
+    "question": "Greška prvog tipa je kad:",
     "options": [
-      {
-        "text": "ocena finansijske stabilnosti",
-        "correct": true
-      },
       {
-        "text": "zlatno bankarsko pravilo",
+        "text": "a. nultu hipotezu odbacimo, a ona je tačna",
         "correct": true
       },
       {
-        "text": "zlatno bilansno pravilo",
-        "correct": true
+        "text": "b. nultu hipotezu odbacimo, a ona nije tačna",
+        "correct": false
       },
       {
-        "text": "stepen pokrića",
+        "text": "c. nultu hipotezu prihvatimo, a ona je tačna",
         "correct": false
       },
       {
-        "text": "brzi racio likvidnosti",
+        "text": "d. nultu hipotezu prihvatimo, a ona nije tačna",
         "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Finansijska politika je:",
+    "question": "Statistika parametarskog testa za proveru nezavisnosti ima Studentovu raspodelu sa:",
     "options": [
       {
-        "text": "aktivnost koja se sastoji u adekvatnom utvrđenu potrebnih finansijkih sredstava, njihovom pribavljanju iz najpovoljnijih izvora, racionalnoj upotrebi tih sredstava i stalnom praćenju, usmeravanju i kontroli kretanja finansijskih sredstava radi ostvarivanja finansijskih ciljeva preduzeća",
+        "text": "a. n-1",
         "correct": false
       },
       {
-        "text": "ništa od navedenog",
-        "correct": false
-      },
-      {
-        "text": "izbor odgovarajućih finansijskih strategija za detaljnije opredeljivanje ciljeva i izbor pravaca akcija uz svrsishodnu alokaciju resursa za njihovo poslovanje",
+        "text": "b. n-2",
         "correct": true
       },
       {
-        "text": "koncipiranje i utvrđivanje strategije i taktike dugoročnog i srednjoročnog delovanja finansijskog poslovnog sistema, kao dela složenog dinamičkog sistema",
-        "correct": true
+        "text": "c. n-3",
+        "correct": false
       },
       {
-        "text": "svesno traženje i stvaralačko odlučivanje o osnovnim finansijskim ciljevima",
-        "correct": true
+        "text": "d. nema Studentovu raspodelu",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Ukoliko preduzece A pokloni preduzecu B osnovno sredstvo, preduzece B osnovno sredstvo evidentira na racunu?",
+    "question": "Ako je slučajnost u uzorku narušena zbog monotonosti očekivane vrednosti u populaciji, kritičnu oblast određujemo na sledeći način:",
     "options": [
+      {
+        "text": "a. P{τ > zα / H0} = α",
+        "correct": false
+      },
       {
-        "text": "Sopstveni kapital.",
+        "text": "b. P{τ ≤ zα / H0} = α",
         "correct": true
+      },
+      {
+        "text": "c. P{τ > zα / H1} = α",
+        "correct": false
+      },
+      {
+        "text": "d. P{τ < zα / H0} = α",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   },
   {
-    "question": "Osnovne ekonomske kategorije racunovodstva:",
+    "question": "Ako smo slučajnu promenljivu X grupisali u šest intervala i želimo da testiramo da li X ∼ N(m,σ²), koristićemo Hi-kvadrat test sa:",
     "options": [
       {
-        "text": "-sredstva i obaveze prema izvorima sredstava",
+        "text": "a. tri stepena slobode",
         "correct": true
+      },
+      {
+        "text": "b. četiri stepena slobode",
+        "correct": false
+      },
+      {
+        "text": "c. pet stepena slobode",
+        "correct": false
+      },
+      {
+        "text": "d. statistika podleže raspodeli koja nije Hi-kvadrat",
+        "correct": false
       }
-    ],
-    "explanation": ""
+    ]
   }
 ]
