@@ -1,3902 +1,1910 @@
 [
   {
     "question": "Statistika parametarskog tesksta za proveru nezavisnosti ima Studentovu raspodelu sa",
-    "options": [
-      {
-        "text": "a. n-1",
-        "correct": false
-      },
-      {
-        "text": "b. n-2",
-        "correct": true
-      },
-      {
-        "text": "c. n-3",
-        "correct": false
-      },
-      {
-        "text": "d. nema Studentovu raspodelu",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "n-1",
+      "b": "n-2",
+      "c": "n-3",
+      "d": "nema Studentovu raspodelu"
+    },
+    "answer": "b"
   },
   {
     "question": "Ako je slucajnost u uzorku narusena zbog monotonosti ocekivane vrednosti u populaciji, kriticnu oblast odredjuje nacin:",
-    "options": [
-      {
-        "text": "a. P{t > z₀ | H₀} = α",
-        "correct": false
-      },
-      {
-        "text": "b. P{t < z₀ | H₀} = α",
-        "correct": true
-      },
-      {
-        "text": "c. P{t > z₀ | H₁} = α",
-        "correct": false
-      },
-      {
-        "text": "d. P{t < z₀ | H₁} = α",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "P{t > z₀ | H₀} = α",
+      "b": "P{t < z₀ | H₀} = α",
+      "c": "P{t > z₀ | H₁} = α",
+      "d": "P{t < z₀ | H₁} = α"
+    },
+    "answer": "b"
   },
   {
     "question": "Ako smo slučajnu promenljivu X grupisali u šest intervala i želimo da testiramo da li X ~ N(m, σ²), koristićemo Hi-kvadrat test sa koliko stepeni slobode?",
-    "options": [
-      {
-        "text": "a. četiri stepena slobode",
-        "correct": false
-      },
-      {
-        "text": "b. tri stepena slobode",
-        "correct": true
-      },
-      {
-        "text": "c. pet stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "d. statistika podleže raspodeli koja n...",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "četiri stepena slobode",
+      "b": "tri stepena slobode",
+      "c": "pet stepeni slobode",
+      "d": "statistika podleže raspodeli koja n..."
+    },
+    "answer": "b"
   },
   {
     "question": "Ako su, kod Mann-Whitney testa, uzorci većeg obima, statistika testa ima:",
-    "options": [
-      {
-        "text": "a. Standardizovanu Normalnu raspodelu",
-        "correct": true
-      },
-      {
-        "text": "b. Studentovu raspodelu sa n stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "c. Hi-kvadrat raspodelu sa n-1 stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "d. Normalnu raspodelu sa očekivanjem 0 i varijansom σ²",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Standardizovanu Normalnu raspodelu",
+      "b": "Studentovu raspodelu sa n stepeni slobode",
+      "c": "Hi-kvadrat raspodelu sa n-1 stepeni slobode",
+      "d": "Normalnu raspodelu sa očekivanjem 0 i varijansom σ²",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Neka obelezje X ima varijansu S²x a obelezje Y ima S²y i neka izmedju X i Y -> Y=aX - b. Tada je srednja vrednost obelezja Y jednaka:",
-    "options": [
-      {
-        "text": "a. mᵧ = a mₓ + b",
-        "correct": false
-      },
-      {
-        "text": "b. mᵧ = a mₓ – b",
-        "correct": true
-      },
-      {
-        "text": "c. mᵧ = a² mₓ + b²",
-        "correct": false
-      },
-      {
-        "text": "d. mᵧ = a mₓ + b",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "mᵧ = a mₓ + b",
+      "b": "mᵧ = a mₓ – b",
+      "c": "mᵧ = a² mₓ + b²",
+      "d": "mᵧ = a mₓ + b",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Prvi pirsenov koeficijent(koeficijent asimetrije)",
-    "options": [
-      {
-        "text": "a. β₁ = μ₃ / S³",
-        "correct": true
-      },
-      {
-        "text": "b. Kₐ = 3(x̄ − Me) / S",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "β₁ = μ₃ / S³",
+      "b": "Kₐ = 3(x̄ − Me) / S"
+    },
+    "answer": "b"
   },
   {
     "question": "Koja od dole navedenih mera pokazuje najvecu frekvenciju obelezja?",
-    "options": [
-      {
-        "text": "a. Mo",
-        "correct": true
-      },
-      {
-        "text": "b. Me",
-        "correct": false
-      },
-      {
-        "text": "c. x̄",
-        "correct": false
-      },
-      {
-        "text": "d. σ",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Mo",
+      "b": "Me",
+      "c": "x̄",
+      "d": "σ",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Koeficijent asimetrije je dat izrazom",
-    "options": [
-      {
-        "text": "a. Ka = 3(Me - x̄) / S",
-        "correct": false
-      },
-      {
-        "text": "b. μ3 = (1/N) Σ (Xi - x̄)^3",
-        "correct": false
-      },
-      {
-        "text": "c. β1 = μ4 / S^4",
-        "correct": false
-      },
-      {
-        "text": "d. Ka = 3(x̄ - Me) / S",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Ka = 3(Me - x̄) / S",
+      "b": "μ3 = (1/N) Σ (Xi - x̄)^3",
+      "c": "β1 = μ4 / S^4",
+      "d": "Ka = 3(x̄ - Me) / S",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Ako u Kolmogorov-Smirnov testu za jedan uzorak, vrednost statistike D bude manja od D0, nulta hipoteza ce",
-    "options": [
-      {
-        "text": "a. biti odbačena",
-        "correct": false
-      },
-      {
-        "text": "b. biti podvrgnuta dodatnom testiranju korišćenjem Wald-Wolfowitz testa koraka",
-        "correct": false
-      },
-      {
-        "text": "c. biti promenjena",
-        "correct": false
-      },
-      {
-        "text": "d. biti podvrgnuta dodatnom testiranju korišćenjem Kolmogorov-Smirnov testa za dva uzorka",
-        "correct": false
-      },
-      {
-        "text": "e. biti prihvaćena",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "biti odbačena",
+      "b": "biti podvrgnuta dodatnom testiranju korišćenjem Wald-Wolfowitz testa koraka",
+      "c": "biti promenjena",
+      "d": "biti podvrgnuta dodatnom testiranju korišćenjem Kolmogorov-Smirnov testa za dva uzorka",
+      "e": "biti prihvaćena"
+    },
+    "answer": "e"
   },
   {
     "question": "Ukoliko testiramo hipotezu da obeležje X podleže Normalnoj raspodeli korišćenjem testa Kolmogorov, i vrednost statistike D=0, možemo zaključiti da:",
-    "options": [
-      {
-        "text": "a. X podleže Normalnoj raspodeli",
-        "correct": true
-      },
-      {
-        "text": "b. X ne podleže Normalnoj raspodeli",
-        "correct": false
-      },
-      {
-        "text": "c. Zaključak nije moguće doneti zato što u verbalnom opisu nemam informaciju kolika je kritična vrednost raspodele",
-        "correct": false
-      },
-      {
-        "text": "d. Zaključak nije moguće doneti zato što prethodno nisam uradio/la Mann-Whitney U test",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "X podleže Normalnoj raspodeli",
+      "b": "X ne podleže Normalnoj raspodeli",
+      "c": "Zaključak nije moguće doneti zato što u verbalnom opisu nemam informaciju kolika je kritična vrednost raspodele",
+      "d": "Zaključak nije moguće doneti zato što prethodno nisam uradio/la Mann-Whitney U test"
+    },
+    "answer": "a"
   },
   {
     "question": "Zelimo da proverimo da li se muskarci i zene razlikuju u pogledu koliko para potrose u sopingu. Uzeli smo 18 zena  i prikupili egzaktne podatke o potrosnji [Musk1-1572 din, Musk2-1950 din ... , Zena1 - 2305 dinara (ne vidi se)]. Testiranje normaliteta je sporevedno kroz Kolmogorov-Smirnov test[D=0.08, D0 = 0.059] i sledeci korak u analizi je?",
-    "options": [
-      {
-        "text": "a. t-test",
-        "correct": true
-      },
-      {
-        "text": "b. ANOVA",
-        "correct": false
-      },
-      {
-        "text": "c. Wald-Wolfowitz test",
-        "correct": false
-      },
-      {
-        "text": "d. Test koraka za jedan uzorak",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "t-test",
+      "b": "ANOVA",
+      "c": "Wald-Wolfowitz test",
+      "d": "Test koraka za jedan uzorak"
+    },
+    "answer": "a"
   },
   {
     "question": "U prostom linearnom regresionom modelu, parametri dobijeni primenom metode najmanjih kvadrata, uz pretpostavke modela, imaju:",
-    "options": [
-      {
-        "text": "a. Studentovu raspodelu",
-        "correct": false
-      },
-      {
-        "text": "b. Hi-kvadrat raspodelu",
-        "correct": false
-      },
-      {
-        "text": "c. Normalnu raspodelu",
-        "correct": true
-      },
-      {
-        "text": "d. Puasonovu raspodelu",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Studentovu raspodelu",
+      "b": "Hi-kvadrat raspodelu",
+      "c": "Normalnu raspodelu",
+      "d": "Puasonovu raspodelu"
+    },
+    "answer": "c"
   },
   {
     "question": "U prostom linearnom regresionom modelu, slučajna promenljiva ε podleže:",
-    "options": [
-      {
-        "text": "a. Χ² raspodeli",
-        "correct": false
-      },
-      {
-        "text": "b. t raspodeli",
-        "correct": false
-      },
-      {
-        "text": "c. F raspodeli",
-        "correct": false
-      },
-      {
-        "text": "d. N(0, σ²)",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "Χ² raspodeli",
+      "b": "t raspodeli",
+      "c": "F raspodeli",
+      "d": "N(0, σ²)"
+    },
+    "answer": "d"
   },
   {
     "question": "Pokazatelj kvaliteta regresionog modela je koeficijent determinacije",
-    "options": [
-      {
-        "text": "a. Tacno",
-        "correct": true
-      },
-      {
-        "text": "b. Netacno",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Tacno",
+      "b": "Netacno"
+    },
+    "answer": "a"
   },
   {
     "question": "Kod testiranja hipoteze o varijansi, najčešće donosioca odluke interesuje da li je:",
-    "options": [
-      {
-        "text": "a. varijansa manja od neke unapred određene vrednosti",
-        "correct": false
-      },
-      {
-        "text": "b. varijansa različita od neke unapred određene vrednosti",
-        "correct": false
-      },
-      {
-        "text": "c. varijansa veća od neke unapred određene vrednosti",
-        "correct": true
-      },
-      {
-        "text": "d. varijansa jednaka nekoj određenoj vrednosti",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "varijansa manja od neke unapred određene vrednosti",
+      "b": "varijansa različita od neke unapred određene vrednosti",
+      "c": "varijansa veća od neke unapred određene vrednosti",
+      "d": "varijansa jednaka nekoj određenoj vrednosti",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Ispituju se građani o mesečnim primanjima (do 30.000; 30.000–50.000; 50.000–100.000; preko 100.000). Želimo da uporedimo razliku između zaposlenih u privatnom i javnom sektoru. Test koji koristimo je?",
-    "options": [
-      {
-        "text": "a. Anova",
-        "correct": false
-      },
-      {
-        "text": "b. Test koraka",
-        "correct": false
-      },
-      {
-        "text": "c. t-test",
-        "correct": false
-      },
-      {
-        "text": "d. Hi-kvadrat test",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "Anova",
+      "b": "Test koraka",
+      "c": "t-test",
+      "d": "Hi-kvadrat test"
+    },
+    "answer": "d"
   },
   {
     "question": "Pravila za izbor testa na osnovu normalnosti raspodele:",
-    "options": [
-      {
-        "text": "a. Ako je D ≤ D₀ → podaci prate normalnu raspodelu → koristimo parametarski test (t-test, ANOVA)",
-        "correct": true
-      },
-      {
-        "text": "b. Ako je D > D₀ → podaci ne prate normalnu raspodelu → koristimo neparametarski test (Mann-Whitney, Kruskal-Wallis)",
-        "correct": false
-      },
-      {
-        "text": "c. Ako želimo da proverimo da li podaci prate normalnu raspodelu → koristimo Kolmogorov-Smirnov test (ili Shapiro-Wilk za manje uzorke)",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Ako je D ≤ D₀ → podaci prate normalnu raspodelu → koristimo parametarski test (t-test, ANOVA)",
+      "b": "Ako je D > D₀ → podaci ne prate normalnu raspodelu → koristimo neparametarski test (Mann-Whitney, Kruskal-Wallis)",
+      "c": "Ako želimo da proverimo da li podaci prate normalnu raspodelu → koristimo Kolmogorov-Smirnov test (ili Shapiro-Wilk za manje uzorke)"
+    },
+    "answer": "c"
   },
   {
     "question": "Homoskedastičnost znači da je:",
-    "options": [
-      {
-        "text": "a. varijansa od ε uvek pozitivna",
-        "correct": false
-      },
-      {
-        "text": "b. varijansa od ε uvek jednaka nuli",
-        "correct": false
-      },
-      {
-        "text": "c. varijansa od ε uvek jednaka jedinici",
-        "correct": false
-      },
-      {
-        "text": "d. varijansa od ε konstantna",
-        "correct": true
-      },
-      {
-        "text": "e. varijansa od ε promenljiva",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "varijansa od ε uvek pozitivna",
+      "b": "varijansa od ε uvek jednaka nuli",
+      "c": "varijansa od ε uvek jednaka jedinici",
+      "d": "varijansa od ε konstantna",
+      "e": "varijansa od ε promenljiva"
+    },
+    "answer": "d"
   },
   {
     "question": "U mere centralne tendencije ne spada:",
-    "options": [
-      {
-        "text": "a. medijana",
-        "correct": false
-      },
-      {
-        "text": "b. aritmetička sredina",
-        "correct": false
-      },
-      {
-        "text": "d. kvartilna devijacija",
-        "correct": true
-      },
-      {
-        "text": "c. moda",
-        "correct": false
-      },
-      {
-        "text": "e. geometrijska sredina",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "medijana",
+      "b": "aritmetička sredina",
+      "d": "kvartilna devijacija",
+      "c": "moda",
+      "e": "geometrijska sredina"
+    },
+    "answer": "d"
   },
   {
     "question": "Zbir odstupanja vrednosti obeležja X na posmatranom skupu od njihove aritmetičke sredine, Σ(Xᵢ – X̄), je jednako:",
-    "options": [
-      {
-        "text": "a. Σxᵢₘ",
-        "correct": false
-      },
-      {
-        "text": "b. S",
-        "correct": false
-      },
-      {
-        "text": "c. 0",
-        "correct": true
-      },
-      {
-        "text": "d. S²",
-        "correct": false
-      },
-      {
-        "text": "e. Σxᵢₘ / m",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Σxᵢₘ",
+      "b": "S",
+      "c": "0",
+      "d": "S²",
+      "e": "Σxᵢₘ / m"
+    },
+    "answer": "c"
   },
   {
     "question": "Nulta hipoteza kod testa koraka za jedan uzorak glasi:",
-    "options": [
-      {
-        "text": "a. Slučajnost u uzorku X₁, X₂, …, Xₙ je narušena zbog monotonosti očekivane vrednosti u populaciji",
-        "correct": false
-      },
-      {
-        "text": "b. Uzorak X₁, X₂, …, Xₙ potiče iz populacije sa normalnom raspodelom",
-        "correct": false
-      },
-      {
-        "text": "c. Uzorak X₁, X₂, …, Xₙ nije slučajan",
-        "correct": false
-      },
-      {
-        "text": "d. Slučajnost u uzorku X₁, X₂, …, Xₙ je narušena zbog periodičnih promena očekivane vrednosti u populaciji",
-        "correct": false
-      },
-      {
-        "text": "e. Uzorak X₁, X₂, …, Xₙ je slučajan",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "Slučajnost u uzorku X₁, X₂, …, Xₙ je narušena zbog monotonosti očekivane vrednosti u populaciji",
+      "b": "Uzorak X₁, X₂, …, Xₙ potiče iz populacije sa normalnom raspodelom",
+      "c": "Uzorak X₁, X₂, …, Xₙ nije slučajan",
+      "d": "Slučajnost u uzorku X₁, X₂, …, Xₙ je narušena zbog periodičnih promena očekivane vrednosti u populaciji",
+      "e": "Uzorak X₁, X₂, …, Xₙ je slučajan"
+    },
+    "answer": "e"
   },
   {
     "question": "Kada uzorak potiče iz populacije sa dvodimenzionalnom normalnom raspodelom, pretpostavka o nezavisnosti obeležja ekvivalentna je pretpostavci:",
-    "options": [
-      {
-        "text": "a. H₀ (ρ ≥ 0)",
-        "correct": false
-      },
-      {
-        "text": "b. H₀ (ρ ≠ 0)",
-        "correct": false
-      },
-      {
-        "text": "c. H₀ (ρ = 1)",
-        "correct": false
-      },
-      {
-        "text": "d. H₀ (ρ = 1)",
-        "correct": false
-      },
-      {
-        "text": "e. H₀ (ρ = 0)",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "H₀ (ρ ≥ 0)",
+      "b": "H₀ (ρ ≠ 0)",
+      "c": "H₀ (ρ = 1)",
+      "d": "H₀ (ρ = 1)",
+      "e": "H₀ (ρ = 0)"
+    },
+    "answer": "e"
   },
   {
     "question": "Za model Normalne raspodele X ~ N(μ, σ²), gde su μ i σ² nepoznati, dovoljne statistike su:",
-    "options": [
-      {
-        "text": "a. Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²/n)",
-        "correct": false
-      },
-      {
-        "text": "b. Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²σ²/n)",
-        "correct": false
-      },
-      {
-        "text": "c. Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²m/n)",
-        "correct": false
-      },
-      {
-        "text": "d. Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²)",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²/n)",
+      "b": "Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²σ²/n)",
+      "c": "Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²m/n)",
+      "d": "Z = (Σᵢ₌₁ⁿ Xᵢ, Σᵢ₌₁ⁿ Xᵢ²)",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Koji od sledećih testova ne može da se koristi kao neparametarska alternativa t-testu za dva uzorka:",
-    "options": [
-      {
-        "text": "a. Kolmogorov-Smirnov test za dva uzorka",
-        "correct": false
-      },
-      {
-        "text": "b. Test kategorisanih podataka",
-        "correct": true
-      },
-      {
-        "text": "c. Mann-Whitney test",
-        "correct": false
-      },
-      {
-        "text": "d. Wald-Wolfowitz test",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Kolmogorov-Smirnov test za dva uzorka",
+      "b": "Test kategorisanih podataka",
+      "c": "Mann-Whitney test",
+      "d": "Wald-Wolfowitz test",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Dužina intervala poverenja zavisi od nivoa poverenja i to tako da:",
-    "options": [
-      {
-        "text": "a. Sa povećanjem nivoa poverenja, smanjuje se dužina intervala poverenja, što je poželjno",
-        "correct": false
-      },
-      {
-        "text": "b. Sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je nepoželjno",
-        "correct": true
-      },
-      {
-        "text": "c. Sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je poželjno",
-        "correct": false
-      },
-      {
-        "text": "d. Sa povećanjem nivoa poverenja, ne menja se dužina intervala poverenja",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Sa povećanjem nivoa poverenja, smanjuje se dužina intervala poverenja, što je poželjno",
+      "b": "Sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je nepoželjno",
+      "c": "Sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je poželjno",
+      "d": "Sa povećanjem nivoa poverenja, ne menja se dužina intervala poverenja",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Ako je D > D₀, nulta hipoteza se odbacuje. Šta zaključujemo?",
-    "options": [
-      {
-        "text": "a. X podleže normalnoj raspodeli",
-        "correct": false
-      },
-      {
-        "text": "b. X ne podleže normalnoj raspodeli",
-        "correct": true
-      },
-      {
-        "text": "c. Zaključak ne možemo doneti jer nemamo informaciju koliki je rizik greške",
-        "correct": false
-      },
-      {
-        "text": "d. Zato što nije urađen Mann-Whitney test",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "X podleže normalnoj raspodeli",
+      "b": "X ne podleže normalnoj raspodeli",
+      "c": "Zaključak ne možemo doneti jer nemamo informaciju koliki je rizik greške",
+      "d": "Zato što nije urađen Mann-Whitney test"
+    },
+    "answer": "b"
   },
   {
     "question": "Ako je D < D₀, onda je?",
-    "options": [
-      {
-        "text": "a. X podleže normalnoj raspodeli",
-        "correct": true
-      },
-      {
-        "text": "b. X ne podleže normalnoj raspodeli",
-        "correct": false
-      },
-      {
-        "text": "c. Zaključak ne možemo doneti jer nemamo informaciju koliki je rizik greške",
-        "correct": false
-      },
-      {
-        "text": "d. Zato što nije urađen Mann-Whitney test",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "U prostom linearnom regresionom modelu, parametri dobijeni primenom metode najmanjih kvadrata, pod pretpostavkama modela, imaju:",
-    "options": [
-      {
-        "text": "a. Studentovu raspodelu",
-        "correct": true
-      },
-      {
-        "text": "b. Hi-kvadrat raspodelu",
-        "correct": false
-      },
-      {
-        "text": "c. F-raspodelu",
-        "correct": false
-      },
-      {
-        "text": "d. Uniformnu raspodelu",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "X podleže normalnoj raspodeli",
+      "b": "X ne podleže normalnoj raspodeli",
+      "c": "Zaključak ne možemo doneti jer nemamo informaciju koliki je rizik greške",
+      "d": "Zato što nije urađen Mann-Whitney test"
+    },
+    "answer": "a"
   },
   {
     "question": "Dužina intervala poverenja zavisi od veličine uzorka i to tako da:",
-    "options": [
-      {
-        "text": "a. Sa povećanjem veličine uzorka, smanjuje se dužina intervala poverenja, što je poželjno",
-        "correct": true
-      },
-      {
-        "text": "b. Sa povećanjem veličine uzorka, smanjuje se dužina intervala poverenja, što je nepoželjno",
-        "correct": false
-      },
-      {
-        "text": "c. Sa povećanjem veličine uzorka, povećava se dužina intervala poverenja, što je poželjno",
-        "correct": false
-      },
-      {
-        "text": "d. Sa povećanjem veličine uzorka, ne menja se dužina intervala poverenja",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Sa povećanjem veličine uzorka, smanjuje se dužina intervala poverenja, što je poželjno",
+      "b": "Sa povećanjem veličine uzorka, smanjuje se dužina intervala poverenja, što je nepoželjno",
+      "c": "Sa povećanjem veličine uzorka, povećava se dužina intervala poverenja, što je poželjno",
+      "d": "Sa povećanjem veličine uzorka, ne menja se dužina intervala poverenja"
+    },
+    "answer": "a"
   },
   {
     "question": "Koji od navedenih testova se bazira na poređenju rangova iz dva uzorka:",
-    "options": [
-      {
-        "text": "a. Test koraka za jedan uzorak",
-        "correct": false
-      },
-      {
-        "text": "b. Test koraka za dva uzorka",
-        "correct": false
-      },
-      {
-        "text": "c. Kolmogorov-Smirnov test",
-        "correct": false
-      },
-      {
-        "text": "d. Mann-Whitney test",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "Test koraka za jedan uzorak",
+      "b": "Test koraka za dva uzorka",
+      "c": "Kolmogorov-Smirnov test",
+      "d": "Mann-Whitney test"
+    },
+    "answer": "d"
   },
   {
     "question": "Kada se, pod istim uslovima, testira ista hipoteza na manjem i većem uzorku, tada:",
-    "options": [
-      {
-        "text": "a. Sa povećanjem obima uzorka, povećavaju se verovatnoće grešaka i prve i druge vrste",
-        "correct": false
-      },
-      {
-        "text": "b. Sa smanjenjem obima uzorka, smanjuju se verovatnoće grešaka i prve i druge vrste",
-        "correct": false
-      },
-      {
-        "text": "c. Sa povećanjem obima uzorka, smanjuju se verovatnoće grešaka i prve i druge vrste",
-        "correct": true
-      },
-      {
-        "text": "d. Verovatnoće grešaka prve i druge vrste ne zavise od obima uzorka",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Sa povećanjem obima uzorka, povećavaju se verovatnoće grešaka i prve i druge vrste",
+      "b": "Sa smanjenjem obima uzorka, smanjuju se verovatnoće grešaka i prve i druge vrste",
+      "c": "Sa povećanjem obima uzorka, smanjuju se verovatnoće grešaka i prve i druge vrste",
+      "d": "Verovatnoće grešaka prve i druge vrste ne zavise od obima uzorka"
+    },
+    "answer": "c"
   },
   {
     "question": "Koju metodu možemo koristiti kako bismo predviđali vrednosti jedne promenljive u odnosu na drugu promenljivu?",
-    "options": [
-      {
-        "text": "a. Mann-Whitney test",
-        "correct": false
-      },
-      {
-        "text": "b. Linearni regresioni model",
-        "correct": true
-      },
-      {
-        "text": "c. Koeficijent korelacije",
-        "correct": false
-      },
-      {
-        "text": "d. Hi-kvadrat test nezavisnosti",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Mann-Whitney test",
+      "b": "Linearni regresioni model",
+      "c": "Koeficijent korelacije",
+      "d": "Hi-kvadrat test nezavisnosti"
+    },
+    "answer": "b"
   },
   {
     "question": "Medijana je:",
-    "options": [
-      {
-        "text": "a. Zbir svih vrednosti obeležja podeljen brojem elemenata",
-        "correct": false
-      },
-      {
-        "text": "b. Vrednost obeležja koja deli statistički skup na dva jednaka dela",
-        "correct": true
-      },
-      {
-        "text": "c. Vrednost obeležja koja ima najveću frekvenciju u skupu elemenata ili u funkciji gustine",
-        "correct": false
-      },
-      {
-        "text": "d. Srednje kvadratno odstupanje promenljive od njene očekivane vrednosti ili sredine",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Zbir svih vrednosti obeležja podeljen brojem elemenata",
+      "b": "Vrednost obeležja koja deli statistički skup na dva jednaka dela",
+      "c": "Vrednost obeležja koja ima najveću frekvenciju u skupu elemenata ili u funkciji gustine",
+      "d": "Srednje kvadratno odstupanje promenljive od njene očekivane vrednosti ili sredine"
+    },
+    "answer": "b"
   },
   {
     "question": "Ukoliko želimo da ispitamo da li uzorak dolazi iz Normalne raspodele, pri čemu su parametri raspodele poznati, koje dve metode možemo koristiti?",
-    "options": [
-      {
-        "text": "a. Test saglasnosti i test podobnosti modela",
-        "correct": false
-      },
-      {
-        "text": "b. Test saglasnosti i Kolmogorov-Smirnov test za 1 uzorak",
-        "correct": true
-      },
-      {
-        "text": "c. Test podobnosti i Kolmogorov-Smirnov test za 1 uzorak",
-        "correct": false
-      },
-      {
-        "text": "d. Kolmogorov-Smirnov test za 1 i Kolmogorov-Smirnov test za 2 uzorka",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Test saglasnosti i test podobnosti modela",
+      "b": "Test saglasnosti i Kolmogorov-Smirnov test za 1 uzorak",
+      "c": "Test podobnosti i Kolmogorov-Smirnov test za 1 uzorak",
+      "d": "Kolmogorov-Smirnov test za 1 i Kolmogorov-Smirnov test za 2 uzorka"
+    },
+    "answer": "b"
   },
   {
     "question": "Ukoliko X dolazi iz Normalne raspodele, kakvu će približno raspodelu imati Medijana:",
-    "options": [
-      {
-        "text": "a. Studentovu raspodelu",
-        "correct": false
-      },
-      {
-        "text": "b. Normalnu raspodelu",
-        "correct": true
-      },
-      {
-        "text": "c. Hi-kvadrat raspodelu",
-        "correct": false
-      },
-      {
-        "text": "d. Fiserovu raspodelu",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Studentovu raspodelu",
+      "b": "Normalnu raspodelu",
+      "c": "Hi-kvadrat raspodelu",
+      "d": "Fiserovu raspodelu"
+    },
+    "answer": "b"
   },
   {
     "question": "Cauchy-jeva teorema glasi:",
-    "options": [
-      {
-        "text": "a. Aritmetička sredina je veća od geometrijske sredine koja je veća od harmonijske sredine",
-        "correct": true
-      },
-      {
-        "text": "b. Geometrijska sredina je veća od aritmetičke sredine koja je veća od harmonijske sredine",
-        "correct": false
-      },
-      {
-        "text": "c. Harmonijska sredina je veća od geometrijske sredine koja je veća od aritmetičke sredine",
-        "correct": false
-      },
-      {
-        "text": "d. Aritmetička sredina je veća od harmonijske sredine koja je veća od geometrijske sredine",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Aritmetička sredina je veća od geometrijske sredine koja je veća od harmonijske sredine",
+      "b": "Geometrijska sredina je veća od aritmetičke sredine koja je veća od harmonijske sredine",
+      "c": "Harmonijska sredina je veća od geometrijske sredine koja je veća od aritmetičke sredine",
+      "d": "Aritmetička sredina je veća od harmonijske sredine koja je veća od geometrijske sredine"
+    },
+    "answer": "a"
   },
   {
     "question": "Koeficijent determinacije se definiše kao:",
-    "options": [
-      {
-        "text": "a. količnik objašnjenog i ukupnog varijabiliteta",
-        "correct": true
-      },
-      {
-        "text": "b. razlika objašnjenog i ukupnog varijabiliteta",
-        "correct": false
-      },
-      {
-        "text": "c. zbir objašnjenog i ukupnog varijabiliteta",
-        "correct": false
-      },
-      {
-        "text": "d. količnik objašnjenog i neobjašnjenog varijabiliteta",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "količnik objašnjenog i ukupnog varijabiliteta",
+      "b": "razlika objašnjenog i ukupnog varijabiliteta",
+      "c": "zbir objašnjenog i ukupnog varijabiliteta",
+      "d": "količnik objašnjenog i neobjašnjenog varijabiliteta"
+    },
+    "answer": "a"
   },
   {
     "question": "Za uzorak X₁, …, Xₙ iz Uniformne raspodele U = (0, θ) sa nepoznatim parametrom θ, dovoljna statistika je:",
-    "options": [
-      {
-        "text": "a. Z = min{X₁², …, Xₙ²}",
-        "correct": false
-      },
-      {
-        "text": "b. Z = max{X₁, …, Xₙ}",
-        "correct": true
-      },
-      {
-        "text": "c. Z = min{X₁, …, Xₙ}",
-        "correct": false
-      },
-      {
-        "text": "d. Z = max{X₁², …, Xₙ²}",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Z = min{X₁², …, Xₙ²}",
+      "b": "Z = max{X₁, …, Xₙ}",
+      "c": "Z = min{X₁, …, Xₙ}",
+      "d": "Z = max{X₁², …, Xₙ²}",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Kolmogorov-Smirnov testovi se zasnivaju na:",
-    "options": [
-      {
-        "text": "a. Poređenju izmerenih i očekivanih apsolutnih frekvencija",
-        "correct": false
-      },
-      {
-        "text": "b. Poređenju apsolutnih i relativnih izmerenih frekvencija",
-        "correct": false
-      },
-      {
-        "text": "c. Poređenju izmerenih i očekivanih relativnih kumulativnih frekvencija",
-        "correct": true
-      },
-      {
-        "text": "d. Poređenju apsolutnih i relativnih očekivanih frekvencija",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Poređenju izmerenih i očekivanih apsolutnih frekvencija",
+      "b": "Poređenju apsolutnih i relativnih izmerenih frekvencija",
+      "c": "Poređenju izmerenih i očekivanih relativnih kumulativnih frekvencija",
+      "d": "Poređenju apsolutnih i relativnih očekivanih frekvencija",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Kod testa slučajnosti uzorka, varijansa broja koraka K se računa kao:",
-    "options": [
-      {
-        "text": "a. Var(K) = n(n-2) / 4(n-1)",
-        "correct": true
-      },
-      {
-        "text": "b. Var(K) = n(n-1) / 4(n-2)",
-        "correct": false
-      },
-      {
-        "text": "c. Var(K) = n(n+1) / 4(n+2)",
-        "correct": false
-      },
-      {
-        "text": "d. Var(K) = n(n+2) / 4(n+1)",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Var(K) = n(n-2) / 4(n-1)",
+      "b": "Var(K) = n(n-1) / 4(n-2)",
+      "c": "Var(K) = n(n+1) / 4(n+2)",
+      "d": "Var(K) = n(n+2) / 4(n+1)",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "T-test je parametarska alternativa:",
-    "options": [
-      {
-        "text": "a. Testu koraka za jedan uzorak",
-        "correct": false
-      },
-      {
-        "text": "b. Testu saglasnosti",
-        "correct": false
-      },
-      {
-        "text": "c. Testu kategorisanih podataka",
-        "correct": false
-      },
-      {
-        "text": "d. Mann-Whitney testu",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Testu koraka za jedan uzorak",
+      "b": "Testu saglasnosti",
+      "c": "Testu kategorisanih podataka",
+      "d": "Mann-Whitney testu",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Što je vrednost koeficijenta determinacije bliža vrednosti 0, tada je:",
-    "options": [
-      {
-        "text": "a. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
-        "correct": true
-      },
-      {
-        "text": "b. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
-        "correct": false
-      },
-      {
-        "text": "c. Udeo neobjašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
-        "correct": false
-      },
-      {
-        "text": "d. Udeo neobjašnjenog varijabiliteta u objašnjenom varijabilitetu zavisne promenljive veći",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
+      "b": "Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
+      "c": "Udeo neobjašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
+      "d": "Udeo neobjašnjenog varijabiliteta u objašnjenom varijabilitetu zavisne promenljive veći",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Mann-Whitney test se bazira na:",
-    "options": [
-      {
-        "text": "a. Poređenju vrednosti iz 2 uzorka",
-        "correct": false
-      },
-      {
-        "text": "b. Poređenju rangova iz 2 uzorka",
-        "correct": true
-      },
-      {
-        "text": "c. Poređenju apsolutnih frekvencija iz 2 uzorka",
-        "correct": false
-      },
-      {
-        "text": "d. Poređenju relativnih frekvencija iz 2 uzorka",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Poređenju vrednosti iz 2 uzorka",
+      "b": "Poređenju rangova iz 2 uzorka",
+      "c": "Poređenju apsolutnih frekvencija iz 2 uzorka",
+      "d": "Poređenju relativnih frekvencija iz 2 uzorka",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Kod metode najmanjih kvadrata (Y = ax + b + e) šta predstavlja b?",
-    "options": [
-      {
-        "text": "a. Koeficijent uz X",
-        "correct": false
-      },
-      {
-        "text": "b. Odsečak na Y osi",
-        "correct": true
-      },
-      {
-        "text": "c. Najmanju varijansu",
-        "correct": false
-      },
-      {
-        "text": "d. Grešku modela",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Koeficijent uz X",
+      "b": "Odsečak na Y osi",
+      "c": "Najmanju varijansu",
+      "d": "Grešku modela",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Jednostrani interval poverenja za nepoznatu varijansu je?",
-    "options": [
-      {
-        "text": "a. σ²",
-        "correct": false
-      },
-      {
-        "text": "b. nS²",
-        "correct": false
-      },
-      {
-        "text": "c. nS²/Hiα",
-        "correct": true
-      },
-      {
-        "text": "d. S²/n",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "σ²",
+      "b": "nS²",
+      "c": "nS²/Hiα",
+      "d": "S²/n",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Kod izraza Y=aX+b+e koliko je matematičko očekivanje od e i E(e)= ?",
-    "options": [
-      {
-        "text": "a. E(e)=1",
-        "correct": false
-      },
-      {
-        "text": "b. E(e)=0",
-        "correct": true
-      },
-      {
-        "text": "c. E(e)=b",
-        "correct": false
-      },
-      {
-        "text": "d. E(e)=a",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "E(e)=1",
+      "b": "E(e)=0",
+      "c": "E(e)=b",
+      "d": "E(e)=a",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Greška prve vrste je? Alfa – Ho je tačna ali je mi prihvatimo",
-    "options": [
-      {
-        "text": "a. Odbacivanje tačne nulte hipoteze",
-        "correct": true
-      },
-      {
-        "text": "b. Prihvatanje tačne nulte hipoteze",
-        "correct": false
-      },
-      {
-        "text": "c. Odbacivanje netačne nulte hipoteze",
-        "correct": false
-      },
-      {
-        "text": "d. Prihvatanje alternativne hipoteze",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Odbacivanje tačne nulte hipoteze",
+      "b": "Prihvatanje tačne nulte hipoteze",
+      "c": "Odbacivanje netačne nulte hipoteze",
+      "d": "Prihvatanje alternativne hipoteze",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Moć testa je?",
-    "options": [
-      {
-        "text": "a. Verovatnoća da prihvatimo Ho",
-        "correct": false
-      },
-      {
-        "text": "b. Verovatnoća da odbacimo Ho kada je lažna",
-        "correct": true
-      },
-      {
-        "text": "c. Greška druge vrste",
-        "correct": false
-      },
-      {
-        "text": "d. Suma alfa i beta",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Verovatnoća da prihvatimo Ho",
+      "b": "Verovatnoća da odbacimo Ho kada je lažna",
+      "c": "Greška druge vrste",
+      "d": "Suma alfa i beta",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Koja se statistika koristi za testiranje hipoteze o varijansi?",
-    "options": [
-      {
-        "text": "a. t statistika",
-        "correct": false
-      },
-      {
-        "text": "b. Z statistika",
-        "correct": false
-      },
-      {
-        "text": "c. Hi-kvadrat statistika",
-        "correct": true
-      },
-      {
-        "text": "d. F statistika",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "t statistika",
+      "b": "Z statistika",
+      "c": "Hi-kvadrat statistika",
+      "d": "F statistika",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Statistika lin. regr. modela za alfa tau(alfa)= i onda ponuđene slične formule:",
-    "options": [
-      {
-        "text": "a. t statistika (formula sa τ(α))",
-        "correct": true
-      },
-      {
-        "text": "b. Z statistika",
-        "correct": false
-      },
-      {
-        "text": "c. Hi-kvadrat statistika",
-        "correct": false
-      },
-      {
-        "text": "d. F statistika",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "t statistika (formula sa τ(α))",
+      "b": "Z statistika",
+      "c": "Hi-kvadrat statistika",
+      "d": "F statistika",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Opšti statistički model se obeležava:",
-    "options": [
-      {
-        "text": "a. F(x)",
-        "correct": false
-      },
-      {
-        "text": "b. f(x)",
-        "correct": false
-      },
-      {
-        "text": "c. f(x|θ)",
-        "correct": true
-      },
-      {
-        "text": "d. F(x|θ)",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "F(x)",
+      "b": "f(x)",
+      "c": "f(x|θ)",
+      "d": "F(x|θ)",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Statistika za razliku očekivanja kad je poznata varijansa populacije T = [(x1 - x2)/sigma]*sqrt(n1*n2/(n1+n2)):",
-    "options": [
-      {
-        "text": "a. Z statistika",
-        "correct": true
-      },
-      {
-        "text": "b. t statistika",
-        "correct": false
-      },
-      {
-        "text": "c. Hi-kvadrat statistika",
-        "correct": false
-      },
-      {
-        "text": "d. F statistika",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Z statistika",
+      "b": "t statistika",
+      "c": "Hi-kvadrat statistika",
+      "d": "F statistika",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Kod analize varijanse ukupan varijabilitet je jednak:",
-    "options": [
-      {
-        "text": "a. Proizvodu varijansi unutar uzorka i između uzorka",
-        "correct": false
-      },
-      {
-        "text": "b. Zbiru varijansi unutar uzorka i između uzorka",
-        "correct": true
-      },
-      {
-        "text": "c. Količniku varijansi unutar uzorka i između uzorka",
-        "correct": false
-      },
-      {
-        "text": "d. Kvadratu varijansi unutar uzorka i između uzorka",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Proizvodu varijansi unutar uzorka i između uzorka",
+      "b": "Zbiru varijansi unutar uzorka i između uzorka",
+      "c": "Količniku varijansi unutar uzorka i između uzorka",
+      "d": "Kvadratu varijansi unutar uzorka i između uzorka",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Koja statistika se koristi kod testa podobnosti modela:",
-    "options": [
-      {
-        "text": "a. t statistika",
-        "correct": false
-      },
-      {
-        "text": "b. Z statistika",
-        "correct": false
-      },
-      {
-        "text": "c. Hi-kvadrat statistika",
-        "correct": true
-      },
-      {
-        "text": "d. F statistika",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "t statistika",
+      "b": "Z statistika",
+      "c": "Hi-kvadrat statistika",
+      "d": "F statistika",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Šta ne spada u kategorije uzoraka:",
-    "options": [
-      {
-        "text": "a. Slučajan",
-        "correct": false
-      },
-      {
-        "text": "b. Stratifikovan",
-        "correct": false
-      },
-      {
-        "text": "c. Uzorak skupina",
-        "correct": false
-      },
-      {
-        "text": "d. Neka glupost koja je zapravo bila tačan odgovor (npr. \"uporan uzorak\")",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Slučajan",
+      "b": "Stratifikovan",
+      "c": "Uzorak skupina",
+      "d": "Neka glupost koja je zapravo bila tačan odgovor (npr. \"uporan uzorak\")",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Matematičko očekivanje za broj koraka u nizu od n elemenata:",
-    "options": [
-      {
-        "text": "a. n-1",
-        "correct": false
-      },
-      {
-        "text": "b. n-2",
-        "correct": false
-      },
-      {
-        "text": "c. n-3",
-        "correct": true
-      },
-      {
-        "text": "d. n+1",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "n-1",
+      "b": "n-2",
+      "c": "n-3",
+      "d": "n+1",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Nešto je još bilo kod analize varijanse vezano za one tretmane, neka formula ili slično:",
-    "options": [
-      {
-        "text": "a. Formula za broj stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "b. Formula za varijansu tretmana",
-        "correct": false
-      },
-      {
-        "text": "c. Formula za srednje kvadrate tretmana",
-        "correct": true
-      },
-      {
-        "text": "d. Formula za F statistiku u ANOVA",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Formula za broj stepeni slobode",
+      "b": "Formula za varijansu tretmana",
+      "c": "Formula za srednje kvadrate tretmana",
+      "d": "Formula za F statistiku u ANOVA",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Ocena parametra m sa minimalnom varijancom je:",
-    "options": [
-      {
-        "text": "a. X̄",
-        "correct": true
-      },
-      {
-        "text": "b. H",
-        "correct": false
-      },
-      {
-        "text": "c. G",
-        "correct": false
-      },
-      {
-        "text": "d. Me",
-        "correct": false
-      },
-      {
-        "text": "e. Mo",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "X̄",
+      "b": "H",
+      "c": "G",
+      "d": "Me",
+      "e": "Mo"
+    },
+    "answer": "a"
   },
   {
     "question": "Ako u Kolmogorov-Smirnov testu za jedan uzorak, vrednost statistike D bude manja od Dα, nulta hipoteza će:",
-    "options": [
-      {
-        "text": "a. biti odbačena",
-        "correct": false
-      },
-      {
-        "text": "b. biti podvrgnuta dodatnom testiranju korišćenjem Wald-Wolfowitz testa koraka",
-        "correct": false
-      },
-      {
-        "text": "c. biti promenjena",
-        "correct": false
-      },
-      {
-        "text": "d. biti podvrgnuta dodatnom testiranju korišćenjem Kolmogorov-Smirnov testa za dva uzorka",
-        "correct": false
-      },
-      {
-        "text": "e. biti prihvaćena",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "biti odbačena",
+      "b": "biti podvrgnuta dodatnom testiranju korišćenjem Wald-Wolfowitz testa koraka",
+      "c": "biti promenjena",
+      "d": "biti podvrgnuta dodatnom testiranju korišćenjem Kolmogorov-Smirnov testa za dva uzorka",
+      "e": "biti prihvaćena"
+    },
+    "answer": "e"
   },
   {
     "question": "Ako je raspodela obeležja X simetrična, prvi Piersonov koeficijent uzima vrednost:",
-    "options": [
-      {
-        "text": "a. β₁ < 3",
-        "correct": false
-      },
-      {
-        "text": "b. β₁ < 0",
-        "correct": false
-      },
-      {
-        "text": "c. β₁ = 0",
-        "correct": true
-      },
-      {
-        "text": "d. β₁ = 3",
-        "correct": false
-      },
-      {
-        "text": "e. β₁ > 3",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "β₁ < 3",
+      "b": "β₁ < 0",
+      "c": "β₁ = 0",
+      "d": "β₁ = 3",
+      "e": "β₁ > 3"
+    },
+    "answer": "c"
   },
   {
     "question": "Kod Mann-Whitney testa nulta hipoteza glasi:",
-    "options": [
-      {
-        "text": "a. Slučajnost uzorka je narušena zbog monotonosti očekivane vrednosti u populaciji",
-        "correct": false
-      },
-      {
-        "text": "b. Obe populacije imaju istu raspodelu",
-        "correct": true
-      },
-      {
-        "text": "c. Uzorak je slučajan",
-        "correct": false
-      },
-      {
-        "text": "d. Uzorak potiče iz populacije sa Normalnom raspodelom",
-        "correct": false
-      },
-      {
-        "text": "e. Slučajnost uzorka je narušena zbog periodičnosti očekivane vrednosti u populaciji",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Slučajnost uzorka je narušena zbog monotonosti očekivane vrednosti u populaciji",
+      "b": "Obe populacije imaju istu raspodelu",
+      "c": "Uzorak je slučajan",
+      "d": "Uzorak potiče iz populacije sa Normalnom raspodelom",
+      "e": "Slučajnost uzorka je narušena zbog periodičnosti očekivane vrednosti u populaciji"
+    },
+    "answer": "b"
   },
   {
     "question": "Koeficijent determinacije uzima vrednosti:",
-    "options": [
-      {
-        "text": "a. [-1,1]",
-        "correct": false
-      },
-      {
-        "text": "b. (-1,0)",
-        "correct": false
-      },
-      {
-        "text": "c. (-1,1)",
-        "correct": false
-      },
-      {
-        "text": "d. [0,1]",
-        "correct": true
-      },
-      {
-        "text": "e. (0,1)",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "[-1,1]",
+      "b": "(-1,0)",
+      "c": "(-1,1)",
+      "d": "[0,1]",
+      "e": "(0,1)"
+    },
+    "answer": "d"
   },
   {
     "question": "Ako u testu normalnosti nulta hipoteza važi, tada važi:",
-    "options": [
-      {
-        "text": "a. X podležе Normalnoj raspodeli",
-        "correct": true
-      },
-      {
-        "text": "b. X ne podležе Normalnoj raspodeli",
-        "correct": false
-      },
-      {
-        "text": "c. Zaključak nije moguće doneti zato što u verbalnom opisu nemam informaciju o vrednosti raspodele",
-        "correct": false
-      },
-      {
-        "text": "d. Zaključak nije moguće doneti zato što prethodno nisam uradio/la Mann-Whitney test",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "X podležе Normalnoj raspodeli",
+      "b": "X ne podležе Normalnoj raspodeli",
+      "c": "Zaključak nije moguće doneti zato što u verbalnom opisu nemam informaciju o vrednosti raspodele",
+      "d": "Zaključak nije moguće doneti zato što prethodno nisam uradio/la Mann-Whitney test"
+    },
+    "answer": "a"
   },
   {
     "question": "Kod analize varijansi:",
-    "options": [
-      {
-        "text": "a. Ispitujemo uticaj kontinualnog faktora na kontinualno obeležje",
-        "correct": false
-      },
-      {
-        "text": "b. Ispitujemo uticaj kategorijskog faktora na kategorijsko obeležje",
-        "correct": false
-      },
-      {
-        "text": "c. Ispitujemo uticaj kontinualnog faktora na kategorijsko obeležje",
-        "correct": false
-      },
-      {
-        "text": "d. Ispitujemo uticaj kategorijskog faktora na kontinualno obeležje",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "Ispitujemo uticaj kontinualnog faktora na kontinualno obeležje",
+      "b": "Ispitujemo uticaj kategorijskog faktora na kategorijsko obeležje",
+      "c": "Ispitujemo uticaj kontinualnog faktora na kategorijsko obeležje",
+      "d": "Ispitujemo uticaj kategorijskog faktora na kontinualno obeležje"
+    },
+    "answer": "d"
   },
   {
     "question": "Ukoliko želimo da uporedimo varijabilitet cene stanova i varijabilitet gramaže nekog artikla, koristićemo:",
-    "options": [
-      {
-        "text": "a. Srednju devijaciju",
-        "correct": false
-      },
-      {
-        "text": "b. Varijansu",
-        "correct": false
-      },
-      {
-        "text": "c. Standardnu devijaciju",
-        "correct": false
-      },
-      {
-        "text": "d. Koeficijent varijacije",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Srednju devijaciju",
+      "b": "Varijansu",
+      "c": "Standardnu devijaciju",
+      "d": "Koeficijent varijacije",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Na slučajan način se bira prvi element, a zatim se iz populacije uzima svaki k-ti element:",
-    "options": [
-      {
-        "text": "a. Prost slučajan uzorak",
-        "correct": false
-      },
-      {
-        "text": "b. Sistematski uzorak",
-        "correct": true
-      },
-      {
-        "text": "c. Uzorak skupina",
-        "correct": false
-      },
-      {
-        "text": "d. Stratifikovani uzorak",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Prost slučajan uzorak",
+      "b": "Sistematski uzorak",
+      "c": "Uzorak skupina",
+      "d": "Stratifikovani uzorak"
+    },
+    "answer": "b"
   },
   {
     "question": "Ako je kod testa koraka za jedan uzorak definisana desnostrana kritična oblast, to znači da alternativna hipoteza glasi:",
-    "options": [
-      {
-        "text": "a. Uzorak je slučajan",
-        "correct": false
-      },
-      {
-        "text": "b. Uzorak nije slučajan",
-        "correct": false
-      },
-      {
-        "text": "c. Slučajnost uzorka je narušena zbog periodičnosti",
-        "correct": true
-      },
-      {
-        "text": "d. Slučajnost uzorka je narušena zbog monotonosti",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Uzorak je slučajan",
+      "b": "Uzorak nije slučajan",
+      "c": "Slučajnost uzorka je narušena zbog periodičnosti",
+      "d": "Slučajnost uzorka je narušena zbog monotonosti",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Drugi Pirsonov koeficijent se izračunava kao odnos:",
-    "options": [
-      {
-        "text": "a. Četvrtog centralnog momenta i standardne devijacije na treći",
-        "correct": false
-      },
-      {
-        "text": "b. Trećeg centralnog momenta i standardne devijacije na kvadrat",
-        "correct": false
-      },
-      {
-        "text": "c. Četvrtog centralnog momenta i standardne devijacije na četvrti",
-        "correct": true
-      },
-      {
-        "text": "d. Trećeg centralnog momenta i standardne devijacije na treći",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Četvrtog centralnog momenta i standardne devijacije na treći",
+      "b": "Trećeg centralnog momenta i standardne devijacije na kvadrat",
+      "c": "Četvrtog centralnog momenta i standardne devijacije na četvrti",
+      "d": "Trećeg centralnog momenta i standardne devijacije na treći",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Moć testa 1 - β ima minimalnu vrednost kada je:",
-    "options": [
-      {
-        "text": "a. m > m₀",
-        "correct": false
-      },
-      {
-        "text": "b. Vrednost moći testa ne zavisi od m",
-        "correct": false
-      },
-      {
-        "text": "c. m < m₀",
-        "correct": false
-      },
-      {
-        "text": "d. m = m₀",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "m > m₀",
+      "b": "Vrednost moći testa ne zavisi od m",
+      "c": "m < m₀",
+      "d": "m = m₀",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Pretpostavka da je Var(Y₁) = Var(Y₂) = ... = Var(Yₖ) = σ² važi kod:",
-    "options": [
-      {
-        "text": "a. Wald-Wolfowitz testa",
-        "correct": false
-      },
-      {
-        "text": "b. ANOVE",
-        "correct": true
-      },
-      {
-        "text": "c. Z-testa",
-        "correct": false
-      },
-      {
-        "text": "d. Kolmogorov-Smirnov testa (1 uzorak)",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Wald-Wolfowitz testa",
+      "b": "ANOVE",
+      "c": "Z-testa",
+      "d": "Kolmogorov-Smirnov testa (1 uzorak)"
+    },
+    "answer": "b"
   },
   {
     "question": "Ako testiramo nezavisnost 2 kvalitativna obeležja i ukoliko je vrednost statistike 7.1, a kritična vrednost 8.383, zaključak je:",
-    "options": [
-      {
-        "text": "a. obeležja su nezavisna",
-        "correct": true
-      },
-      {
-        "text": "b. obeležja su zavisna",
-        "correct": false
-      },
-      {
-        "text": "c. obeležja su pozitivno zavisna",
-        "correct": false
-      },
-      {
-        "text": "d. nijedno od navedenog",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "obeležja su nezavisna",
+      "b": "obeležja su zavisna",
+      "c": "obeležja su pozitivno zavisna",
+      "d": "nijedno od navedenog"
+    },
+    "answer": "a"
   },
   {
     "question": "Sa povećanjem veličine uzorka, kada n → ∞, sredina uzorka:",
-    "options": [
-      {
-        "text": "a. teži 0",
-        "correct": false
-      },
-      {
-        "text": "b. teži ∞",
-        "correct": false
-      },
-      {
-        "text": "c. teži m",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "teži 0",
+      "b": "teži ∞",
+      "c": "teži m"
+    },
+    "answer": "c"
   },
   {
     "question": "Za zadati nivo poverenja, dužina intervala poverenja za očekivanu vrednost m je:",
-    "options": [
-      {
-        "text": "a. direktno proporcionalna veličini uzorka",
-        "correct": false
-      },
-      {
-        "text": "b. obrnuto proporcionalna veličini uzorka",
-        "correct": true
-      },
-      {
-        "text": "c. logaritamska funkcija veličine uzorka",
-        "correct": false
-      },
-      {
-        "text": "d. ništa od navedenog nije tačno",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "direktno proporcionalna veličini uzorka",
+      "b": "obrnuto proporcionalna veličini uzorka",
+      "c": "logaritamska funkcija veličine uzorka",
+      "d": "ništa od navedenog nije tačno"
+    },
+    "answer": "b"
   },
   {
     "question": "Obični momenti uzorka predstavljaju:",
-    "options": [
-      {
-        "text": "a. nepristrasne ocene običnih momenata populacije",
-        "correct": true
-      },
-      {
-        "text": "b. pozitivno pristrasne ocene običnih momenata populacije",
-        "correct": false
-      },
-      {
-        "text": "c. negativno pristrasne ocene običnih momenata populacije",
-        "correct": false
-      },
-      {
-        "text": "d. nijedno od navedenog",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "nepristrasne ocene običnih momenata populacije",
+      "b": "pozitivno pristrasne ocene običnih momenata populacije",
+      "c": "negativno pristrasne ocene običnih momenata populacije",
+      "d": "nijedno od navedenog"
+    },
+    "answer": "a"
   },
   {
     "question": "Ako obeležje X na populaciji ima Normalnu raspodelu, tada su sredina uzorka i varijansa uzorka izvučenog iz ove populacije:",
-    "options": [
-      {
-        "text": "a. Pozitivno zavisne statistike",
-        "correct": false
-      },
-      {
-        "text": "b. Negativno zavisne statistike",
-        "correct": false
-      },
-      {
-        "text": "c. Nezavisne statistike",
-        "correct": true
-      },
-      {
-        "text": "d. Ne može se odrediti",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Pozitivno zavisne statistike",
+      "b": "Negativno zavisne statistike",
+      "c": "Nezavisne statistike",
+      "d": "Ne može se odrediti"
+    },
+    "answer": "c"
   },
   {
     "question": "Ako je raspodela asimetrična u desnu stranu tada važi da je:",
-    "options": [
-      {
-        "text": "a. x̄ = Me",
-        "correct": false
-      },
-      {
-        "text": "b. x̄ < Me",
-        "correct": true
-      },
-      {
-        "text": "c. x̄ > Me",
-        "correct": false
-      },
-      {
-        "text": "d. Ne može se utvrditi veza između x̄ i Me",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "x̄ = Me",
+      "b": "x̄ < Me",
+      "c": "x̄ > Me",
+      "d": "Ne može se utvrditi veza između x̄ i Me"
+    },
+    "answer": "b"
   },
   {
     "question": "Ako su, kod Mann-Whitney testa, uzorci većeg obima, statistika testa ima:",
-    "options": [
-      {
-        "text": "a. Standardizovanu Normalnu raspodelu",
-        "correct": true
-      },
-      {
-        "text": "b. Studentovu raspodelu sa n stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "c. Hi-kvadrat raspodelu sa n-1 stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "d. Normalnu raspodelu sa očekivanjem 0 i varijanom σ²",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Standardizovanu Normalnu raspodelu",
+      "b": "Studentovu raspodelu sa n stepeni slobode",
+      "c": "Hi-kvadrat raspodelu sa n-1 stepeni slobode",
+      "d": "Normalnu raspodelu sa očekivanjem 0 i varijanom σ²",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Neka obeležje X ima varijansu S²x, a obeležje Y ima varijansu S²y, i neka između X i Y = aX – b. Tada je srednja vrednost obeležja Y jednaka:",
-    "options": [
-      {
-        "text": "a. my = amx",
-        "correct": false
-      },
-      {
-        "text": "b. my = amx – b",
-        "correct": true
-      },
-      {
-        "text": "c. my = a²mx + b²",
-        "correct": false
-      },
-      {
-        "text": "d. my = amx + b",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "my = amx",
+      "b": "my = amx – b",
+      "c": "my = a²mx + b²",
+      "d": "my = amx + b",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Kada želimo da testiramo nultu hipotezu da su dva nezavisna uzorka izvučena iz iste populacije, protiv alternativne hipoteze da se posmatrane populacije razlikuju, koristimo sledeći test:",
-    "options": [
-      {
-        "text": "a. Wald-Wolfowitz test koraka",
-        "correct": true
-      },
-      {
-        "text": "b. Jednofaktorsku analizu varijanse",
-        "correct": false
-      },
-      {
-        "text": "c. Dvofaktorsku analizu varijanse",
-        "correct": false
-      },
-      {
-        "text": "d. Tabelu kontingencije",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Wald-Wolfowitz test koraka",
+      "b": "Jednofaktorsku analizu varijanse",
+      "c": "Dvofaktorsku analizu varijanse",
+      "d": "Tabelu kontingencije",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Kod testa slučajnosti uzorka, varijansa broja koraka K se računa kao:",
-    "options": [
-      {
-        "text": "a. Var(K) = n(n-2) / 4(n-1)",
-        "correct": true
-      },
-      {
-        "text": "b. Var(K) = n(n-1) / 4(n-2)",
-        "correct": false
-      },
-      {
-        "text": "c. Var(K) = n(n+1) / 4(n+2)",
-        "correct": false
-      },
-      {
-        "text": "d. Var(K) = n(n+2) / 4(n+1)",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Var(K) = n(n-2) / 4(n-1)",
+      "b": "Var(K) = n(n-1) / 4(n-2)",
+      "c": "Var(K) = n(n+1) / 4(n+2)",
+      "d": "Var(K) = n(n+2) / 4(n+1)",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "T-test je parametarska alternativa:",
-    "options": [
-      {
-        "text": "a. Testu koraka za jedan uzorak",
-        "correct": false
-      },
-      {
-        "text": "b. Testu saglasnosti",
-        "correct": false
-      },
-      {
-        "text": "c. Testu kategorizovanih podataka",
-        "correct": false
-      },
-      {
-        "text": "d. Man-Vitni testu",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Testu koraka za jedan uzorak",
+      "b": "Testu saglasnosti",
+      "c": "Testu kategorizovanih podataka",
+      "d": "Man-Vitni testu",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Što je vrednost koeficijenta determinacije bliža vrednosti 0, tada je:",
-    "options": [
-      {
-        "text": "a. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
-        "correct": true
-      },
-      {
-        "text": "b. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
-        "correct": false
-      },
-      {
-        "text": "c. Udeo neobjašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
-        "correct": false
-      },
-      {
-        "text": "d. Udeo neobjašnjenog varijabiliteta u objašnjenom varijabilitetu zavisne promenljive veći",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
+      "b": "Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
+      "c": "Udeo neobjašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
+      "d": "Udeo neobjašnjenog varijabiliteta u objašnjenom varijabilitetu zavisne promenljive veći",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Za uzorak X₁, ..., Xₙ iz Uniformne raspodele U = (0, θ) sa nepoznatim parametrom θ, dovoljna statistika je:",
-    "options": [
-      {
-        "text": "a. Z = min{X₁², ..., Xₙ²}",
-        "correct": false
-      },
-      {
-        "text": "b. Z = max{X₁, ..., Xₙ}",
-        "correct": true
-      },
-      {
-        "text": "c. Z = min{X₁, ..., Xₙ}",
-        "correct": false
-      },
-      {
-        "text": "d. Z = max{X₁², ..., Xₙ²}",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Z = min{X₁², ..., Xₙ²}",
+      "b": "Z = max{X₁, ..., Xₙ}",
+      "c": "Z = min{X₁, ..., Xₙ}",
+      "d": "Z = max{X₁², ..., Xₙ²}",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Kolmogorov-Smirnov testovi se zasnivaju na:",
-    "options": [
-      {
-        "text": "a. Poređenju izmerenih i očekivanih apsolutnih frekvencija",
-        "correct": false
-      },
-      {
-        "text": "b. Poređenju apsolutnih i relativnih izmerenih frekvencija",
-        "correct": false
-      },
-      {
-        "text": "c. Poređenju izmerenih i očekivanih relativnih kumulativnih frekvencija",
-        "correct": true
-      },
-      {
-        "text": "d. Poređenju apsolutnih i relativnih očekivanih frekvencija",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Poređenju izmerenih i očekivanih apsolutnih frekvencija",
+      "b": "Poređenju apsolutnih i relativnih izmerenih frekvencija",
+      "c": "Poređenju izmerenih i očekivanih relativnih kumulativnih frekvencija",
+      "d": "Poređenju apsolutnih i relativnih očekivanih frekvencija",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Ocena parametra m sa minimalnom varijancom je:",
-    "options": [
-      {
-        "text": "a. X̄",
-        "correct": true
-      },
-      {
-        "text": "b. H",
-        "correct": false
-      },
-      {
-        "text": "c. G",
-        "correct": false
-      },
-      {
-        "text": "d. Me",
-        "correct": false
-      },
-      {
-        "text": "e. Mo",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "X̄",
+      "b": "H",
+      "c": "G",
+      "d": "Me",
+      "e": "Mo"
+    },
+    "answer": "a"
   },
   {
     "question": "Ako u Kolmogorov-Smirnov testu za jedan uzorak, vrednost statistike D bude manja od Dα, nulta hipoteza će:",
-    "options": [
-      {
-        "text": "a. biti odbačena",
-        "correct": false
-      },
-      {
-        "text": "b. biti podvrgnuta dodatnom testiranju korišćenjem Wald-Wolfowitz testa koraka",
-        "correct": false
-      },
-      {
-        "text": "c. biti promenjena",
-        "correct": false
-      },
-      {
-        "text": "d. biti podvrgnuta dodatnom testiranju korišćenjem Kolmogorov-Smirnov testa za dva uzorka",
-        "correct": false
-      },
-      {
-        "text": "e. biti prihvaćena",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "biti odbačena",
+      "b": "biti podvrgnuta dodatnom testiranju korišćenjem Wald-Wolfowitz testa koraka",
+      "c": "biti promenjena",
+      "d": "biti podvrgnuta dodatnom testiranju korišćenjem Kolmogorov-Smirnov testa za dva uzorka",
+      "e": "biti prihvaćena"
+    },
+    "answer": "e"
   },
   {
     "question": "Dužina intervala poverenja zavisi od nivoa poverenja i to tako da:",
-    "options": [
-      {
-        "text": "a. sa povećanjem nivoa poverenja, smanjuje se dužina intervala poverenja, što je poželjno",
-        "correct": false
-      },
-      {
-        "text": "b. sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je nepoželjno",
-        "correct": true
-      },
-      {
-        "text": "c. sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je poželjno",
-        "correct": false
-      },
-      {
-        "text": "d. sa povećanjem nivoa poverenja, ne menja se dužina intervala poverenja",
-        "correct": false
-      },
-      {
-        "text": "e. ništa od navedenog",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "sa povećanjem nivoa poverenja, smanjuje se dužina intervala poverenja, što je poželjno",
+      "b": "sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je nepoželjno",
+      "c": "sa povećanjem nivoa poverenja, povećava se dužina intervala poverenja, što je poželjno",
+      "d": "sa povećanjem nivoa poverenja, ne menja se dužina intervala poverenja",
+      "e": "ništa od navedenog"
+    },
+    "answer": "b"
   },
   {
     "question": "Ako je raspodela obeležja X simetrična, prvi Piersonov koeficijent uzima vrednost:",
-    "options": [
-      {
-        "text": "a. β₁ < 3",
-        "correct": false
-      },
-      {
-        "text": "b. β₁ < 0",
-        "correct": false
-      },
-      {
-        "text": "c. β₁ = 0",
-        "correct": true
-      },
-      {
-        "text": "d. β₁ = 3",
-        "correct": false
-      },
-      {
-        "text": "e. β₁ > 3",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "β₁ < 3",
+      "b": "β₁ < 0",
+      "c": "β₁ = 0",
+      "d": "β₁ = 3",
+      "e": "β₁ > 3"
+    },
+    "answer": "c"
   },
   {
     "question": "Kod Man-Vitni testa nulta hipoteza glasi:",
-    "options": [
-      {
-        "text": "a. Slučajnost uzorka je narušena zbog monotonosti očekivane vrednosti u populaciji",
-        "correct": false
-      },
-      {
-        "text": "b. Obe populacije imaju istu raspodelu",
-        "correct": true
-      },
-      {
-        "text": "c. Uzorak je slučajan",
-        "correct": false
-      },
-      {
-        "text": "d. Uzorak potiče iz populacije sa Normalnom raspodelom",
-        "correct": false
-      },
-      {
-        "text": "e. Slučajnost uzorka je narušena zbog periodičnosti očekivane vrednosti u populaciji",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Slučajnost uzorka je narušena zbog monotonosti očekivane vrednosti u populaciji",
+      "b": "Obe populacije imaju istu raspodelu",
+      "c": "Uzorak je slučajan",
+      "d": "Uzorak potiče iz populacije sa Normalnom raspodelom",
+      "e": "Slučajnost uzorka je narušena zbog periodičnosti očekivane vrednosti u populaciji"
+    },
+    "answer": "b"
   },
   {
     "question": "Prosti linearni regresioni model je model sa:",
-    "options": [
-      {
-        "text": "a. dve promenljive, jednom zavisnom i jednom kontrolisanom",
-        "correct": true
-      },
-      {
-        "text": "b. dve kontrolisane promenljive koje imaju normalnu raspodelu",
-        "correct": false
-      },
-      {
-        "text": "c. tri promenljive, jednom zavisnom i dve kontrolisane",
-        "correct": false
-      },
-      {
-        "text": "d. dve zavisne promenljive koje imaju normalnu raspodelu",
-        "correct": false
-      },
-      {
-        "text": "e. dve kontrolisane promenljive",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "dve promenljive, jednom zavisnom i jednom kontrolisanom",
+      "b": "dve kontrolisane promenljive koje imaju normalnu raspodelu",
+      "c": "tri promenljive, jednom zavisnom i dve kontrolisane",
+      "d": "dve zavisne promenljive koje imaju normalnu raspodelu",
+      "e": "dve kontrolisane promenljive"
+    },
+    "answer": "a"
   },
   {
     "question": "Koeficijent determinacije uzima vrednosti:",
-    "options": [
-      {
-        "text": "a. [-1, 1]",
-        "correct": false
-      },
-      {
-        "text": "b. (-1, 0)",
-        "correct": false
-      },
-      {
-        "text": "c. (-1, 1]",
-        "correct": false
-      },
-      {
-        "text": "d. [0, 1]",
-        "correct": true
-      },
-      {
-        "text": "e. (0, 1]",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "[-1, 1]",
+      "b": "(-1, 0)",
+      "c": "(-1, 1]",
+      "d": "[0, 1]",
+      "e": "(0, 1]"
+    },
+    "answer": "d"
   },
   {
     "question": "Nulta hipoteza kod testa koraka za jedan uzorak glasi:",
-    "options": [
-      {
-        "text": "a. Uzorak X₁, X₂, ..., Xₙ nije slučajan",
-        "correct": false
-      },
-      {
-        "text": "b. Slučajnost u uzorku X₁, X₂, ..., Xₙ je narušena zbog periodičnih promena očekivane vrednosti u populaciji",
-        "correct": false
-      },
-      {
-        "text": "c. Slučajnost u uzorku X₁, X₂, ..., Xₙ je narušena zbog monotonosti očekivane vrednosti u populaciji",
-        "correct": false
-      },
-      {
-        "text": "d. Uzorak X₁, X₂, ..., Xₙ je slučajan",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Uzorak X₁, X₂, ..., Xₙ nije slučajan",
+      "b": "Slučajnost u uzorku X₁, X₂, ..., Xₙ je narušena zbog periodičnih promena očekivane vrednosti u populaciji",
+      "c": "Slučajnost u uzorku X₁, X₂, ..., Xₙ je narušena zbog monotonosti očekivane vrednosti u populaciji",
+      "d": "Uzorak X₁, X₂, ..., Xₙ je slučajan",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Koji od sledećih testova ne može da se koristi kao neparametarska alternativa t-testu za dva uzorka:",
-    "options": [
-      {
-        "text": "a. Kolmogorov-Smirnov test za dva uzorka",
-        "correct": false
-      },
-      {
-        "text": "b. Test kategorizovanih podataka",
-        "correct": true
-      },
-      {
-        "text": "c. Mann-Whitney test",
-        "correct": false
-      },
-      {
-        "text": "d. Wald-Wolfowitz test",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Kolmogorov-Smirnov test za dva uzorka",
+      "b": "Test kategorizovanih podataka",
+      "c": "Mann-Whitney test",
+      "d": "Wald-Wolfowitz test",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Koeficijent determinacije u linearnom regresionom modelu predstavlja:",
-    "options": [
-      {
-        "text": "a. Količnik neobjašnjenog i ukupnog varijabiliteta",
-        "correct": false
-      },
-      {
-        "text": "b. Količnik koeficijenta korelacije",
-        "correct": false
-      },
-      {
-        "text": "c. Količnik objašnjenog i neobjašnjenog varijabiliteta",
-        "correct": false
-      },
-      {
-        "text": "d. Količnik objašnjenog i ukupnog varijabiliteta",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Količnik neobjašnjenog i ukupnog varijabiliteta",
+      "b": "Količnik koeficijenta korelacije",
+      "c": "Količnik objašnjenog i neobjašnjenog varijabiliteta",
+      "d": "Količnik objašnjenog i ukupnog varijabiliteta",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Želimo da proverimo da li se muškarci i žene razlikuju u pogledu koliko para troše muškarci i 18 žena i prikupili egzaktne podatke o potrošnji (...). Testiranje normaliteta je sprovedeno Smirnov testom (D = 0.08, D₀ = 0.059) i sledeći korak je:",
-    "options": [
-      {
-        "text": "a. T-test",
-        "correct": true
-      },
-      {
-        "text": "b. ANOVA",
-        "correct": false
-      },
-      {
-        "text": "c. Wald-Wolfowitz test",
-        "correct": false
-      },
-      {
-        "text": "d. Test koraka za jedan uzorak",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "T-test",
+      "b": "ANOVA",
+      "c": "Wald-Wolfowitz test",
+      "d": "Test koraka za jedan uzorak"
+    },
+    "answer": "a"
   },
   {
     "question": "Kod analize varijansi:",
-    "options": [
-      {
-        "text": "a. Ispitujemo uticaj kontinualnog faktora na kontinualno obeležje",
-        "correct": false
-      },
-      {
-        "text": "b. Ispitujemo uticaj kategorijskog faktora na kategorijsko obeležje",
-        "correct": false
-      },
-      {
-        "text": "c. Ispitujemo uticaj kontinualnog faktora na kategorijsko obeležje",
-        "correct": false
-      },
-      {
-        "text": "d. Ispitujemo uticaj kategorijskog faktora na kontinualno obeležje",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "Ispitujemo uticaj kontinualnog faktora na kontinualno obeležje",
+      "b": "Ispitujemo uticaj kategorijskog faktora na kategorijsko obeležje",
+      "c": "Ispitujemo uticaj kontinualnog faktora na kategorijsko obeležje",
+      "d": "Ispitujemo uticaj kategorijskog faktora na kontinualno obeležje"
+    },
+    "answer": "d"
   },
   {
     "question": "Ukoliko želimo da uporedimo varijabilitet cene stanova i varijabilitet gramaže nekog artikla, koristimo:",
-    "options": [
-      {
-        "text": "a. Srednju devijaciju",
-        "correct": false
-      },
-      {
-        "text": "b. Varijansu",
-        "correct": false
-      },
-      {
-        "text": "c. Standardnu devijaciju",
-        "correct": false
-      },
-      {
-        "text": "d. Koeficijent varijacije",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Srednju devijaciju",
+      "b": "Varijansu",
+      "c": "Standardnu devijaciju",
+      "d": "Koeficijent varijacije",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Na slučajan način se bira prvi element, a zatim se iz populacije uzima svaki k-ti element:",
-    "options": [
-      {
-        "text": "a. Prost slučajan uzorak",
-        "correct": false
-      },
-      {
-        "text": "b. Sistematski uzorak",
-        "correct": true
-      },
-      {
-        "text": "c. Uzorak skupina",
-        "correct": false
-      },
-      {
-        "text": "d. Stratifikovani uzorak",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Prost slučajan uzorak",
+      "b": "Sistematski uzorak",
+      "c": "Uzorak skupina",
+      "d": "Stratifikovani uzorak"
+    },
+    "answer": "b"
   },
   {
     "question": "Bazični indeksi:",
-    "options": [
-      {
-        "text": "a. služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na jedan trenutak merenja sa kojim želimo da poredimo nastale promene",
-        "correct": true
-      },
-      {
-        "text": "b. su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u prethodnom trenutku merenja t-1",
-        "correct": false
-      },
-      {
-        "text": "c. su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u narednom trenutku merenja t+1",
-        "correct": false
-      },
-      {
-        "text": "d. služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na niz trenutaka merenja sa kojima želimo da poredimo nastale promene",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na jedan trenutak merenja sa kojim želimo da poredimo nastale promene",
+      "b": "su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u prethodnom trenutku merenja t-1",
+      "c": "su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u narednom trenutku merenja t+1",
+      "d": "služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na niz trenutaka merenja sa kojima želimo da poredimo nastale promene",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Kod prostog linearnog regresionog modela rezidualni zbir kvadrata odstupanja dat je izrazom:",
-    "options": [
-      {
-        "text": "a. Σei² = Σ[Yi – (b0 + b1Xi)]²",
-        "correct": true
-      },
-      {
-        "text": "b. Σei = Σ[Yi – (b0 + b1Xi)]²",
-        "correct": false
-      },
-      {
-        "text": "c. Σei² = Σ[Yi – (b0 + b1Xi)]",
-        "correct": false
-      },
-      {
-        "text": "d. Σei² = ΣYi²",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Σei² = Σ[Yi – (b0 + b1Xi)]²",
+      "b": "Σei = Σ[Yi – (b0 + b1Xi)]²",
+      "c": "Σei² = Σ[Yi – (b0 + b1Xi)]",
+      "d": "Σei² = ΣYi²",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Koja od dole navedenih mera pokazuje najveću frekvenciju obeležja?",
-    "options": [
-      {
-        "text": "a. Me",
-        "correct": false
-      },
-      {
-        "text": "b. Mo",
-        "correct": true
-      },
-      {
-        "text": "c. X̄",
-        "correct": false
-      },
-      {
-        "text": "d. σ",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Me",
+      "b": "Mo",
+      "c": "X̄",
+      "d": "σ",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Koeficijent asimetrije je dat izrazom:",
-    "options": [
-      {
-        "text": "a. Ka = 3(Me – x̄) / S",
-        "correct": false
-      },
-      {
-        "text": "b. μ2 = (1/N) Σ(Xi – x̄)²",
-        "correct": false
-      },
-      {
-        "text": "c. β1 = μ3 / S⁴",
-        "correct": false
-      },
-      {
-        "text": "d. Ka = 3(x̄ – Me) / S",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Ka = 3(Me – x̄) / S",
+      "b": "μ2 = (1/N) Σ(Xi – x̄)²",
+      "c": "β1 = μ3 / S⁴",
+      "d": "Ka = 3(x̄ – Me) / S",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Šta od navedenog ne predstavlja ocenu:",
-    "options": [
-      {
-        "text": "a. X",
-        "correct": false
-      },
-      {
-        "text": "b. P",
-        "correct": false
-      },
-      {
-        "text": "c. β",
-        "correct": true
-      },
-      {
-        "text": "d. r",
-        "correct": false
-      },
-      {
-        "text": "e. S²",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "X",
+      "b": "P",
+      "c": "β",
+      "d": "r",
+      "e": "S²"
+    },
+    "answer": "c"
   },
   {
     "question": "Kod analize varijanse, zaključak o prihvatanju ili odbacivanju nulte hipoteze se donosi na bazi statistike u kojoj se posmatra količnik:",
-    "options": [
-      {
-        "text": "a. varijabiliteta između grupa i ukupnog varijabiliteta",
-        "correct": false
-      },
-      {
-        "text": "b. varijabiliteta unutar i varijabiliteta između grupa",
-        "correct": false
-      },
-      {
-        "text": "c. ukupnog varijabiliteta i varijabiliteta unutar grupa",
-        "correct": false
-      },
-      {
-        "text": "d. varijabiliteta između i varijabiliteta unutar grupa",
-        "correct": true
-      },
-      {
-        "text": "e. ukupnog varijabiliteta i varijabiliteta između grupa",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "varijabiliteta između grupa i ukupnog varijabiliteta",
+      "b": "varijabiliteta unutar i varijabiliteta između grupa",
+      "c": "ukupnog varijabiliteta i varijabiliteta unutar grupa",
+      "d": "varijabiliteta između i varijabiliteta unutar grupa",
+      "e": "ukupnog varijabiliteta i varijabiliteta između grupa"
+    },
+    "answer": "d"
   },
   {
     "question": "Ako testiramo nezavisnost 2 kvalitativna obeležja i ukoliko je vrednost statistike 7.1, a kritična vrednost 8.383, zaključak je:",
-    "options": [
-      {
-        "text": "a. obeležja su nezavisna",
-        "correct": true
-      },
-      {
-        "text": "b. obeležja su zavisna",
-        "correct": false
-      },
-      {
-        "text": "c. obeležja su pozitivno zavisna",
-        "correct": false
-      },
-      {
-        "text": "d. nijedno od navedenog",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "obeležja su nezavisna",
+      "b": "obeležja su zavisna",
+      "c": "obeležja su pozitivno zavisna",
+      "d": "nijedno od navedenog"
+    },
+    "answer": "a"
   },
   {
     "question": "Što je vrednost koeficijenta determinacije bliža vrednosti 1, tada je:",
-    "options": [
-      {
-        "text": "a. Udeo neobjašnjenog varijabiliteta u objašnjenom varijabilitetu zavisne promenljive manji",
-        "correct": false
-      },
-      {
-        "text": "b. Udeo neobjašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
-        "correct": false
-      },
-      {
-        "text": "c. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
-        "correct": false
-      },
-      {
-        "text": "d. Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Udeo neobjašnjenog varijabiliteta u objašnjenom varijabilitetu zavisne promenljive manji",
+      "b": "Udeo neobjašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
+      "c": "Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive manji",
+      "d": "Udeo objašnjenog varijabiliteta u ukupnom varijabilitetu zavisne promenljive veći",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Kod Normalne raspodele sa nepoznatom očekivanom vrednošću m, odnos Var( x̄ ) / Var(X) iznosi:",
-    "options": [
-      {
-        "text": "a. π/3",
-        "correct": false
-      },
-      {
-        "text": "b. 2/π",
-        "correct": false
-      },
-      {
-        "text": "c. π/2",
-        "correct": true
-      },
-      {
-        "text": "d. 1",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "π/3",
+      "b": "2/π",
+      "c": "π/2",
+      "d": "1",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "U mere centralne tendencije ne spada:",
-    "options": [
-      {
-        "text": "a. Medijana",
-        "correct": false
-      },
-      {
-        "text": "b. Aritmetička sredina",
-        "correct": false
-      },
-      {
-        "text": "c. Geometrijska sredina",
-        "correct": false
-      },
-      {
-        "text": "d. Koeficijent korelacije",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Medijana",
+      "b": "Aritmetička sredina",
+      "c": "Geometrijska sredina",
+      "d": "Koeficijent korelacije",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Greška prve vrste je greška koju pravimo ako:",
-    "options": [
-      {
-        "text": "a. odbacimo hipotezu H0, a ona nije tačna",
-        "correct": false
-      },
-      {
-        "text": "b. prihvatimo hipotezu H0, a ona nije tačna",
-        "correct": false
-      },
-      {
-        "text": "c. prihvatimo hipotezu H0, a ona je tačna",
-        "correct": false
-      },
-      {
-        "text": "d. odbacimo hipotezu H0, a ona je tačna",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "odbacimo hipotezu H0, a ona nije tačna",
+      "b": "prihvatimo hipotezu H0, a ona nije tačna",
+      "c": "prihvatimo hipotezu H0, a ona je tačna",
+      "d": "odbacimo hipotezu H0, a ona je tačna"
+    },
+    "answer": "d"
   },
   {
     "question": "Ako posmatramo Normalnu raspodelu sa nepoznatom očekivanom vrednošću m, onda važi:",
-    "options": [
-      {
-        "text": "a. E(x̄ – m)² < E(M̂e – m)²",
-        "correct": true
-      },
-      {
-        "text": "b. E(x̄ – m)² > E(M̂e – m)²",
-        "correct": false
-      },
-      {
-        "text": "c. E(x̄ – m)² = E(M̂e – m)²",
-        "correct": false
-      },
-      {
-        "text": "d. Ništa od navedenog nije tačno",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "E(x̄ – m)² < E(M̂e – m)²",
+      "b": "E(x̄ – m)² > E(M̂e – m)²",
+      "c": "E(x̄ – m)² = E(M̂e – m)²",
+      "d": "Ništa od navedenog nije tačno"
+    },
+    "answer": "a"
   },
   {
     "question": "Ako su b0 i b1 ocene regresionih parametara β0 i β1, važi:",
-    "options": [
-      {
-        "text": "a. E(b1) = 0",
-        "correct": false
-      },
-      {
-        "text": "b. E(b1) = m",
-        "correct": false
-      },
-      {
-        "text": "c. E(b1) = β0",
-        "correct": false
-      },
-      {
-        "text": "d. E(b1) = β1",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "E(b1) = 0",
+      "b": "E(b1) = m",
+      "c": "E(b1) = β0",
+      "d": "E(b1) = β1"
+    },
+    "answer": "d"
   },
   {
     "question": "Homoskedastičnost znači da je:",
-    "options": [
-      {
-        "text": "a. varijansa od ε uvek pozitivna",
-        "correct": false
-      },
-      {
-        "text": "b. varijansa od ε uvek jednaka nuli",
-        "correct": false
-      },
-      {
-        "text": "c. varijansa od ε uvek jednaka jedinici",
-        "correct": false
-      },
-      {
-        "text": "d. varijansa od ε konstantna",
-        "correct": true
-      },
-      {
-        "text": "e. varijansa od ε promenljiva",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "varijansa od ε uvek pozitivna",
+      "b": "varijansa od ε uvek jednaka nuli",
+      "c": "varijansa od ε uvek jednaka jedinici",
+      "d": "varijansa od ε konstantna",
+      "e": "varijansa od ε promenljiva"
+    },
+    "answer": "d"
   },
   {
     "question": "U mere centralne tendencije ne spada:",
-    "options": [
-      {
-        "text": "a. medijana",
-        "correct": false
-      },
-      {
-        "text": "b. aritmetička sredina",
-        "correct": false
-      },
-      {
-        "text": "c. kvartilna devijacija",
-        "correct": true
-      },
-      {
-        "text": "d. modus",
-        "correct": false
-      },
-      {
-        "text": "e. geometrijska sredina",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "medijana",
+      "b": "aritmetička sredina",
+      "c": "kvartilna devijacija",
+      "d": "modus",
+      "e": "geometrijska sredina"
+    },
+    "answer": "c"
   },
   {
     "question": "Zbir odstupanja vrednosti obeležja X na posmatranom skupu od njihove aritmetičke sredine, Σ(Xi – X̄), je jednako:",
-    "options": [
-      {
-        "text": "a. em",
-        "correct": false
-      },
-      {
-        "text": "b. 5",
-        "correct": false
-      },
-      {
-        "text": "c. 0",
-        "correct": true
-      },
-      {
-        "text": "d. S²",
-        "correct": false
-      },
-      {
-        "text": "e. em/n",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "em",
+      "b": "5",
+      "c": "0",
+      "d": "S²",
+      "e": "em/n"
+    },
+    "answer": "c"
   },
   {
     "question": "Kada uzorak potiče iz populacije sa dvodimenzionalnom Normalnom raspodelom, pretpostavka o nezavisnosti obeležja ekvivalentna je pretpostavci:",
-    "options": [
-      {
-        "text": "a. H0 (ρ ≥ 0)",
-        "correct": false
-      },
-      {
-        "text": "b. H0 (ρ ≠ 0)",
-        "correct": false
-      },
-      {
-        "text": "c. H0 (ρ ≠ 1)",
-        "correct": false
-      },
-      {
-        "text": "d. H0 (ρ = 1)",
-        "correct": false
-      },
-      {
-        "text": "e. H0 (ρ = 0)",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "H0 (ρ ≥ 0)",
+      "b": "H0 (ρ ≠ 0)",
+      "c": "H0 (ρ ≠ 1)",
+      "d": "H0 (ρ = 1)",
+      "e": "H0 (ρ = 0)"
+    },
+    "answer": "e"
   },
   {
     "question": "Pretpostavka da je Var(Y₁) = Var(Y₂) = ... = Var(Yₖ) = σ² važi kod:",
-    "options": [
-      {
-        "text": "a. Wald-Wolfowitz testa",
-        "correct": false
-      },
-      {
-        "text": "b. ANOVE",
-        "correct": true
-      },
-      {
-        "text": "c. Z-testa",
-        "correct": false
-      },
-      {
-        "text": "d. Kolmogorov-Smirnov testa (1 uzorak)",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Wald-Wolfowitz testa",
+      "b": "ANOVE",
+      "c": "Z-testa",
+      "d": "Kolmogorov-Smirnov testa (1 uzorak)"
+    },
+    "answer": "b"
   },
   {
     "question": "Očekivana vrednost sredine uzorka je:",
-    "options": [
-      {
-        "text": "a. E(x̄) = (n-1)/n · σ²",
-        "correct": false
-      },
-      {
-        "text": "b. E(x̄) = m",
-        "correct": true
-      },
-      {
-        "text": "c. E(x̄) = m/n",
-        "correct": false
-      },
-      {
-        "text": "d. E(x̄) = σ²/n",
-        "correct": false
-      },
-      {
-        "text": "e. E(x̄) = (xi-m / n) √n",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "E(x̄) = (n-1)/n · σ²",
+      "b": "E(x̄) = m",
+      "c": "E(x̄) = m/n",
+      "d": "E(x̄) = σ²/n",
+      "e": "E(x̄) = (xi-m / n) √n"
+    },
+    "answer": "b"
   },
   {
     "question": "Centralna granična teorema glasi: Ako je očekivana vrednost populacije m, a varijansa σ², kad n neograničeno raste, raspodela sredine uzorka obima n teži:",
-    "options": [
-      {
-        "text": "a. Studentovoj raspodeli sa n stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "b. Normalnoj raspodeli sa očekivanjem m i varijansom σ²/(n-1)",
-        "correct": false
-      },
-      {
-        "text": "c. Normalnoj raspodeli sa očekivanjem m i varijansom σ²",
-        "correct": false
-      },
-      {
-        "text": "d. Normalnoj raspodeli sa očekivanjem m i varijansom σ²/n",
-        "correct": true
-      },
-      {
-        "text": "e. Studentovoj raspodeli sa n-1 stepeni slobode",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Studentovoj raspodeli sa n stepeni slobode",
+      "b": "Normalnoj raspodeli sa očekivanjem m i varijansom σ²/(n-1)",
+      "c": "Normalnoj raspodeli sa očekivanjem m i varijansom σ²",
+      "d": "Normalnoj raspodeli sa očekivanjem m i varijansom σ²/n",
+      "e": "Studentovoj raspodeli sa n-1 stepeni slobode"
+    },
+    "answer": "d"
   },
   {
     "question": "Lančani indeksi:",
-    "options": [
-      {
-        "text": "a. služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na jedan trenutak merenja sa kojim želimo da poredimo nastale promene",
-        "correct": false
-      },
-      {
-        "text": "b. služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na niz trenutaka merenja sa kojima želimo da poredimo nastale promene",
-        "correct": false
-      },
-      {
-        "text": "c. su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u narednom trenutku merenja t+1",
-        "correct": false
-      },
-      {
-        "text": "d. su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u prethodnom trenutku merenja t-1",
-        "correct": true
-      },
-      {
-        "text": "e. ništa od navedenog",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na jedan trenutak merenja sa kojim želimo da poredimo nastale promene",
+      "b": "služe za iskazivanje promene posmatranog obeležja u vremenskoj seriji u odnosu na niz trenutaka merenja sa kojima želimo da poredimo nastale promene",
+      "c": "su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u narednom trenutku merenja t+1",
+      "d": "su količnici vrednosti obeležja X u trenutku t i njegove vrednosti u prethodnom trenutku merenja t-1",
+      "e": "ništa od navedenog"
+    },
+    "answer": "d"
   },
   {
-    "question": "Ako je tačna nulta hipoteza H0 (m = m0), uzorak dovoljno velik i ako je poznata varijansa populacije, statistika t = (x̄ – m0) √n / σ ima raspodelu:",
-    "options": [
-      {
-        "text": "a. Normalnu raspodelu sa očekivanjem 1 i varijansom 0",
-        "correct": false
-      },
-      {
-        "text": "b. Normalnu raspodelu sa očekivanjem 0 i varijansom σ²",
-        "correct": false
-      },
-      {
-        "text": "c. Studentovu raspodelu sa n-1 stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "d. Studentovu raspodelu sa n stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "e. Normalnu raspodelu sa očekivanjem 0 i varijansom 1",
-        "correct": true
-      }
-    ]
+    "question": "Ako je tačna nulta hipoteza H0 (m = m0), uzorak dovoljno velik i ako je poznata varijansa populacije, statistika",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "t = (x̄ – m0) √n / σ ima raspodelu:",
+    "options": {
+      "a": "Normalnu raspodelu sa očekivanjem 1 i varijansom 0",
+      "b": "Normalnu raspodelu sa očekivanjem 0 i varijansom σ²",
+      "c": "Studentovu raspodelu sa n-1 stepeni slobode",
+      "d": "Studentovu raspodelu sa n stepeni slobode",
+      "e": "Normalnu raspodelu sa očekivanjem 0 i varijansom 1"
+    },
+    "answer": "e"
   },
   {
     "question": "Neka je X1, X2, ..., Xn1 uzorak iz populacije sa Normalnom raspodelom i parametrima m1 i σ1², a X'1, X'2, ..., X'n2 uzorak iz populacije sa parametrima m2 i σ2². Statistika x̄1 – x̄2 će imati Normalnu raspodelu sa parametrima:",
-    "options": [
-      {
-        "text": "a. E(x̄1 – x̄2) = m1 m2, Var(x̄1 – x̄2) = σ1²/n1 · σ2²/n2",
-        "correct": false
-      },
-      {
-        "text": "b. E(x̄1 – x̄2) = m1 – m2, Var(x̄1 – x̄2) = σ1²/n1 · σ2²/n2",
-        "correct": false
-      },
-      {
-        "text": "c. E(x̄1 – x̄2) = m1 m2, Var(x̄1 – x̄2) = σ1²/n1 + σ2²/n2",
-        "correct": false
-      },
-      {
-        "text": "d. E(x̄1 – x̄2) = m1 – m1, Var(x̄1 – x̄2) = σ1²/n1 – σ2²/n2",
-        "correct": false
-      },
-      {
-        "text": "e. E(x̄1 – x̄2) = m1 – m2, Var(x̄1 – x̄2) = σ1²/n1 + σ2²/n2",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "E(x̄1 – x̄2) = m1 m2, Var(x̄1 – x̄2) = σ1²/n1 · σ2²/n2",
+      "b": "E(x̄1 – x̄2) = m1 – m2, Var(x̄1 – x̄2) = σ1²/n1 · σ2²/n2",
+      "c": "E(x̄1 – x̄2) = m1 m2, Var(x̄1 – x̄2) = σ1²/n1 + σ2²/n2",
+      "d": "E(x̄1 – x̄2) = m1 – m1, Var(x̄1 – x̄2) = σ1²/n1 – σ2²/n2",
+      "e": "E(x̄1 – x̄2) = m1 – m2, Var(x̄1 – x̄2) = σ1²/n1 + σ2²/n2"
+    },
+    "answer": "e"
   },
   {
     "question": "Kod normalne raspodele, estimator s² = (1/n) Σ (Xi – X̄)² je:",
-    "options": [
-      {
-        "text": "a. nepristrasna ocena varijanse populacije",
-        "correct": true
-      },
-      {
-        "text": "b. pozitivno pristrasna ocena varijanse populacije",
-        "correct": false
-      },
-      {
-        "text": "c. negativno pristrasna ocena varijanse populacije",
-        "correct": false
-      },
-      {
-        "text": "d. nijedno od navedenog",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "nepristrasna ocena varijanse populacije",
+      "b": "pozitivno pristrasna ocena varijanse populacije",
+      "c": "negativno pristrasna ocena varijanse populacije",
+      "d": "nijedno od navedenog"
+    },
+    "answer": "a"
   },
   {
     "question": "Sa povećanjem veličine uzorka, kada n → ∞, sredina uzorka:",
-    "options": [
-      {
-        "text": "a. teži 0",
-        "correct": false
-      },
-      {
-        "text": "b. teži –∞",
-        "correct": false
-      },
-      {
-        "text": "c. ne menja se",
-        "correct": false
-      },
-      {
-        "text": "d. teži m",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "teži 0",
+      "b": "teži –∞",
+      "c": "ne menja se",
+      "d": "teži m"
+    },
+    "answer": "d"
   },
   {
     "question": "Za isti nivo poverenja, tačna je sledeća tvrdnja:",
-    "options": [
-      {
-        "text": "a. Interval poverenja za obim uzorka n biće uži od intervala poverenja za obim uzorka n+k",
-        "correct": false
-      },
-      {
-        "text": "b. Ne mogu se porediti dužine intervala poverenja za obim uzorka n i obim uzorka n+k",
-        "correct": false
-      },
-      {
-        "text": "c. Interval poverenja za obim uzorka n biće širi od intervala poverenja za obim uzorka n+k",
-        "correct": true
-      },
-      {
-        "text": "d. Interval poverenja za obim uzorka n biće jednake dužine kao i interval poverenja za obim uzorka n+k",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Interval poverenja za obim uzorka n biće uži od intervala poverenja za obim uzorka n+k",
+      "b": "Ne mogu se porediti dužine intervala poverenja za obim uzorka n i obim uzorka n+k",
+      "c": "Interval poverenja za obim uzorka n biće širi od intervala poverenja za obim uzorka n+k",
+      "d": "Interval poverenja za obim uzorka n biće jednake dužine kao i interval poverenja za obim uzorka n+k",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Kod Normalne raspodele sa nepoznatom očekivanom vrednošću m, odnos Var(Me) / Var(X̄):",
-    "options": [
-      {
-        "text": "a. π/2",
-        "correct": true
-      },
-      {
-        "text": "b. 1",
-        "correct": false
-      },
-      {
-        "text": "c. 2/π",
-        "correct": false
-      },
-      {
-        "text": "d. π/3",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "Ukoliko testiramo hipotezu da obeležje X podleže Normalnoj raspodeli korišćenjem testa Kolmogorov-Smirnov, a vrednost statistike D = 0, možemo zaključiti da:",
-    "options": [
-      {
-        "text": "a. X podleže Normalnoj raspodeli",
-        "correct": true
-      },
-      {
-        "text": "b. X ne podleže Normalnoj raspodeli",
-        "correct": false
-      },
-      {
-        "text": "c. Zaključak nije moguće doneti zato što u verbalnom opisu nemam informaciju kolika je kritična vrednost raspodele",
-        "correct": false
-      },
-      {
-        "text": "d. Zaključak nije moguće doneti zato što prethodno nisam uradio/la Mann-Whitney U test",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "π/2",
+      "b": "1",
+      "c": "2/π",
+      "d": "π/3",
+      "e": "Ne znam"
+    },
+    "answer": "a"
   },
   {
     "question": "Želimo da proverimo da li se muškarci i žene razlikuju u pogledu koliko para potroše u šopingu. Uzeli smo 18 žena i prikupili egzaktne podatke o potrošnji. Testiranje normaliteta je sprovedeno kroz Kolmogorov-Smirnov test (D=0.08, D0=0.059) i sledeći korak u analizi je:",
-    "options": [
-      {
-        "text": "a. ANOVA",
-        "correct": false
-      },
-      {
-        "text": "b. t-test",
-        "correct": true
-      },
-      {
-        "text": "c. Wald-Wolfowitz test",
-        "correct": false
-      },
-      {
-        "text": "d. Test koraka za jedan uzorak",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "ANOVA",
+      "b": "t-test",
+      "c": "Wald-Wolfowitz test",
+      "d": "Test koraka za jedan uzorak"
+    },
+    "answer": "b"
   },
   {
     "question": "U prostom linearnom regresionom modelu, parametri dobijeni primenom metode najmanjih kvadrata, uz pretpostavke modela, imaju:",
-    "options": [
-      {
-        "text": "a. Studentovu raspodelu",
-        "correct": false
-      },
-      {
-        "text": "b. Hi-kvadrat raspodelu",
-        "correct": false
-      },
-      {
-        "text": "c. Normalnu raspodelu",
-        "correct": true
-      },
-      {
-        "text": "d. Puasonovu raspodelu",
-        "correct": false
-      }
-    ]
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "a) Studentovu raspodelu",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "b) Hi-kvadrat raspodelu",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "c) *Normalnu raspodelu",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "d) Puasonovu raspodelu",
+    "options": {},
+    "answer": null
   },
   {
     "question": "U prostom linearnom regresionom modelu, slučajna promenljiva ε podleže:",
-    "options": [
-      {
-        "text": "a. F raspodeli",
-        "correct": false
-      },
-      {
-        "text": "b. Hi-kvadrat raspodeli",
-        "correct": false
-      },
-      {
-        "text": "c. t raspodeli",
-        "correct": false
-      },
-      {
-        "text": "d. N(0, σ²)",
-        "correct": true
-      }
-    ]
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "a) F raspodeli",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "b) Hi-kvadrat raspodeli",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "c) t raspodeli",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "d) *N(0, σ²)",
+    "options": {},
+    "answer": null
   },
   {
     "question": "Hi-kvadrat test posmatra razlike između izmerenih i očekivanih:",
-    "options": [
-      {
-        "text": "a. relativnih frekvencija",
-        "correct": false
-      },
-      {
-        "text": "b. apsolutnih frekvencija",
-        "correct": true
-      },
-      {
-        "text": "c. intervala",
-        "correct": false
-      },
-      {
-        "text": "d. ništa od navedenog",
-        "correct": false
-      }
-    ]
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "a) relativnih frekvencija",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "b) *apsolutnih frekvencija",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "c) intervala",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "d) ništa od navedenog",
+    "options": {},
+    "answer": null
   },
   {
     "question": "Srednja kvadratna greška ocene parametra je:",
-    "options": [
-      {
-        "text": "a. varijansa razlike između ocene parametra i prave vrednosti parametra",
-        "correct": false
-      },
-      {
-        "text": "b. očekivana vrednost kvadrata razlike između ocene parametra i prave vrednosti parametra",
-        "correct": true
-      },
-      {
-        "text": "c. očekivana vrednost razlike između ocene parametra i prave vrednosti parametra",
-        "correct": false
-      },
-      {
-        "text": "d. varijansa kvadrata razlike između ocene parametra i prave vrednosti parametra",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "a) varijansa razlike između ocene parametra i prave vrednosti parametra",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "b) *očekivana vrednost kvadrata razlike između ocene parametra i prave vrednosti parametra",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "c) očekivana vrednost razlike između ocene parametra i prave vrednosti parametra",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "d) varijansa kvadrata razlike između ocene parametra i prave vrednosti parametra",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "e) Ne znam",
+    "options": {},
+    "answer": null
   },
   {
     "question": "Testom saglasnosti se može zaključiti da li:",
-    "options": [
-      {
-        "text": "a. Obeležje na populaciji ima datu raspodelu",
-        "correct": true
-      },
-      {
-        "text": "b. Su dva uzorka iz iste populacije",
-        "correct": false
-      },
-      {
-        "text": "c. Su vrednosti matematičkih očekivanja jednake",
-        "correct": false
-      },
-      {
-        "text": "d. Su vrednosti varijansi jednake",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "a) *Obeležje na populaciji ima datu raspodelu",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "b) Su dva uzorka iz iste populacije",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "c) Su vrednosti matematičkih očekivanja jednake",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "d) Su vrednosti varijansi jednake",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "e) Ne znam",
+    "options": {},
+    "answer": null
   },
   {
     "question": "Ako je, kod Wald-Wolfowitz testa koraka, tačna nulta hipoteza da su elementi dva uzorka iz iste populacije, statistika   τ = (K - E(K)) / √Var(K) ima približno:",
-    "options": [
-      {
-        "text": "a. Studentovu raspodelu sa n-1 stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "b. Hi-kvadrat raspodelu sa n-1 stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "c. Normalnu raspodelu sa očekivanjem 0 i varijansom 1",
-        "correct": true
-      },
-      {
-        "text": "d. Studentovu raspodelu sa n-k-1 stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "a) Studentovu raspodelu sa n-1 stepeni slobode",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "b) Hi-kvadrat raspodelu sa n-1 stepeni slobode",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "c) *Normalnu raspodelu sa očekivanjem 0 i varijansom 1",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "d) Studentovu raspodelu sa n-k-1 stepeni slobode",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "e) Ne znam",
+    "options": {},
+    "answer": null
   },
   {
     "question": "U mere centralne tendencije ne spada:",
-    "options": [
-      {
-        "text": "a. Koeficijent korelacije",
-        "correct": true
-      },
-      {
-        "text": "b. Aritmetička sredina",
-        "correct": false
-      },
-      {
-        "text": "c. Geometrijska sredina",
-        "correct": false
-      },
-      {
-        "text": "d. Medijana",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "a) *Koeficijent korelacije",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "b) Aritmetička sredina",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "c) Geometrijska sredina",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "d) Medijana",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "e) Ne znam",
+    "options": {},
+    "answer": null
   },
   {
     "question": "Kod jednofaktorske analize varijanse, varijabilitet između uzoraka se računa kao:",
-    "options": [
-      {
-        "text": "a. T₁² = ∑ nᵢ(ȳᵢ - ȳ)",
-        "correct": false
-      },
-      {
-        "text": "b. T₁² = ∑ nᵢ(yᵢ - ȳ)²",
-        "correct": false
-      },
-      {
-        "text": "c. T₁² = ∑ nᵢ(ȳᵢ - ȳ)²",
-        "correct": true
-      },
-      {
-        "text": "d. T₁² = ∑ nᵢ(yᵢ - ȳ)",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "a) T₁² = ∑ nᵢ(ȳᵢ - ȳ)",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "b) T₁² = ∑ nᵢ(yᵢ - ȳ)²",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "c) *T₁² = ∑ nᵢ(ȳᵢ - ȳ)²",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "d) T₁² = ∑ nᵢ(yᵢ - ȳ)",
+    "options": {},
+    "answer": null
+  },
+  {
+    "question": "e) Ne znam",
+    "options": {},
+    "answer": null
   },
   {
     "question": "U prostom linearnom regresionom modelu, slučajna promenljiva ε podleže:",
-    "options": [
-      {
-        "text": "a. χ²₍₍ᵣ₋₁₎·₍ₛ₋₁₎₎",
-        "correct": false
-      },
-      {
-        "text": "b. t₍ₙ₋₂₎",
-        "correct": false
-      },
-      {
-        "text": "c. F₍ₖ₋₁,ₙ₋ₖ₎",
-        "correct": false
-      },
-      {
-        "text": "d. N(0, σ²)",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "χ²₍₍ᵣ₋₁₎·₍ₛ₋₁₎₎",
+      "b": "t₍ₙ₋₂₎",
+      "c": "F₍ₖ₋₁,ₙ₋ₖ₎",
+      "d": "N(0, σ²)"
+    },
+    "answer": "d"
   },
   {
     "question": "Što je vrednost koeficijenta determinacije bliža broju 1, udeo objašnjenog u ukupnom varijabilitetu promenljive je:",
-    "options": [
-      {
-        "text": "a. manji",
-        "correct": false
-      },
-      {
-        "text": "b. veći",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "manji",
+      "b": "veći"
+    },
+    "answer": "b"
   },
   {
     "question": "Pokazatelj kvaliteta regresionog modela je koeficijent determinacije.",
-    "options": [
-      {
-        "text": "a. Tačno",
-        "correct": true
-      },
-      {
-        "text": "b. Netačno",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Tačno",
+      "b": "Netačno"
+    },
+    "answer": "a"
   },
   {
     "question": "U linearnom regresionom modelu, kao ocene slučajnih odstupanja εᵢ koriste se:",
-    "options": [
-      {
-        "text": "a. reziduali eᵢ",
-        "correct": true
-      },
-      {
-        "text": "b. faktori Tᵢ",
-        "correct": false
-      },
-      {
-        "text": "c. očekivane vrednosti Studentove raspodele sa n-2 stepeni slobode",
-        "correct": false
-      },
-      {
-        "text": "d. sume kvadrata horizontalnih odstupanja",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "reziduali eᵢ",
+      "b": "faktori Tᵢ",
+      "c": "očekivane vrednosti Studentove raspodele sa n-2 stepeni slobode",
+      "d": "sume kvadrata horizontalnih odstupanja"
+    },
+    "answer": "a"
   },
   {
     "question": "Kod analize varijanse:",
-    "options": [
-      {
-        "text": "a. Ispitujemo uticaj kontinualnog faktora na kontinualno obeležje",
-        "correct": false
-      },
-      {
-        "text": "b. Ispitujemo uticaj kategorijskog faktora na kategorijsko obeležje",
-        "correct": false
-      },
-      {
-        "text": "c. Ispitujemo uticaj kontinualnog faktora na kategorijsko obeležje",
-        "correct": false
-      },
-      {
-        "text": "d. Ispitujemo uticaj kategorijskog faktora na kontinualno obeležje",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "Ispitujemo uticaj kontinualnog faktora na kontinualno obeležje",
+      "b": "Ispitujemo uticaj kategorijskog faktora na kategorijsko obeležje",
+      "c": "Ispitujemo uticaj kontinualnog faktora na kategorijsko obeležje",
+      "d": "Ispitujemo uticaj kategorijskog faktora na kontinualno obeležje"
+    },
+    "answer": "d"
   },
   {
     "question": "Ukoliko želimo da uporedimo varijabilitet cene stanova i varijabilitet gramaže, treba koristiti:",
-    "options": [
-      {
-        "text": "a. Srednju devijaciju",
-        "correct": false
-      },
-      {
-        "text": "b. Varijansu",
-        "correct": false
-      },
-      {
-        "text": "c. Standardnu devijaciju",
-        "correct": false
-      },
-      {
-        "text": "d. Koeficijent varijacije",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Srednju devijaciju",
+      "b": "Varijansu",
+      "c": "Standardnu devijaciju",
+      "d": "Koeficijent varijacije",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Na slučajan način se bira prvi element, a zatim se iz populacije uzima svaki k-ti, uzorak nazivamo:",
-    "options": [
-      {
-        "text": "a. prost slučajan uzorak",
-        "correct": false
-      },
-      {
-        "text": "b. uzorak skupina",
-        "correct": false
-      },
-      {
-        "text": "c. sistematski uzorak",
-        "correct": true
-      },
-      {
-        "text": "d. stratifikovani uzorak",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "prost slučajan uzorak",
+      "b": "uzorak skupina",
+      "c": "sistematski uzorak",
+      "d": "stratifikovani uzorak",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Neprekidno (kontinualno) obeležje možemo podeliti na interval verodostojnosti?",
-    "options": [
-      {
-        "text": "a. Košijeve teoreme",
-        "correct": false
-      },
-      {
-        "text": "b. Sturgesovog pravila",
-        "correct": true
-      },
-      {
-        "text": "c. Metode maksimalne verodostojnosti",
-        "correct": false
-      },
-      {
-        "text": "d. Metode najmanjih kvadrata",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Košijeve teoreme",
+      "b": "Sturgesovog pravila",
+      "c": "Metode maksimalne verodostojnosti",
+      "d": "Metode najmanjih kvadrata",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Zbir odstupanja vrednosti obeležja X na posmatranom skupu od njihove aritmetičke sredine, ∑(Xi - X̄), je jednako:",
-    "options": [
-      {
-        "text": "a. S²",
-        "correct": false
-      },
-      {
-        "text": "b. 0",
-        "correct": true
-      },
-      {
-        "text": "c. S",
-        "correct": false
-      },
-      {
-        "text": "d. em",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "S²",
+      "b": "0",
+      "c": "S",
+      "d": "em",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Moć testa 1 - β ima minimalnu vrednost kada je:",
-    "options": [
-      {
-        "text": "a. m > m₀",
-        "correct": false
-      },
-      {
-        "text": "b. Vrednost moći testa ne zavisi od m",
-        "correct": false
-      },
-      {
-        "text": "c. m < m₀",
-        "correct": false
-      },
-      {
-        "text": "d. m = m₀",
-        "correct": true
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "m > m₀",
+      "b": "Vrednost moći testa ne zavisi od m",
+      "c": "m < m₀",
+      "d": "m = m₀",
+      "e": "Ne znam"
+    },
+    "answer": "d"
   },
   {
     "question": "Interval poverenja za m, kada je varijansa populacije σ² nije poznata, glasi:",
-    "options": [
-      {
-        "text": "a. (x̄ - t₀ * (s / √(n+1)) ; x̄ + t₀ * (s / √(n+1)))",
-        "correct": false
-      },
-      {
-        "text": "b. (x̄ - t₀ * (s² / √(n+1)) ; x̄ + t₀ * (s² / √(n+1)))",
-        "correct": false
-      },
-      {
-        "text": "c. (x̄ - t₀ * (s / √(n-2)) ; x̄ + t₀ * (s / √(n-2)))",
-        "correct": false
-      },
-      {
-        "text": "d. (x̄ - t₀ * (s / √(n-1)) ; x̄ + t₀ * (s / √(n-1)))",
-        "correct": true
-      },
-      {
-        "text": "e. (x̄ - t₀ * (s² / √(n-1)) ; x̄ + t₀ * (s² / √(n-1)))",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "(x̄ - t₀ * (s / √(n+1)) ; x̄ + t₀ * (s / √(n+1)))",
+      "b": "(x̄ - t₀ * (s² / √(n+1)) ; x̄ + t₀ * (s² / √(n+1)))",
+      "c": "(x̄ - t₀ * (s / √(n-2)) ; x̄ + t₀ * (s / √(n-2)))",
+      "d": "(x̄ - t₀ * (s / √(n-1)) ; x̄ + t₀ * (s / √(n-1)))",
+      "e": "(x̄ - t₀ * (s² / √(n-1)) ; x̄ + t₀ * (s² / √(n-1)))"
+    },
+    "answer": "d"
   },
   {
     "question": "Test Kolmogorov-Smirnov za jedan uzorak spada u kategoriju:",
-    "options": [
-      {
-        "text": "a. testova nezavisnosti",
-        "correct": false
-      },
-      {
-        "text": "b. testova saglasnosti",
-        "correct": true
-      },
-      {
-        "text": "c. testova kategorizovanih podataka",
-        "correct": false
-      },
-      {
-        "text": "d. testova slučajnosti uzorka",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "testova nezavisnosti",
+      "b": "testova saglasnosti",
+      "c": "testova kategorizovanih podataka",
+      "d": "testova slučajnosti uzorka"
+    },
+    "answer": "b"
   },
   {
     "question": "Ocene b₀ i b₁, dobijene metodom najmanjih kvadrata, predstavljaju najbolje nepristrasne linearne ocene regresionih parametara β₀ i β₁ u sledećem smislu:",
-    "options": [
-      {
-        "text": "a. varijanse bilo kojih drugih nepristrasnih linearnih ocena, biće veće od varijansi ovih ocena",
-        "correct": true
-      },
-      {
-        "text": "b. varijanse bilo kojih drugih nepristrasnih linearnih ocena biće jednake 0",
-        "correct": false
-      },
-      {
-        "text": "c. varijanse bilo kojih drugih nepristrasnih linearnih ocena, biće iste kao varijanse ovih ocena",
-        "correct": false
-      },
-      {
-        "text": "d. varijanse bilo kojih drugih nepristrasnih linearnih ocena, biće manje od varijansi ovih ocena",
-        "correct": false
-      },
-      {
-        "text": "e. ništa od navedenog",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "varijanse bilo kojih drugih nepristrasnih linearnih ocena, biće veće od varijansi ovih ocena",
+      "b": "varijanse bilo kojih drugih nepristrasnih linearnih ocena biće jednake 0",
+      "c": "varijanse bilo kojih drugih nepristrasnih linearnih ocena, biće iste kao varijanse ovih ocena",
+      "d": "varijanse bilo kojih drugih nepristrasnih linearnih ocena, biće manje od varijansi ovih ocena",
+      "e": "ništa od navedenog"
+    },
+    "answer": "a"
   },
   {
     "question": "Na slučajan način se bira prvi element, a zatim se iz populacije uzima svaki k-ti element (svaki peti, deseti i sl.). Takav uzorak nazivamo:",
-    "options": [
-      {
-        "text": "a. uzorak skupina",
-        "correct": false
-      },
-      {
-        "text": "b. sistematski uzorak",
-        "correct": true
-      },
-      {
-        "text": "c. prost slučajan uzorak",
-        "correct": false
-      },
-      {
-        "text": "d. stratifikovani uzorak",
-        "correct": false
-      },
-      {
-        "text": "e. ništa od navedenog",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "uzorak skupina",
+      "b": "sistematski uzorak",
+      "c": "prost slučajan uzorak",
+      "d": "stratifikovani uzorak",
+      "e": "ništa od navedenog"
+    },
+    "answer": "b"
   },
   {
     "question": "Za uzorak X₁, …, Xₙ iz Binomne raspodele sa nepoznatim parametrom p, dovoljna statistika je:",
-    "options": [
-      {
-        "text": "a. Z = Σⁿᵢ₌₁ (Xᵢ / σᵢ²)",
-        "correct": false
-      },
-      {
-        "text": "b. Z = Σⁿᵢ₌₁ (Xᵢ² / σᵢ²)",
-        "correct": false
-      },
-      {
-        "text": "c. Z = Σⁿᵢ₌₁ (Xᵢ / σᵢ)",
-        "correct": false
-      },
-      {
-        "text": "d. Z = Σⁿᵢ₌₁ Xᵢ",
-        "correct": true
-      },
-      {
-        "text": "e. Z = Σⁿᵢ₌₁ Xᵢ²",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Z = Σⁿᵢ₌₁ (Xᵢ / σᵢ²)",
+      "b": "Z = Σⁿᵢ₌₁ (Xᵢ² / σᵢ²)",
+      "c": "Z = Σⁿᵢ₌₁ (Xᵢ / σᵢ)",
+      "d": "Z = Σⁿᵢ₌₁ Xᵢ",
+      "e": "Z = Σⁿᵢ₌₁ Xᵢ²"
+    },
+    "answer": "d"
   },
   {
     "question": "U statističkoj praksi se koriste sledeće kategorije relativnih brojeva:",
-    "options": [
-      {
-        "text": "a. zakoni verovatnoća, relativni pokazatelji i indeksi",
-        "correct": false
-      },
-      {
-        "text": "b. proporcije, zakoni verovatnoća i indeksi",
-        "correct": false
-      },
-      {
-        "text": "c. proporcije, relativni pokazatelji i indeksi",
-        "correct": true
-      },
-      {
-        "text": "d. proporcije, relativni pokazatelji i zakoni verovatnoća",
-        "correct": false
-      },
-      {
-        "text": "e. ništa od navedenog",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "zakoni verovatnoća, relativni pokazatelji i indeksi",
+      "b": "proporcije, zakoni verovatnoća i indeksi",
+      "c": "proporcije, relativni pokazatelji i indeksi",
+      "d": "proporcije, relativni pokazatelji i zakoni verovatnoća",
+      "e": "ništa od navedenog"
+    },
+    "answer": "c"
   },
   {
     "question": "Medijana je:",
-    "options": [
-      {
-        "text": "a. Srednje kvadratno odstupanje promenljive od njene očekivane vrednosti ili sredine",
-        "correct": false
-      },
-      {
-        "text": "b. Zbir svih vrednosti obeležja podeljen brojem elemenata",
-        "correct": false
-      },
-      {
-        "text": "c. Recipročna vrednost aritmetičke sredine recipročnih vrednosti obeležja",
-        "correct": false
-      },
-      {
-        "text": "d. Vrednost obeležja koja ima najveću frekvenciju u skupu elemenata ili u funkciji gustine",
-        "correct": false
-      },
-      {
-        "text": "e. Vrednost obeležja koja deli statistički skup na dva jednaka dela",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "Srednje kvadratno odstupanje promenljive od njene očekivane vrednosti ili sredine",
+      "b": "Zbir svih vrednosti obeležja podeljen brojem elemenata",
+      "c": "Recipročna vrednost aritmetičke sredine recipročnih vrednosti obeležja",
+      "d": "Vrednost obeležja koja ima najveću frekvenciju u skupu elemenata ili u funkciji gustine",
+      "e": "Vrednost obeležja koja deli statistički skup na dva jednaka dela"
+    },
+    "answer": "e"
   },
   {
     "question": "Ako kod modela jednofaktorske analize varijanse slučajna promenljiva ui predstavlja efekte nenumeričkih faktora, ona tada ima sledeću raspodelu:",
-    "options": [
-      {
-        "text": "a. Ei : F1,n-1",
-        "correct": false
-      },
-      {
-        "text": "b. Ei : N(0,σ²)",
-        "correct": true
-      },
-      {
-        "text": "c. Ei : N(m,σ²)",
-        "correct": false
-      },
-      {
-        "text": "d. Ei : t1,n-1",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "Ei : F1,n-1",
+      "b": "Ei : N(0,σ²)",
+      "c": "Ei : N(m,σ²)",
+      "d": "Ei : t1,n-1",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Greška drugog tipa je greška koju pravimo ako:",
-    "options": [
-      {
-        "text": "a. prihvatimo hipotezu H0, a ona je tačna",
-        "correct": false
-      },
-      {
-        "text": "b. odbacimo hipotezu H0, a ona nije tačna",
-        "correct": false
-      },
-      {
-        "text": "c. prihvatimo hipotezu H0, a ona je lažna",
-        "correct": true
-      },
-      {
-        "text": "d. odbacimo hipotezu H0, a ona nije tačna",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "prihvatimo hipotezu H0, a ona je tačna",
+      "b": "odbacimo hipotezu H0, a ona nije tačna",
+      "c": "prihvatimo hipotezu H0, a ona je lažna",
+      "d": "odbacimo hipotezu H0, a ona nije tačna",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Cauchy-jeva teorema glasi:",
-    "options": [
-      {
-        "text": "a. G < H < X̄",
-        "correct": false
-      },
-      {
-        "text": "b. H < G < X̄",
-        "correct": true
-      },
-      {
-        "text": "c. X̄ < G < H",
-        "correct": false
-      },
-      {
-        "text": "d. X̄ < H < G",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "G < H < X̄",
+      "b": "H < G < X̄",
+      "c": "X̄ < G < H",
+      "d": "X̄ < H < G",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   },
   {
     "question": "Kod testiranja hipoteze o varijansi, najčešće donosioca odluke interesuje da li je:",
-    "options": [
-      {
-        "text": "a. varijansa manja od neke unapred određene vrednosti",
-        "correct": false
-      },
-      {
-        "text": "b. varijansa različita od neke unapred određene vrednosti",
-        "correct": false
-      },
-      {
-        "text": "c. varijansa veća od neke unapred određene vrednosti",
-        "correct": true
-      },
-      {
-        "text": "d. varijansa jednaka nekoj određenoj vrednosti",
-        "correct": false
-      },
-      {
-        "text": "e. Ne znam",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "varijansa manja od neke unapred određene vrednosti",
+      "b": "varijansa različita od neke unapred određene vrednosti",
+      "c": "varijansa veća od neke unapred određene vrednosti",
+      "d": "varijansa jednaka nekoj određenoj vrednosti",
+      "e": "Ne znam"
+    },
+    "answer": "c"
   },
   {
     "question": "Ako je D > D0, nulta hipoteza se odbacuje:",
-    "options": [
-      {
-        "text": "a. X podleže normalnoj raspodeli",
-        "correct": false
-      },
-      {
-        "text": "b. X ne podleže normalnoj raspodeli",
-        "correct": true
-      },
-      {
-        "text": "c. Zaključak ne možemo doneti jer nemamo informaciju koliki je rizik greške",
-        "correct": false
-      },
-      {
-        "text": "d. Zato što nije urađen Mann-Whitney test",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "X podleže normalnoj raspodeli",
+      "b": "X ne podleže normalnoj raspodeli",
+      "c": "Zaključak ne možemo doneti jer nemamo informaciju koliki je rizik greške",
+      "d": "Zato što nije urađen Mann-Whitney test"
+    },
+    "answer": "b"
   },
   {
     "question": "Rezultat n nezavisnih ponavljanja eksperimenta biće skup slučajnih promenljivih X1, X2, …, Xn koje su međusobno nezavisne i sve imaju istu raspodelu kao i slučajna promenljiva X. (X1, X2, …, Xn) predstavlja:",
-    "options": [
-      {
-        "text": "a. prost slučajan uzorak",
-        "correct": true
-      },
-      {
-        "text": "b. sistematski uzorak",
-        "correct": false
-      },
-      {
-        "text": "c. stratifikovani uzorak",
-        "correct": false
-      },
-      {
-        "text": "d. uzorak skupina",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "prost slučajan uzorak",
+      "b": "sistematski uzorak",
+      "c": "stratifikovani uzorak",
+      "d": "uzorak skupina"
+    },
+    "answer": "a"
   },
   {
     "question": "Ako posmatramo normalnu raspodelu sa nepoznatom očekivanom vrednošću m, onda važi:",
-    "options": [
-      {
-        "text": "a. E(X̄ - m)² < E(M̂e - m)²",
-        "correct": true
-      },
-      {
-        "text": "b. E(X̄ - m)² > E(M̂e - m)²",
-        "correct": false
-      },
-      {
-        "text": "c. E(X̄ - m)² = E(M̂e - m)²",
-        "correct": false
-      },
-      {
-        "text": "d. Ništa od navedenog nije tačno",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "E(X̄ - m)² < E(M̂e - m)²",
+      "b": "E(X̄ - m)² > E(M̂e - m)²",
+      "c": "E(X̄ - m)² = E(M̂e - m)²",
+      "d": "Ništa od navedenog nije tačno"
+    },
+    "answer": "a"
   },
   {
     "question": "Koje od navedenih tvrdjenja nije tačno u linearnom regresionom modelu Yi = β0 + β1Xi + εi:",
-    "options": [
-      {
-        "text": "a. Standardna greška regresionog modela predstavlja koren nepristrasne ocene varijanse promenljive εi",
-        "correct": false
-      },
-      {
-        "text": "b. Ako slučajna promenljiva Y ima normalnu raspodelu, statistike b0 i b1 takođe imaju normalnu raspodelu",
-        "correct": false
-      },
-      {
-        "text": "c. Za dovoljno veliki uzorak, na osnovu CGT, statistike b0 i b1 će imati približno normalnu raspodelu (bez obzira na raspodelu obeležja)",
-        "correct": false
-      },
-      {
-        "text": "d. Koeficijent α predstavlja prosečnu promenu nezavisne promenljive kada se zavisna promenljiva poveća za jedinicu",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "Standardna greška regresionog modela predstavlja koren nepristrasne ocene varijanse promenljive εi",
+      "b": "Ako slučajna promenljiva Y ima normalnu raspodelu, statistike b0 i b1 takođe imaju normalnu raspodelu",
+      "c": "Za dovoljno veliki uzorak, na osnovu CGT, statistike b0 i b1 će imati približno normalnu raspodelu (bez obzira na raspodelu obeležja)",
+      "d": "Koeficijent α predstavlja prosečnu promenu nezavisne promenljive kada se zavisna promenljiva poveća za jedinicu"
+    },
+    "answer": "d"
   },
   {
     "question": "Kod analize varijanse, ukoliko posmatrani faktor ne utiče na obeležje:",
-    "options": [
-      {
-        "text": "a. srednje vrednosti će biti jednake",
-        "correct": true
-      },
-      {
-        "text": "b. srednje vrednosti će se razlikovati",
-        "correct": false
-      },
-      {
-        "text": "c. srednje vrednosti će obavezno rasti",
-        "correct": false
-      },
-      {
-        "text": "d. srednje vrednosti nemaju veze sa uticajem faktora",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "srednje vrednosti će biti jednake",
+      "b": "srednje vrednosti će se razlikovati",
+      "c": "srednje vrednosti će obavezno rasti",
+      "d": "srednje vrednosti nemaju veze sa uticajem faktora"
+    },
+    "answer": "a"
   },
   {
     "question": "Koje od navedenih tvrdjenja nije tačno?",
-    "options": [
-      {
-        "text": "a. U modelu jednofaktorske analize varijanse, posmatrani faktor pripada kontinuiranom tipu podataka",
-        "correct": true
-      },
-      {
-        "text": "b. Ocene efekata tretmana su razlike između prosečnih vrednosti uzoraka koji odgovaraju pojedinim tretmanima i prosečne vrednosti svih uzoraka, i to su linearne i nepristrasne ocene sa svim osobinama ocena najmanjih kvadrata",
-        "correct": false
-      },
-      {
-        "text": "c. Model jednofaktorske analize varijanse se može smatrati proširenjem t-testa za jednakost matematičkih očekivanja na više od dva uzorka",
-        "correct": false
-      },
-      {
-        "text": "d. U modelu jednofaktorske analize varijanse, kritična oblast je desnostrana",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "U modelu jednofaktorske analize varijanse, posmatrani faktor pripada kontinuiranom tipu podataka",
+      "b": "Ocene efekata tretmana su razlike između prosečnih vrednosti uzoraka koji odgovaraju pojedinim tretmanima i prosečne vrednosti svih uzoraka, i to su linearne i nepristrasne ocene sa svim osobinama ocena najmanjih kvadrata",
+      "c": "Model jednofaktorske analize varijanse se može smatrati proširenjem t-testa za jednakost matematičkih očekivanja na više od dva uzorka",
+      "d": "U modelu jednofaktorske analize varijanse, kritična oblast je desnostrana"
+    },
+    "answer": "a"
   },
   {
     "question": "Kod analize varijanse, reziduali predstavljaju:",
-    "options": [
-      {
-        "text": "a. efekte uticaja svih nemerljivih faktora",
-        "correct": true
-      },
-      {
-        "text": "b. efekte uticaja svih merljivih faktora",
-        "correct": false
-      },
-      {
-        "text": "c. efekte uticaja tretmana",
-        "correct": false
-      },
-      {
-        "text": "d. efekte uticaja prosečne vrednosti na celom skupu",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "efekte uticaja svih nemerljivih faktora",
+      "b": "efekte uticaja svih merljivih faktora",
+      "c": "efekte uticaja tretmana",
+      "d": "efekte uticaja prosečne vrednosti na celom skupu"
+    },
+    "answer": "a"
   },
   {
     "question": "Koeficijent determinacije može uzeti vrednosti:",
-    "options": [
-      {
-        "text": "a. [-1, 1]",
-        "correct": false
-      },
-      {
-        "text": "b. (-1, 0]",
-        "correct": false
-      },
-      {
-        "text": "c. (0, 1)",
-        "correct": false
-      },
-      {
-        "text": "d. [0, 1]",
-        "correct": true
-      }
-    ]
+    "options": {
+      "a": "[-1, 1]",
+      "b": "(-1, 0]",
+      "c": "(0, 1)",
+      "d": "[0, 1]"
+    },
+    "answer": "d"
   },
   {
     "question": "Greška prvog tipa je kad:",
-    "options": [
-      {
-        "text": "a. nultu hipotezu odbacimo, a ona je tačna",
-        "correct": true
-      },
-      {
-        "text": "b. nultu hipotezu odbacimo, a ona nije tačna",
-        "correct": false
-      },
-      {
-        "text": "c. nultu hipotezu prihvatimo, a ona je tačna",
-        "correct": false
-      },
-      {
-        "text": "d. nultu hipotezu prihvatimo, a ona nije tačna",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "nultu hipotezu odbacimo, a ona je tačna",
+      "b": "nultu hipotezu odbacimo, a ona nije tačna",
+      "c": "nultu hipotezu prihvatimo, a ona je tačna",
+      "d": "nultu hipotezu prihvatimo, a ona nije tačna"
+    },
+    "answer": "a"
   },
   {
     "question": "Statistika parametarskog testa za proveru nezavisnosti ima Studentovu raspodelu sa:",
-    "options": [
-      {
-        "text": "a. n-1",
-        "correct": false
-      },
-      {
-        "text": "b. n-2",
-        "correct": true
-      },
-      {
-        "text": "c. n-3",
-        "correct": false
-      },
-      {
-        "text": "d. nema Studentovu raspodelu",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "n-1",
+      "b": "n-2",
+      "c": "n-3",
+      "d": "nema Studentovu raspodelu"
+    },
+    "answer": "b"
   },
   {
     "question": "Ako je slučajnost u uzorku narušena zbog monotonosti očekivane vrednosti u populaciji, kritičnu oblast određujemo na sledeći način:",
-    "options": [
-      {
-        "text": "a. P{τ > zα / H0} = α",
-        "correct": false
-      },
-      {
-        "text": "b. P{τ ≤ zα / H0} = α",
-        "correct": true
-      },
-      {
-        "text": "c. P{τ > zα / H1} = α",
-        "correct": false
-      },
-      {
-        "text": "d. P{τ < zα / H0} = α",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "P{τ > zα / H0} = α",
+      "b": "P{τ ≤ zα / H0} = α",
+      "c": "P{τ > zα / H1} = α",
+      "d": "P{τ < zα / H0} = α"
+    },
+    "answer": "b"
   },
   {
     "question": "Ako smo slučajnu promenljivu X grupisali u šest intervala i želimo da testiramo da li X ∼ N(m,σ²), koristićemo Hi-kvadrat test sa:",
-    "options": [
-      {
-        "text": "a. tri stepena slobode",
-        "correct": true
-      },
-      {
-        "text": "b. četiri stepena slobode",
-        "correct": false
-      },
-      {
-        "text": "c. pet stepena slobode",
-        "correct": false
-      },
-      {
-        "text": "d. statistika podleže raspodeli koja nije Hi-kvadrat",
-        "correct": false
-      }
-    ]
+    "options": {
+      "a": "tri stepena slobode",
+      "b": "četiri stepena slobode",
+      "c": "pet stepena slobode",
+      "d": "statistika podleže raspodeli koja nije Hi-kvadrat"
+    },
+    "answer": "a"
+  },
+  {
+    "question": "Ako obeležje X ima normalnu spljoštenost, onda drugi Pirsonov koeficijent uzima vrednost?",
+    "options": {
+      "a": "β₂ = 0",
+      "b": "β₂ = 3",
+      "c": "β₂ = N(0,1)",
+      "d": "β₂ = 1",
+      "e": "Ne znam"
+    },
+    "answer": "b"
   }
 ]
