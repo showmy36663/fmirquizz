@@ -3820,7 +3820,7 @@
       },
       {
         "text": "b. P{τ ≤ zα / H0} = α",
-        "correct": true
+        "correct": false
       },
       {
         "text": "c. P{τ > zα / H1} = α",
@@ -3828,7 +3828,7 @@
       },
       {
         "text": "d. P{τ < zα / H0} = α",
-        "correct": false
+        "correct": true
       }
     ]
   },
