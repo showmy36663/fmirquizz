@@ -2820,7 +2820,7 @@
     "options": [
       {
         "text": "a. nepristrasna ocena varijanse populacije",
-        "correct": true
+        "correct": false
       },
       {
         "text": "b. pozitivno pristrasna ocena varijanse populacije",
@@ -2828,7 +2828,7 @@
       },
       {
         "text": "c. negativno pristrasna ocena varijanse populacije",
-        "correct": false
+        "correct": true
       },
       {
         "text": "d. nijedno od navedenog",
